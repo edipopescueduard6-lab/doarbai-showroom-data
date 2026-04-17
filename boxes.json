@@ -542,47 +542,123 @@
     "heroImage": "/images/showroom/boxa7-radix.jpg",
     "video": "/videos/boxa7-radix.mp4",
     "color": "#8B5E3C",
-    "productCount": 10,
+    "productCount": 29,
     "productPositions": [
       {
-        "productId": "prod-24277",
-        "label": "NEREA – set mobilier de baie din lemn ma"
-      },
-      {
-        "productId": "prod-24195",
-        "label": "ALLIA – set mobilier de baie din lemn ma"
-      },
-      {
-        "productId": "prod-24238",
-        "label": "SOLIS – set mobilier de baie din lemn ma"
-      },
-      {
-        "productId": "prod-23898",
-        "label": "Lavoar freestanding LUNA 450x450x850 din"
-      },
-      {
-        "productId": "prod-23913",
-        "label": "Lavoar freestanding OZIA 420x420x900 din"
-      },
-      {
-        "productId": "prod-26442",
-        "label": "Baterie lavoar 110 CoolStart, ventil pop"
-      },
-      {
-        "productId": "prod-26417",
-        "label": "Baterie lavoar Hansgrohe Tecturis S"
-      },
-      {
-        "productId": "prod-24557",
-        "label": "Faianta portelanata Eik Canne Almond R 6"
-      },
-      {
         "productId": "prod-24566",
-        "label": "Gresie portelanata Calacatta Gold 60×120"
+        "label": "Gresie portelanata Calacatta Gold 60x120 aspect marmura"
       },
       {
-        "productId": "prod-24349",
-        "label": "Mozaic marmura handmade 333x303"
+        "productId": "prod-26414",
+        "label": "Baterie lavoar, monocomanda,110 Fine CoolStart, cu ventil, H"
+      },
+      {
+        "productId": "prod-27068",
+        "label": "Baterie lavoar Hansgrohe Vivenis bronz periat CoolStart"
+      },
+      {
+        "productId": "prod-27052",
+        "label": "Set dus Hansgrohe Raindance Alive Q bronz periat cu termosta"
+      },
+      {
+        "productId": "prod-27084",
+        "label": "Baterie lavoar Hansgrohe Tecturis E bronz periat CoolStart"
+      },
+      {
+        "productId": "prod-25845",
+        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
+      },
+      {
+        "productId": "prod-25915",
+        "label": "Sistem dus ESCUDO cu palarie inox 250x250 mm"
+      },
+      {
+        "productId": "prod-26353",
+        "label": "Agatatoare prosop baie aurie montaj perete"
+      },
+      {
+        "productId": "prod-25955",
+        "label": "Difuzor parfum ambient din cristal auriu 8 cm, Havona"
+      },
+      {
+        "productId": "prod-24129",
+        "label": "Dispenser automat SERENE alb marmorat cu accente aurii."
+      },
+      {
+        "productId": "prod-26103",
+        "label": "Pahar baie din cristal auriu model diamant, 9 cm, Havona"
+      },
+      {
+        "productId": "prod-25992",
+        "label": "Sapuniera baie cristal auriu design diamant 12.6 cm"
+      },
+      {
+        "productId": "prod-26012",
+        "label": "Suport periute dinti cristal auriu 4 compartimente 22 cm"
+      },
+      {
+        "productId": "prod-26339",
+        "label": "Suport prosop baie auriu montaj perete"
+      },
+      {
+        "productId": "prod-26349",
+        "label": "Suport prosop baie auriu montaj perete"
+      },
+      {
+        "productId": "prod-26146",
+        "label": "Suport prosop baie auriu raft perete"
+      },
+      {
+        "productId": "prod-26066",
+        "label": "Tava organizare baie cristal auriu design diamant"
+      },
+      {
+        "productId": "prod-27345",
+        "label": "Cada freestanding LUNA Havona 1700x740x560 din compozit"
+      },
+      {
+        "productId": "prod-28206",
+        "label": "Oglinda baie Brunelleschi LED touch, luminare perimetrala"
+      },
+      {
+        "productId": "prod-28217",
+        "label": "Baza dulap baie Lyra 80 cm verde 2 sertare cannettato"
+      },
+      {
+        "productId": "prod-28224",
+        "label": "Coloana baie Lyra 34x139 cm universala montaj pe perete"
+      },
+      {
+        "productId": "prod-28220",
+        "label": "Lavoar blat integrat negru mat 81 cm pentru mobilier baie"
+      },
+      {
+        "productId": "prod-25454",
+        "label": "Cadita dus patrata 90x90 marmura sintetica LIVADA"
+      },
+      {
+        "productId": "prod-25471",
+        "label": "Paravan dus walk in 90 cm Parsol gri 20 profil alb mat"
+      },
+      {
+        "productId": "prod-25468",
+        "label": "Paravan dus walk in 90 cm sticla 8 mm Decor Crom 67"
+      },
+      {
+        "productId": "prod-25446",
+        "label": "Cadita dus patrata 90x90 Mineralite DUNE slim"
+      },
+      {
+        "productId": "prod-26817",
+        "label": "Set WC complet, cu vas WC, cadru vas ingropat, capac, placa "
+      },
+      {
+        "productId": "prod-27087",
+        "label": "Difuzor parfum Oud Supremo Class premium cu betisoare"
+      },
+      {
+        "productId": "prod-28274",
+        "label": "Accesoriu paravan dus Ronal KASF2 06 negru mat cu rafturi"
       }
     ]
   },
