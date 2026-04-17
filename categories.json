@@ -1,0 +1,8 @@
+[
+  { "id": "cat-obiecte-sanitare", "name": "Obiecte Sanitare", "icon": "bathtub", "count": 140 },
+  { "id": "cat-baterii", "name": "Baterii Baie", "icon": "faucet", "count": 82 },
+  { "id": "cat-mobilier", "name": "Mobilier Baie", "icon": "cabinet", "count": 61 },
+  { "id": "cat-cazi", "name": "Cazi Baie", "icon": "bathtub", "count": 79 },
+  { "id": "cat-zona-dus", "name": "Zona de Dus", "icon": "shower", "count": 98 },
+  { "id": "cat-accesorii", "name": "Accesorii & Instalatii", "icon": "accessories", "count": 112 }
+]

@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "box-obiecte-sanitare",
+    "name": "Lumiere",
+    "video": "/videos/box1-lumiere.mp4",
+    "subtitle": "Lavoare, vase WC, bideuri",
+    "description": "Gama completa de obiecte sanitare pentru baia ta: lavoare suspendate si pe blat, vase WC rimless, bideuri si capace soft-close de la branduri premium.",
+    "image": "/images/showroom/hero-wall-lumiere.jpg",
+    "heroImage": "/images/showroom/double-sink-topdown.jpg",
+    "color": "#1F5F5B",
+    "productCount": 21,
+    "productPositions": [
+      {
+        "productId": "prod-23830",
+        "label": "Cada freestanding NOBLE ovala 170 cm, ha"
+      },
+      {
+        "productId": "prod-25286",
+        "label": "LINEA by AC – Baterie freestanding cada "
+      },
+      {
+        "productId": "prod-25293",
+        "label": "ED LINEA by AC – Coloana de dus RAME ANT"
+      },
+      {
+        "productId": "prod-24930",
+        "label": "Radiator otel AIDEN 1500 × 350 MRP mirro"
+      },
+      {
+        "productId": "prod-23942",
+        "label": "Lavoar freestanding PURA 500x500x850 din"
+      },
+      {
+        "productId": "prod-26726",
+        "label": "Vas WC SIMAS ceramic"
+      },
+      {
+        "productId": "prod-26737",
+        "label": "Bideu SIMAS ceramic"
+      },
+      {
+        "productId": "prod-24032",
+        "label": "Raft incastrat HAVONA 200x600x140"
+      },
+      {
+        "productId": "prod-23992",
+        "label": "Raft incastrat HAVONA 900 mm pentru depo"
+      },
+      {
+        "productId": "prod-24326",
+        "label": "Placa mozaic decorativ handmade din marm"
+      },
+      {
+        "productId": "prod-23119",
+        "label": "Gresie portelanata Calacatta Classic 600"
+      },
+      {
+        "productId": "prod-24425",
+        "label": "Mozaic marmura handmade 258x300"
+      },
+      {
+        "productId": "prod-25955",
+        "label": "Difuzor parfum ambient din cristal auriu"
+      },
+      {
+        "productId": "prod-25300",
+        "label": "EU LINEA by AC Bongio – Baterie lavoar i"
+      },
+      {
+        "productId": "prod-24665",
+        "label": "Lavoar freestanding SELEN din compozit 4"
+      },
+      {
+        "productId": "prod-26805",
+        "label": "Cadă de duș Fiora ELAX Transversal 80×10"
+      },
+      {
+        "productId": "prod-27385",
+        "label": "Panou dus Fiora Pizarra Bone 80×240 cm"
+      },
+      {
+        "productId": "prod-27399",
+        "label": "Priza ascunsa dubla alba EDPLIT – efect "
+      },
+      {
+        "productId": "prod-27395",
+        "label": "Trapa de acces ascunsa, EDPLIT, universa"
+      },
+      {
+        "productId": "prod-26730",
+        "label": "Capac WC SIMAS soft close"
+      },
+      {
+        "productId": "prod-27461",
+        "label": "Sistem ascuns buton WC faiantabil in spa"
+      }
+    ]
+  },
+  {
+    "id": "box-baterii",
+    "name": "Levia",
+    "video": "/videos/box2-levia.mp4",
+    "subtitle": "Baterii lavoar, cada, dus",
+    "description": "Baterii si robinete de calitate superioara: monocomanda, termostatate, cu finisaje cromate, negru mat sau aurii. Branduri: Ideal Standard, Havona, Villeroy & Boch.",
+    "image": "/images/showroom/boxa2-baterii.jpg",
+    "heroImage": "/images/showroom/smart-mirror-controls.jpg",
+    "color": "#3D3D3D",
+    "productCount": 25,
+    "productPositions": [
+      {
+        "productId": "prod-23362",
+        "label": "Cada Freestanding V&B Antao 170x75"
+      },
+      {
+        "productId": "prod-24899",
+        "label": "Radiator Alveole mirror polished"
+      },
+      {
+        "productId": "prod-24275",
+        "label": "Harmonia set mobilier 1200"
+      },
+      {
+        "productId": "prod-21372",
+        "label": "Baterie cada Antao pardoseala"
+      },
+      {
+        "productId": "prod-21384",
+        "label": "Baterie lavoar Antao Brushed Nickel"
+      },
+      {
+        "productId": "prod-21365",
+        "label": "Set dus termostat Verve"
+      },
+      {
+        "productId": "prod-23325",
+        "label": "Lavoar Antao Morning Green"
+      },
+      {
+        "productId": "prod-21312",
+        "label": "Capac WC Antao Morning Green"
+      },
+      {
+        "productId": "prod-25426",
+        "label": "Oglinda LED Savini Due"
+      },
+      {
+        "productId": "prod-21393",
+        "label": "Baterie lavoar AquaSmart Skyla"
+      },
+      {
+        "productId": "prod-21355",
+        "label": "Baterie bideu Skyla"
+      },
+      {
+        "productId": "prod-21269",
+        "label": "Dus de mana Verve Showers"
+      },
+      {
+        "productId": "prod-21331",
+        "label": "Clapeta 300S ViConnect"
+      },
+      {
+        "productId": "prod-24562",
+        "label": "Gresie Onyx Emerald 120x120"
+      },
+      {
+        "productId": "prod-21325",
+        "label": "Clapeta ViConnect alb/crom"
+      },
+      {
+        "productId": "prod-24771",
+        "label": "Tava cada bambus"
+      },
+      {
+        "productId": "prod-24171",
+        "label": "Dispenser LUXA cupru antichizat"
+      },
+      {
+        "productId": "prod-24948",
+        "label": "Radiator aluminiu AJAX 450 × 600 MAB"
+      },
+      {
+        "productId": "prod-25934",
+        "label": "Set 6 accesorii baie, gri-ash, cristal, "
+      },
+      {
+        "productId": "prod-25986",
+        "label": "Antao dulap baie suspendat cu iluminare "
+      },
+      {
+        "productId": "prod-27080",
+        "label": "Baterie lavoar 3 orificii Hansgrohe Tect"
+      },
+      {
+        "productId": "prod-26098",
+        "label": "Squaro Infinity cadita dus 1000×750 Morn"
+      },
+      {
+        "productId": "prod-21220",
+        "label": "Set vas wc suspendat Venticello Villeroy"
+      },
+      {
+        "productId": "prod-21215",
+        "label": "Bideu suspendat Villeroy&Boch Venticello"
+      },
+      {
+        "productId": "prod-26086",
+        "label": "Antao WC suspendat TwistFlush Morning Gr"
+      }
+    ]
+  },
+  {
+    "id": "box-mobilier",
+    "name": "Contrasto",
+    "subtitle": "Havona, Revigrés",
+    "description": "Boxa Coral Noir prezinta piese hand-made Havona din compozit — cada si lavoar freestanding ORCHID si TERA — completate de gresie decorativa Revigrés in format brick 7×29 cm.",
+    "image": "/images/showroom/boxa3-mobilier.jpg",
+    "video": "/videos/box3-contrasto.mp4",
+    "heroImage": "/images/showroom/detail-vanity-full.jpg",
+    "color": "#8B7355",
+    "productCount": 14,
+    "productPositions": [
+      {
+        "productId": "prod-23859",
+        "label": "Cada ORCHID freestanding"
+      },
+      {
+        "productId": "prod-23867",
+        "label": "Cada TERA freestanding"
+      },
+      {
+        "productId": "prod-23903",
+        "label": "Lavoar TERA freestanding"
+      },
+      {
+        "productId": "prod-23940",
+        "label": "Lavoar ORCHID freestanding"
+      },
+      {
+        "productId": "prod-24878",
+        "label": "Radiator MAGNUS F 1600x500 negru"
+      },
+      {
+        "productId": "prod-26013",
+        "label": "Baterie cada freestanding Havona"
+      },
+      {
+        "productId": "prod-25998",
+        "label": "Baterie lavoar freestanding Havona"
+      },
+      {
+        "productId": "prod-25960",
+        "label": "Baterie cada montaj tavan Havona"
+      },
+      {
+        "productId": "prod-25784",
+        "label": "Baterie lavoar incastrata Havona"
+      },
+      {
+        "productId": "prod-19922",
+        "label": "Vas WC Tesi AquaBlade"
+      },
+      {
+        "productId": "prod-22813",
+        "label": "Set instalare WC ProSys ECO M"
+      },
+      {
+        "productId": "prod-22680",
+        "label": "Capac WC Tesi slim soft-close"
+      },
+      {
+        "productId": "prod-23125",
+        "label": "Gresie Terracotta Mat 7×29"
+      },
+      {
+        "productId": "prod-23129",
+        "label": "Gresie Alb Lucios 7×29"
+      }
+    ]
+  },
+  {
+    "id": "box-cazi",
+    "name": "Icona",
+    "video": "/videos/box4-icona.mp4",
+    "subtitle": "Acquabella, Havona, Quiz",
+    "description": "Boxa Cristalul reuneste piese premium Acquabella si Havona: cada freestanding Opal Quiz Terracotta, cada back-to-wall, lavoare de blat, dulap suspendat Quiz, cadita de dus Smart Quiz, panel decorativ si raft incastrat.",
+    "image": "/images/showroom/hero-icona.jpg",
+    "heroImage": "/images/showroom/hero-bathtub-wide.jpg",
+    "color": "#B8860B",
+    "productCount": 21,
+    "productPositions": [
+      {
+        "productId": "prod-20306",
+        "label": "Cada freestanding Opal Quiz Terracotta"
+      },
+      {
+        "productId": "prod-23358",
+        "label": "Cada back-to-wall BT 0564"
+      },
+      {
+        "productId": "prod-24601",
+        "label": "Dulap suspendat Quiz Cappuccino"
+      },
+      {
+        "productId": "prod-24628",
+        "label": "Panel decorativ Quiz XL Cappuccino 80x250"
+      },
+      {
+        "productId": "prod-24631",
+        "label": "Panel decorativ Muretto Loft Cappuccino 120x250"
+      },
+      {
+        "productId": "prod-23330",
+        "label": "Cadita dus Smart Quiz 120x80"
+      },
+      {
+        "productId": "prod-24621",
+        "label": "Panel decorativ Basic Nude Cappuccino"
+      },
+      {
+        "productId": "prod-24625",
+        "label": "Panel decorativ Basic Arraba Cappuccino 80x250"
+      },
+      {
+        "productId": "prod-24624",
+        "label": "Panel decorativ Basic Slate Cappuccino 80x250"
+      },
+      {
+        "productId": "prod-24604",
+        "label": "Panel decorativ Cappuccino 80x250"
+      },
+      {
+        "productId": "prod-20309",
+        "label": "Lavoar On-top Burgundy"
+      },
+      {
+        "productId": "prod-25654",
+        "label": "Sistem dus incastrat antracit Havona"
+      },
+      {
+        "productId": "prod-25675",
+        "label": "Baterie lavoar incastrata antracit Havona"
+      },
+      {
+        "productId": "prod-22009",
+        "label": "Lavoar oval WB 0564 560C"
+      },
+      {
+        "productId": "prod-20312",
+        "label": "Oglinda rotunda Akron Slate 80"
+      },
+      {
+        "productId": "prod-24761",
+        "label": "Raft incastrat 300x900x100"
+      },
+      {
+        "productId": "prod-25644",
+        "label": "Baterie lavoar inalta antracit Havona"
+      },
+      {
+        "productId": "prod-24551",
+        "label": "Gresie Cera Scaglie Incenso 60x120"
+      },
+      {
+        "productId": "prod-25744",
+        "label": "Gresie Travertino Sand Revigres"
+      },
+      {
+        "productId": "prod-25837",
+        "label": "Gresie portelanata Limestone Mist 60x60"
+      },
+      {
+        "productId": "prod-23229",
+        "label": "Lavoar oval pe blat WB 0564"
+      }
+    ]
+  },
+  {
+    "id": "box-zona-dus",
+    "name": "Azurite",
+    "video": "/videos/box5-azurite.mp4",
+    "subtitle": "Havona, Acquabella, Revigres",
+    "description": "Boxa Splash! prezinta piese unice hand-made Havona si Acquabella: cada freestanding Eden, lavoar freestanding, oglinda din rasina, mozaic marmura, cadita dus Arabba Forest, panel decorativ si radiator NEO.",
+    "image": "/images/showroom/boxa5-azurite.jpg",
+    "heroImage": "/images/showroom/hero-teal-setup.jpg",
+    "color": "#556B2F",
+    "productCount": 15,
+    "productPositions": [
+      {
+        "productId": "prod-23849",
+        "label": "Cada freestanding Eden"
+      },
+      {
+        "productId": "prod-26745",
+        "label": "Baterie cada freestanding Bowling Nero Opaco cu set dus – finisaj Otone Burattato"
+      },
+      {
+        "productId": "prod-26756",
+        "label": "Coloana dus Bowling Nero Opaco cu finisaj Otone Burattato"
+      },
+      {
+        "productId": "prod-23931",
+        "label": "Lavoar freestanding Eden"
+      },
+      {
+        "productId": "prod-24972",
+        "label": "Radiator NEO 580x410"
+      },
+      {
+        "productId": "prod-24609",
+        "label": "Cadita dus Arabba Forest"
+      },
+      {
+        "productId": "prod-24611",
+        "label": "Panel decorativ Arabba"
+      },
+      {
+        "productId": "prod-25270",
+        "label": "Baterie bideu BOWLING Bongio"
+      },
+      {
+        "productId": "prod-26481",
+        "label": "Vas WC stativ capac soft-close"
+      },
+      {
+        "productId": "prod-25725",
+        "label": "Bideu stativ 55 cm"
+      },
+      {
+        "productId": "prod-23982",
+        "label": "Nisa HAVONA 600x300x140"
+      },
+      {
+        "productId": "prod-24295",
+        "label": "Oglinda Havona Hydra Splash"
+      },
+      {
+        "productId": "prod-23119",
+        "label": "Gresie Calacatta 600x1200"
+      },
+      {
+        "productId": "prod-24343",
+        "label": "Mozaic marmura 316x316"
+      },
+      {
+        "productId": "prod-24376",
+        "label": "Mozaic marmura bej solzi"
+      }
+    ]
+  },
+  {
+    "id": "box-accesorii",
+    "name": "Nexum",
+    "video": "/videos/box6-nexum.mp4",
+    "subtitle": "Accesorii baie, rezervoare, sifoane",
+    "description": "Accesorii de baie si componente de instalare: suporturi prosoape, dozatoare, sifoane, rezervoare WC incastrate, clapete de actionare si rame de instalare.",
+    "image": "/images/showroom/boxa6-nexum.jpg",
+    "heroImage": "/images/showroom/boxa6-nexum.jpg",
+    "color": "#6B5B73",
+    "productCount": 6,
+    "productPositions": [
+      {
+        "productId": "prod-20932",
+        "x": 22,
+        "y": 30,
+        "label": "Coloana de dus"
+      },
+      {
+        "productId": "prod-24693",
+        "x": 55,
+        "y": 25,
+        "label": "Clapeta WC TECE"
+      },
+      {
+        "productId": "prod-24707",
+        "x": 78,
+        "y": 35,
+        "label": "Clapetă WC TECE"
+      },
+      {
+        "productId": "prod-22664",
+        "x": 25,
+        "y": 65,
+        "label": "Cot de iesire"
+      },
+      {
+        "productId": "prod-24175",
+        "x": 52,
+        "y": 60,
+        "label": "Dispenser automat .."
+      },
+      {
+        "productId": "prod-24153",
+        "x": 75,
+        "y": 68,
+        "label": "Dispenser automat .."
+      }
+    ]
+  },
+  {
+    "id": "box-showroom-demo",
+    "name": "Radix",
+    "subtitle": "Havona, Tagina, mobilier lemn masiv",
+    "description": "Boxa Smarald & Cristal prezinta seturi de mobilier din lemn masiv unicat (SOLIS, ALLIA, NEREA), gresie Calacatta Gold, faianta Eik Canne Almond, mozaic marmura handmade si lavoare freestanding OZIA si LUNA.",
+    "image": "/images/showroom/boxa7-radix.jpg",
+    "heroImage": "/images/showroom/boxa7-radix.jpg",
+    "video": "/videos/boxa7-radix.mp4",
+    "color": "#8B5E3C",
+    "productCount": 10,
+    "productPositions": [
+      {
+        "productId": "prod-24277",
+        "label": "NEREA – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-24195",
+        "label": "ALLIA – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-24238",
+        "label": "SOLIS – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-23898",
+        "label": "Lavoar freestanding LUNA 450x450x850 din"
+      },
+      {
+        "productId": "prod-23913",
+        "label": "Lavoar freestanding OZIA 420x420x900 din"
+      },
+      {
+        "productId": "prod-26442",
+        "label": "Baterie lavoar 110 CoolStart, ventil pop"
+      },
+      {
+        "productId": "prod-26417",
+        "label": "Baterie lavoar Hansgrohe Tecturis S"
+      },
+      {
+        "productId": "prod-24557",
+        "label": "Faianta portelanata Eik Canne Almond R 6"
+      },
+      {
+        "productId": "prod-24566",
+        "label": "Gresie portelanata Calacatta Gold 60×120"
+      },
+      {
+        "productId": "prod-24349",
+        "label": "Mozaic marmura handmade 333x303"
+      }
+    ]
+  },
+  {
+    "id": "box-8",
+    "name": "Atlas",
+    "subtitle": "Ideal Standard, Villeroy & Boch, Havona",
+    "description": "Receptia combina eleganta Villeroy & Boch cu functionalitatea Ideal Standard: cada Oberon, coloana dus Alu+ negru si rose, set accesorii rose, baterii Cerafine, mobilier lemn masiv ORION si VERTEX, lavoar LUNA si gresie Flake White.",
+    "image": "/images/showroom/boxa8-atlas-new.jpg",
+    "heroImage": "/images/showroom/boxa8-atlas-new.jpg",
+    "video": "/videos/boxa8-atlas.mp4",
+    "color": "#4A6E8C",
+    "productCount": 16,
+    "productPositions": [
+      {
+        "productId": "prod-24221",
+        "label": "ORION – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-24242",
+        "label": "VERTEX – set mobilier de baie din lemn m"
+      },
+      {
+        "productId": "prod-21409",
+        "label": "Baterie lavoar inalta Villeroy & Boch ve"
+      },
+      {
+        "productId": "prod-25300",
+        "label": "EU LINEA by AC Bongio – Baterie lavoar i"
+      },
+      {
+        "productId": "prod-23338",
+        "label": "Lavoar tip bol Villeroy & Boch Artis 61x"
+      },
+      {
+        "productId": "prod-23311",
+        "label": "Cada iuncastrabila Villeroy & Boch Obero"
+      },
+      {
+        "productId": "prod-23898",
+        "label": "Lavoar freestanding LUNA 450x450x850 din"
+      },
+      {
+        "productId": "prod-20924",
+        "label": "Coloana dus cu baterie si termostat Idea"
+      },
+      {
+        "productId": "prod-20932",
+        "label": "Coloana de dus Ideal Standard Alu+, negr"
+      },
+      {
+        "productId": "prod-21011",
+        "label": "Set accesorii pentru lavoar Ideal Standa"
+      },
+      {
+        "productId": "prod-20062",
+        "label": "Baterie lavoar negru mat Ideal Standard "
+      },
+      {
+        "productId": "prod-24543",
+        "label": "Gresie Flake White Medium Soft R 60x60"
+      },
+      {
+        "productId": "prod-24117",
+        "label": "Dispenser automat Colectia SERENE, bronz"
+      },
+      {
+        "productId": "prod-24141",
+        "label": "Dispenser automat Colectia SERENE, roz p"
+      },
+      {
+        "productId": "prod-24153",
+        "label": "Dispenser automat Colectia SERENE portel"
+      },
+      {
+        "productId": "prod-24121",
+        "label": "Dispenser automat Colectia SERENE, negru"
+      }
+    ]
+  },
+  {
+    "id": "box-9",
+    "name": "Vivere",
+    "subtitle": "Havona, Carisa, mobilier lemn masiv",
+    "description": "Boxa Ambar reuneste seturi de mobilier din lemn masiv unicat (VELLA, IMPERIA, ELVO, ILLUMA, ALERA), radiatoare designer Carisa (OTTO SINGLE si DANTE), nisa Havona si gresie EIK Leaf Natural.",
+    "image": "/images/showroom/boxa8-atlas.jpg",
+    "heroImage": "/images/showroom/boxa8-atlas.jpg",
+    "video": "/videos/boxa9-vivere.mp4",
+    "color": "#7C5E4A",
+    "productCount": 19,
+    "productPositions": [
+      {
+        "productId": "prod-24265",
+        "label": "IMPERIA set mobilier frasin 1500 unicat"
+      },
+      {
+        "productId": "prod-26312",
+        "label": "HERA baterie cada freestanding montaj pardoseala"
+      },
+      {
+        "productId": "prod-24293",
+        "label": "ILLUMA set mobilier lemn masiv 1500"
+      },
+      {
+        "productId": "prod-24200",
+        "label": "VELLA set mobilier nuc 900"
+      },
+      {
+        "productId": "prod-26115",
+        "label": "Sistem dus CLASSICO chrome palarie 200 mm"
+      },
+      {
+        "productId": "prod-24273",
+        "label": "ALERA set mobilier lemn masiv 800"
+      },
+      {
+        "productId": "prod-24282",
+        "label": "ELVO set mobilier lemn masiv 800"
+      },
+      {
+        "productId": "prod-24982",
+        "label": "Radiator otel FELIX 1200x300 MRP"
+      },
+      {
+        "productId": "prod-24939",
+        "label": "Radiator otel DANTE 1500x32 negru"
+      },
+      {
+        "productId": "prod-24902",
+        "label": "Radiator otel OTTO SINGLE 1800x75 TXC"
+      },
+      {
+        "productId": "prod-25958",
+        "label": "RETRO baterie lavoar cu pipa rotativa"
+      },
+      {
+        "productId": "prod-26165",
+        "label": "ELO baterie lavoar inalta cu ventil pop-up"
+      },
+      {
+        "productId": "prod-25968",
+        "label": "RETRO baterie bideu cu ventil automat"
+      },
+      {
+        "productId": "prod-24035",
+        "label": "Nisa depozitare incastrata HAVONA"
+      },
+      {
+        "productId": "prod-25642",
+        "label": "Vas WC stativ alb capac soft close"
+      },
+      {
+        "productId": "prod-25845",
+        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
+      },
+      {
+        "productId": "prod-24177",
+        "label": "Dispenser automat NERO alb vene aurii"
+      },
+      {
+        "productId": "prod-24537",
+        "label": "Gresie portelanata EIK Leaf Natural R 60x60"
+      },
+      {
+        "productId": "prod-24125",
+        "label": "Dispenser automat SERENE alb marmorat aurii"
+      },
+      {
+        "productId": "prod-23822",
+        "label": "Cada freestanding VALORIA ovala 175 cm"
+      }
+    ]
+  },
+  {
+    "id": "box-10",
+    "name": "Pulsar",
+    "subtitle": "Carisa, Havona, mobilier lemn masiv",
+    "description": "Boxa Portalul combina radiatoare designer Carisa (ENTREE aluminiu si BOREAS cu oglinda), cada freestanding SOLIN hand-made, mobilier lemn masiv BOREAL si ZENON, si gresie Cityzen Carbon industrial.",
+    "image": "/images/showroom/boxa8-vivere.jpg",
+    "heroImage": "/images/showroom/boxa8-vivere.jpg",
+    "video": "/videos/boxa10-pulsar.mp4",
+    "color": "#5B7A5E",
+    "productCount": 13,
+    "productPositions": [
+      {
+        "productId": "prod-24223",
+        "label": "ZENON set mobilier lemn masiv 1700"
+      },
+      {
+        "productId": "prod-23870",
+        "label": "Cada freestanding SOLIN 1700x740x550"
+      },
+      {
+        "productId": "prod-24190",
+        "label": "BOREAL set mobilier lemn masiv unicat"
+      },
+      {
+        "productId": "prod-23798",
+        "label": "Cada freestanding SOMA ovala 170 cm"
+      },
+      {
+        "productId": "prod-24940",
+        "label": "Radiator otel BOREAS B MIRROR 1800x369 negru"
+      },
+      {
+        "productId": "prod-24955",
+        "label": "Radiator aluminiu ENTREE 1800x470 TXC"
+      },
+      {
+        "productId": "prod-23936",
+        "label": "Lavoar freestanding SOLIN 400x400x850"
+      },
+      {
+        "productId": "prod-25595",
+        "label": "Sistem dus Bruma palarie 250 mm"
+      },
+      {
+        "productId": "prod-25584",
+        "label": "Baterie cada freestanding Bruma BREEZE"
+      },
+      {
+        "productId": "prod-23934",
+        "label": "Lavoar freestanding SOMA 400x400x850"
+      },
+      {
+        "productId": "prod-25573",
+        "label": "Baterie lavoar Bruma BREEZE ventil Sunset"
+      },
+      {
+        "productId": "prod-24774",
+        "label": "Tava bambus pentru cada cu suport carte"
+      },
+      {
+        "productId": "prod-23127",
+        "label": "Gresie Cityzen Carbon Mat 60x60"
+      }
+    ]
+  },
+  {
+    "id": "box-11",
+    "name": "Aureo",
+    "subtitle": "",
+    "description": "",
+    "image": "/images/showroom/boxa9-pulsar.jpg",
+    "heroImage": "/images/showroom/boxa9-pulsar.jpg",
+    "video": "/videos/boxa11-aureo.mp4",
+    "color": "#8C6A7A",
+    "productCount": 21,
+    "productPositions": [
+      {
+        "productId": "prod-24210",
+        "label": "ELYSSIUM set mobilier lemn masiv 2000"
+      },
+      {
+        "productId": "prod-24183",
+        "label": "ARVIA set mobilier lemn frasin 1600"
+      },
+      {
+        "productId": "prod-23843",
+        "label": "Cada freestanding VERA 1700x800x700"
+      },
+      {
+        "productId": "prod-23810",
+        "label": "Cada freestanding ISLA ovala 170 cm"
+      },
+      {
+        "productId": "prod-23805",
+        "label": "Cada freestanding SILVA ovala 170 cm"
+      },
+      {
+        "productId": "prod-23840",
+        "label": "Cada freestanding AYRA 1800x800x800"
+      },
+      {
+        "productId": "prod-24229",
+        "label": "REGALIS set mobilier lemn masiv 1380"
+      },
+      {
+        "productId": "prod-24226",
+        "label": "LAGUNA set baie lavoar freestanding + polita + oglinda"
+      },
+      {
+        "productId": "prod-24979",
+        "label": "Radiator otel BOREAS FLAT MIRROR 1200x400 negru"
+      },
+      {
+        "productId": "prod-24955",
+        "label": "Radiator aluminiu ENTREE 1800x470 TXC"
+      },
+      {
+        "productId": "prod-26213",
+        "label": "Vas WC Hansgrohe suspendat EluPura S"
+      },
+      {
+        "productId": "prod-26330",
+        "label": "Palarie de dus fixa 260 alb mat Hansgrohe Pulsify"
+      },
+      {
+        "productId": "prod-26034",
+        "label": "Baterie incastrata 2 consumatori alb mat DuoTurn S"
+      },
+      {
+        "productId": "prod-26063",
+        "label": "Cot racord dus FixFit S alb mat Hansgrohe"
+      },
+      {
+        "productId": "prod-26073",
+        "label": "Para de dus EcoSmart+ alb mat Hansgrohe Pulsify E"
+      },
+      {
+        "productId": "prod-26006",
+        "label": "Clapeta actionare alb Hansgrohe iFrame Original Q"
+      },
+      {
+        "productId": "prod-26087",
+        "label": "Furtun de dus 200 cm alb mat Hansgrohe"
+      },
+      {
+        "productId": "prod-25877",
+        "label": "Gresie portelanata Di Alba Stone Grey 60x60"
+      },
+      {
+        "productId": "prod-24119",
+        "label": "Dispenser automat SERENE maro marmorat"
+      },
+      {
+        "productId": "prod-24134",
+        "label": "Dispenser automat SERENE carbon look"
+      },
+      {
+        "productId": "prod-24370",
+        "label": "Placa mozaic marmura handmade 297x256"
+      }
+    ]
+  },
+  {
+    "id": "box-12",
+    "name": "Aeternum",
+    "subtitle": "",
+    "description": "",
+    "image": "/images/showroom/box-aeternum.jpg",
+    "heroImage": "/images/showroom/box-aeternum.jpg",
+    "color": "#4A3F5C",
+    "productCount": 34,
+    "productPositions": [
+      {
+        "productId": "prod-19996",
+        "label": "Clapeta actionare WC Ideal Standard Oleas – alb"
+      },
+      {
+        "productId": "prod-20009",
+        "label": "Clapeta Oleas M3 Ideal Standard dual-flush – crom"
+      },
+      {
+        "productId": "prod-20054",
+        "label": "Clapeta actionare dubla Ideal Standard Oleas M3 – crom mat"
+      },
+      {
+        "productId": "prod-20058",
+        "label": "Clapeta actionare WC Ideal Standard – crom lucios"
+      },
+      {
+        "productId": "prod-21325",
+        "label": "Clapeta Villeroy & Boch ViConnect, alb/crom"
+      },
+      {
+        "productId": "prod-21331",
+        "label": "Clapeta 300S Villeroy & Boch ViConnect, alb/crom mat"
+      },
+      {
+        "productId": "prod-23132",
+        "label": "Clapeta actionare Ideal Standard Oleas M5 alb"
+      },
+      {
+        "productId": "prod-24676",
+        "label": "Clapeta WC TECE Solid negru mat"
+      },
+      {
+        "productId": "prod-24681",
+        "label": "Clapeta WC TECE Solid alama periata"
+      },
+      {
+        "productId": "prod-24684",
+        "label": "Clapeta WC TECE Solid alb mat"
+      },
+      {
+        "productId": "prod-24687",
+        "label": "Clapeta WC TECE Solid otel inoxidabil periat"
+      },
+      {
+        "productId": "prod-24693",
+        "label": "Clapeta WC TECE Now alama metalica"
+      },
+      {
+        "productId": "prod-24701",
+        "label": "Clapeta WC TECE Now bronz rosu metalic"
+      },
+      {
+        "productId": "prod-24704",
+        "label": "Clapeta WC TECE Now negru mat"
+      },
+      {
+        "productId": "prod-24707",
+        "label": "Clapeta WC TECE Now crom mat"
+      },
+      {
+        "productId": "prod-24710",
+        "label": "Clapeta WC TECE Now alb mat"
+      },
+      {
+        "productId": "prod-24713",
+        "label": "Clapeta WC TECE Loop alama metalica"
+      },
+      {
+        "productId": "prod-24716",
+        "label": "Clapeta WC TECE Loop bronz rosu metalic"
+      },
+      {
+        "productId": "prod-24719",
+        "label": "Clapeta WC TECE Loop negru mat"
+      },
+      {
+        "productId": "prod-24722",
+        "label": "Clapeta actionare WC TECE Loop cromat lucios"
+      },
+      {
+        "productId": "prod-24725",
+        "label": "Clapeta actionare WC TECE Loop crom mat"
+      },
+      {
+        "productId": "prod-24728",
+        "label": "Clapeta actionare TECE Loop alb mat"
+      },
+      {
+        "productId": "prod-25976",
+        "label": "Clapeta Hansgrohe iFrame Original Q negru mat"
+      },
+      {
+        "productId": "prod-25993",
+        "label": "Clapeta Hansgrohe iFrame Original Q crom"
+      },
+      {
+        "productId": "prod-26006",
+        "label": "Clapeta Hansgrohe iFrame Original Q alb"
+      },
+      {
+        "productId": "prod-26129",
+        "label": "Clapeta Hansgrohe iFrame Original S crom"
+      },
+      {
+        "productId": "prod-26173",
+        "label": "Clapeta Hansgrohe iFrame Original S negru mat"
+      },
+      {
+        "productId": "prod-26189",
+        "label": "Clapeta Hansgrohe iFrame Original S alb"
+      },
+      {
+        "productId": "prod-26197",
+        "label": "Clapeta Hansgrohe iFrame Element E crom"
+      },
+      {
+        "productId": "prod-26263",
+        "label": "Clapeta Hansgrohe iFrame Element E negru mat"
+      },
+      {
+        "productId": "prod-26268",
+        "label": "Clapeta Hansgrohe iFrame Element E brushed bronze"
+      },
+      {
+        "productId": "prod-26471",
+        "label": "Clapeta Hansgrohe iFrame Element E crom"
+      },
+      {
+        "productId": "prod-26498",
+        "label": "Clapeta actionare WC dual flush inox"
+      },
+      {
+        "productId": "prod-26505",
+        "label": "Clapeta actionare WC dual flush alb"
+      }
+    ]
+  },
+  {
+    "id": "island-1",
+    "type": "island",
+    "name": "Havona Origins",
+    "subtitle": "Categorie in curand",
+    "description": "Piese create manual, acolo unde incepe povestea HAVONA",
+    "image": "/images/showroom/island-havona-origins.jpg",
+    "heroImage": "/images/showroom/island-havona-origins.jpg",
+    "video": null,
+    "color": "#A68A5B",
+    "productCount": 13,
+    "productPositions": [
+      {
+        "productId": "prod-23794",
+        "label": "Cada freestanding UNICA ovala 180 cm"
+      },
+      {
+        "productId": "prod-23846",
+        "label": "Cada freestanding VELA 1800x800x550"
+      },
+      {
+        "productId": "prod-23828",
+        "label": "Cada freestanding RIVA ovala 170 cm"
+      },
+      {
+        "productId": "prod-23863",
+        "label": "Cada freestanding MARVOLO 1700x800x700"
+      },
+      {
+        "productId": "prod-23812",
+        "label": "Cada freestanding FLUVIA ovala 170 cm"
+      },
+      {
+        "productId": "prod-25385",
+        "label": "Cada freestanding ARIA 1700x800x550"
+      },
+      {
+        "productId": "prod-24090",
+        "label": "Cada baie AQUARELAX 1700x800x580"
+      },
+      {
+        "productId": "prod-24082",
+        "label": "Cada freestanding AQUABALANCE 1700x800x600"
+      },
+      {
+        "productId": "prod-23944",
+        "label": "Lavoar freestanding RUBIN 400x400x850"
+      },
+      {
+        "productId": "prod-23909",
+        "label": "Lavoar freestanding CORALIA 400x400x850"
+      },
+      {
+        "productId": "prod-23889",
+        "label": "Lavoar freestanding ELUVIO 500x450x850"
+      },
+      {
+        "productId": "prod-23894",
+        "label": "Lavoar freestanding ARIA 450x450x900"
+      },
+      {
+        "productId": "prod-23947",
+        "label": "Lavoar freestanding ONDA cu oglinda 1550x560"
+      }
+    ]
+  },
+  {
+    "id": "island-2",
+    "type": "island",
+    "name": "Tessera",
+    "subtitle": "Categorie in curand",
+    "description": "Aici descoperi texturile care vor contura identitatea baii tale.",
+    "image": "/images/showroom/hero-island2-tessera.jpg",
+    "heroImage": "/images/showroom/hero-island2-tessera.jpg",
+    "video": null,
+    "color": "#1F5F5B",
+    "productCount": 7,
+    "productPositions": [
+      {
+        "productId": "prod-23977",
+        "label": "Lavoar freestanding Cascade marmura 430x850"
+      },
+      {
+        "productId": "prod-23979",
+        "label": "Lavoar freestanding MARMEA marmura 430x850"
+      },
+      {
+        "productId": "prod-23891",
+        "label": "Lavoar freestanding AZURO 450x450x900"
+      },
+      {
+        "productId": "prod-23922",
+        "label": "Lavoar freestanding IVORIA 500x430x550"
+      },
+      {
+        "productId": "prod-23907",
+        "label": "Lavoar freestanding RUBORA 500x500x850"
+      },
+      {
+        "productId": "prod-23918",
+        "label": "Lavoar freestanding AZIO 420x420x900"
+      },
+      {
+        "productId": "prod-23929",
+        "label": "Lavoar freestanding SELIA 400x400x850"
+      }
+    ]
+  },
+  {
+    "id": "island-3",
+    "type": "island",
+    "name": "Heritage",
+    "subtitle": "Categorie in curand",
+    "description": "Lemn masiv si materiale selecte pentru spatii de baie cu caracter",
+    "image": "/images/showroom/island-heritage.jpg",
+    "heroImage": "/images/showroom/island-heritage.jpg",
+    "video": null,
+    "color": "#8C6A7A",
+    "productCount": 26,
+    "productPositions": [
+      {
+        "productId": "prod-24268",
+        "label": "HELIA set mobilier nuc 1150"
+      },
+      {
+        "productId": "prod-24203",
+        "label": "NESTIA set mobilier lemn masiv 2000"
+      },
+      {
+        "productId": "prod-24261",
+        "label": "CALISTRA set mobilier lemn masiv 1700"
+      },
+      {
+        "productId": "prod-24186",
+        "label": "ZENIS set mobilier lemn frasin 1605"
+      },
+      {
+        "productId": "prod-23817",
+        "label": "Cada freestanding AQUA ovala 160 cm"
+      },
+      {
+        "productId": "prod-24181",
+        "label": "LOREA set mobilier suspendat lemn masiv"
+      },
+      {
+        "productId": "prod-24271",
+        "label": "ZENOVA set mobilier lemn masiv 1600"
+      },
+      {
+        "productId": "prod-24286",
+        "label": "OVANA set mobilier frasin 1000"
+      },
+      {
+        "productId": "prod-24213",
+        "label": "ZAIN set mobilier lemn masiv 1000"
+      },
+      {
+        "productId": "prod-24197",
+        "label": "ALABASTRIS set mobilier lemn masiv 1000"
+      },
+      {
+        "productId": "prod-25334",
+        "label": "MARGOT baterie lavoar inalta BRUMA DESERTO"
+      },
+      {
+        "productId": "prod-24280",
+        "label": "AVELYN set mobilier lemn masiv 700"
+      },
+      {
+        "productId": "prod-24290",
+        "label": "NEXIS set mobilier lemn masiv 700"
+      },
+      {
+        "productId": "prod-26757",
+        "label": "T-LEVER Baterie lavoar cu trei gauri, cu ventil clic-clac, Cherry Gloss"
+      },
+      {
+        "productId": "prod-25261",
+        "label": "BOWLING baterie lavoar Bongio unicat"
+      },
+      {
+        "productId": "prod-26758",
+        "label": "TAIT Baterie lavoar, fara ventil, Forest"
+      },
+      {
+        "productId": "prod-26761",
+        "label": "CAPSULE Baterie lavoar cu ventil clic-clac, Platinum"
+      },
+      {
+        "productId": "prod-23970",
+        "label": "Lavoar pe blat VALORE marmura"
+      },
+      {
+        "productId": "prod-26760",
+        "label": "ON MAXI Baterie lavoar cu ventil clic-clac, Light Gold"
+      },
+      {
+        "productId": "prod-26759",
+        "label": "MARCORD Baterie lavoar, cu ventil clic-clac, Bronzo Bianco"
+      },
+      {
+        "productId": "prod-26316",
+        "label": "PVD LEAF Baterie lavoar cu insertie 4 Sunset"
+      },
+      {
+        "productId": "prod-23253",
+        "label": "Lavoar pe blat V&B Architectura 60x40 5A2760"
+      },
+      {
+        "productId": "prod-21300",
+        "label": "Lavoar pe blat V&B Architectura 60x40 5A2660"
+      },
+      {
+        "productId": "prod-24119",
+        "label": "Dispenser automat SERENE maro"
+      },
+      {
+        "productId": "prod-24162",
+        "label": "Dispenser automat LUXA wood inchis"
+      },
+      {
+        "productId": "prod-24127",
+        "label": "Dispenser automat SERENE wood deschis"
+      }
+    ]
+  }
+]
