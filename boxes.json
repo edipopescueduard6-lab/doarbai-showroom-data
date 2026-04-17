@@ -457,43 +457,79 @@
     "image": "/images/showroom/boxa6-nexum.jpg",
     "heroImage": "/images/showroom/boxa6-nexum.jpg",
     "color": "#6B5B73",
-    "productCount": 6,
+    "productCount": 18,
     "productPositions": [
       {
-        "productId": "prod-20932",
-        "x": 22,
-        "y": 30,
-        "label": "Coloana de dus"
+        "productId": "prod-24618",
+        "label": "Cadita dus Plato Halo Slate 80x100"
       },
       {
-        "productId": "prod-24693",
-        "x": 55,
-        "y": 25,
-        "label": "Clapeta WC TECE"
+        "productId": "prod-26609",
+        "label": "Set mobilier cu lavoar Fiora"
       },
       {
-        "productId": "prod-24707",
-        "x": 78,
-        "y": 35,
-        "label": "Clapetă WC TECE"
+        "productId": "prod-26621",
+        "label": "Oglinda Fiora 500x30x800"
       },
       {
-        "productId": "prod-22664",
-        "x": 25,
-        "y": 65,
-        "label": "Cot de iesire"
+        "productId": "prod-26720",
+        "label": "Coloana mobilier Fiora"
       },
       {
-        "productId": "prod-24175",
-        "x": 52,
-        "y": 60,
-        "label": "Dispenser automat .."
+        "productId": "prod-26618",
+        "label": "Consola blat lavoar Liso Fiora"
       },
       {
-        "productId": "prod-24153",
-        "x": 75,
-        "y": 68,
-        "label": "Dispenser automat .."
+        "productId": "prod-24604",
+        "label": "Panel decorativ Basic Cappuccino"
+      },
+      {
+        "productId": "prod-23348",
+        "label": "Panou Acquabella Hera Zero Nat"
+      },
+      {
+        "productId": "prod-27922",
+        "label": "Panel Beton Cappuccino 80x250"
+      },
+      {
+        "productId": "prod-25730",
+        "label": "Baterie lavoar incastrata aurie"
+      },
+      {
+        "productId": "prod-25696",
+        "label": "Baterie lavoar incastrata auriu"
+      },
+      {
+        "productId": "prod-26094",
+        "label": "Verve Showers Brushed Gold"
+      },
+      {
+        "productId": "prod-24024",
+        "label": "Raft incastrat Havona"
+      },
+      {
+        "productId": "prod-24896",
+        "label": "Radiator Magnico Bath"
+      },
+      {
+        "productId": "prod-23147",
+        "label": "Gresie Iron 600x1200"
+      },
+      {
+        "productId": "prod-24048",
+        "label": "Cada colt AQUAWAVE"
+      },
+      {
+        "productId": "prod-28213",
+        "label": "Villeroy&Boch Tivo inteligent"
+      },
+      {
+        "productId": "prod-28246",
+        "label": "Sistem EDPLIT buton invizibil"
+      },
+      {
+        "productId": "prod-28250",
+        "label": "Paravan dus EASY walk-in"
       }
     ]
   },
