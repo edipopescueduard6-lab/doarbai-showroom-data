@@ -19,9 +19,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-24948_p1.png"
+      "/pdfs-png/prod-24948_p1.png",
+      "/pdfs-png/prod-24948_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27461",
@@ -46,9 +47,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27461_p1.png"
+      "/pdfs-png/prod-27461_p1.png",
+      "/pdfs-png/prod-27461_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27395",
@@ -72,9 +74,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27395_p1.png"
+      "/pdfs-png/prod-27395_p1.png",
+      "/pdfs-png/prod-27395_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27399",
@@ -99,9 +102,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27399_p1.png"
+      "/pdfs-png/prod-27399_p1.png",
+      "/pdfs-png/prod-27399_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27385",
@@ -121,9 +125,10 @@
     "sku": "SPV80240",
     "badge": "NOU",
     "pdfPngs": [
-      "/pdfs-png/prod-27385_p1.png"
+      "/pdfs-png/prod-27385_p1.png",
+      "/pdfs-png/prod-27385_p2.png"
     ],
-    "pdfPages": 1,
+    "pdfPages": 2,
     "regularPrice": 3036,
     "salePrice": null,
     "onSale": false,
@@ -149,9 +154,10 @@
     "onSale": true,
     "discountPct": 11,
     "pdfPngs": [
-      "/pdfs-png/prod-27357_p1.png"
+      "/pdfs-png/prod-27357_p1.png",
+      "/pdfs-png/prod-27357_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27355",
@@ -175,9 +181,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27355_p1.png"
+      "/pdfs-png/prod-27355_p1.png",
+      "/pdfs-png/prod-27355_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27352",
@@ -201,9 +208,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27352_p1.png"
+      "/pdfs-png/prod-27352_p1.png",
+      "/pdfs-png/prod-27352_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27350",
@@ -227,9 +235,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27350_p1.png"
+      "/pdfs-png/prod-27350_p1.png",
+      "/pdfs-png/prod-27350_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27347",
@@ -253,9 +262,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27347_p1.png"
+      "/pdfs-png/prod-27347_p1.png",
+      "/pdfs-png/prod-27347_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27345",
@@ -279,9 +289,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27345_p1.png"
+      "/pdfs-png/prod-27345_p1.png",
+      "/pdfs-png/prod-27345_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27343",
@@ -305,9 +316,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27343_p1.png"
+      "/pdfs-png/prod-27343_p1.png",
+      "/pdfs-png/prod-27343_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27340",
@@ -331,9 +343,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27340_p1.png"
+      "/pdfs-png/prod-27340_p1.png",
+      "/pdfs-png/prod-27340_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27337",
@@ -357,9 +370,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27337_p1.png"
+      "/pdfs-png/prod-27337_p1.png",
+      "/pdfs-png/prod-27337_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27325",
@@ -385,9 +399,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27325_p1.png"
+      "/pdfs-png/prod-27325_p1.png",
+      "/pdfs-png/prod-27325_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27324",
@@ -412,9 +427,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27324_p1.png"
+      "/pdfs-png/prod-27324_p1.png",
+      "/pdfs-png/prod-27324_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27321",
@@ -439,9 +455,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27321_p1.png"
+      "/pdfs-png/prod-27321_p1.png",
+      "/pdfs-png/prod-27321_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27319",
@@ -466,9 +483,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27319_p1.png"
+      "/pdfs-png/prod-27319_p1.png",
+      "/pdfs-png/prod-27319_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27317",
@@ -493,9 +511,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27317_p1.png"
+      "/pdfs-png/prod-27317_p1.png",
+      "/pdfs-png/prod-27317_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27315",
@@ -520,9 +539,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27315_p1.png"
+      "/pdfs-png/prod-27315_p1.png",
+      "/pdfs-png/prod-27315_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27313",
@@ -547,9 +567,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27313_p1.png"
+      "/pdfs-png/prod-27313_p1.png",
+      "/pdfs-png/prod-27313_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27300",
@@ -574,9 +595,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27300_p1.png"
+      "/pdfs-png/prod-27300_p1.png",
+      "/pdfs-png/prod-27300_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27298",
@@ -601,9 +623,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27298_p1.png"
+      "/pdfs-png/prod-27298_p1.png",
+      "/pdfs-png/prod-27298_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27295",
@@ -628,9 +651,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27295_p1.png"
+      "/pdfs-png/prod-27295_p1.png",
+      "/pdfs-png/prod-27295_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27293",
@@ -655,9 +679,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27293_p1.png"
+      "/pdfs-png/prod-27293_p1.png",
+      "/pdfs-png/prod-27293_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27291",
@@ -682,9 +707,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27291_p1.png"
+      "/pdfs-png/prod-27291_p1.png",
+      "/pdfs-png/prod-27291_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27289",
@@ -709,9 +735,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27289_p1.png"
+      "/pdfs-png/prod-27289_p1.png",
+      "/pdfs-png/prod-27289_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27287",
@@ -736,9 +763,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27287_p1.png"
+      "/pdfs-png/prod-27287_p1.png",
+      "/pdfs-png/prod-27287_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27285",
@@ -763,9 +791,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27285_p1.png"
+      "/pdfs-png/prod-27285_p1.png",
+      "/pdfs-png/prod-27285_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27283",
@@ -790,9 +819,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27283_p1.png"
+      "/pdfs-png/prod-27283_p1.png",
+      "/pdfs-png/prod-27283_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27281",
@@ -817,9 +847,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27281_p1.png"
+      "/pdfs-png/prod-27281_p1.png",
+      "/pdfs-png/prod-27281_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27279",
@@ -844,9 +875,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27279_p1.png"
+      "/pdfs-png/prod-27279_p1.png",
+      "/pdfs-png/prod-27279_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27277",
@@ -871,9 +903,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27277_p1.png"
+      "/pdfs-png/prod-27277_p1.png",
+      "/pdfs-png/prod-27277_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27274",
@@ -898,9 +931,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27274_p1.png"
+      "/pdfs-png/prod-27274_p1.png",
+      "/pdfs-png/prod-27274_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27272",
@@ -925,9 +959,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27272_p1.png"
+      "/pdfs-png/prod-27272_p1.png",
+      "/pdfs-png/prod-27272_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27267",
@@ -952,9 +987,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27267_p1.png"
+      "/pdfs-png/prod-27267_p1.png",
+      "/pdfs-png/prod-27267_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27265",
@@ -979,9 +1015,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27265_p1.png"
+      "/pdfs-png/prod-27265_p1.png",
+      "/pdfs-png/prod-27265_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27260",
@@ -1006,9 +1043,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27260_p1.png"
+      "/pdfs-png/prod-27260_p1.png",
+      "/pdfs-png/prod-27260_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27257",
@@ -1033,9 +1071,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27257_p1.png"
+      "/pdfs-png/prod-27257_p1.png",
+      "/pdfs-png/prod-27257_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27255",
@@ -1060,9 +1099,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27255_p1.png"
+      "/pdfs-png/prod-27255_p1.png",
+      "/pdfs-png/prod-27255_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27253",
@@ -1088,9 +1128,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27253_p1.png"
+      "/pdfs-png/prod-27253_p1.png",
+      "/pdfs-png/prod-27253_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27250",
@@ -1115,9 +1156,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27250_p1.png"
+      "/pdfs-png/prod-27250_p1.png",
+      "/pdfs-png/prod-27250_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27248",
@@ -1142,9 +1184,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27248_p1.png"
+      "/pdfs-png/prod-27248_p1.png",
+      "/pdfs-png/prod-27248_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27246",
@@ -1169,9 +1212,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27246_p1.png"
+      "/pdfs-png/prod-27246_p1.png",
+      "/pdfs-png/prod-27246_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27244",
@@ -1196,9 +1240,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27244_p1.png"
+      "/pdfs-png/prod-27244_p1.png",
+      "/pdfs-png/prod-27244_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27242",
@@ -1223,9 +1268,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27242_p1.png"
+      "/pdfs-png/prod-27242_p1.png",
+      "/pdfs-png/prod-27242_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27240",
@@ -1250,9 +1296,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27240_p1.png"
+      "/pdfs-png/prod-27240_p1.png",
+      "/pdfs-png/prod-27240_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27238",
@@ -1277,9 +1324,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27238_p1.png"
+      "/pdfs-png/prod-27238_p1.png",
+      "/pdfs-png/prod-27238_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27233",
@@ -1304,9 +1352,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27233_p1.png"
+      "/pdfs-png/prod-27233_p1.png",
+      "/pdfs-png/prod-27233_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27235",
@@ -1331,9 +1380,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27235_p1.png"
+      "/pdfs-png/prod-27235_p1.png",
+      "/pdfs-png/prod-27235_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27231",
@@ -1358,9 +1408,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27231_p1.png"
+      "/pdfs-png/prod-27231_p1.png",
+      "/pdfs-png/prod-27231_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27224",
@@ -1385,9 +1436,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27224_p1.png"
+      "/pdfs-png/prod-27224_p1.png",
+      "/pdfs-png/prod-27224_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27222",
@@ -1412,9 +1464,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27222_p1.png"
+      "/pdfs-png/prod-27222_p1.png",
+      "/pdfs-png/prod-27222_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27218",
@@ -1439,9 +1492,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27218_p1.png"
+      "/pdfs-png/prod-27218_p1.png",
+      "/pdfs-png/prod-27218_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27216",
@@ -1466,9 +1520,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27216_p1.png"
+      "/pdfs-png/prod-27216_p1.png",
+      "/pdfs-png/prod-27216_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27214",
@@ -1493,9 +1548,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27214_p1.png"
+      "/pdfs-png/prod-27214_p1.png",
+      "/pdfs-png/prod-27214_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27212",
@@ -1520,9 +1576,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27212_p1.png"
+      "/pdfs-png/prod-27212_p1.png",
+      "/pdfs-png/prod-27212_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27209",
@@ -1547,9 +1604,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27209_p1.png"
+      "/pdfs-png/prod-27209_p1.png",
+      "/pdfs-png/prod-27209_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27207",
@@ -1574,9 +1632,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27207_p1.png"
+      "/pdfs-png/prod-27207_p1.png",
+      "/pdfs-png/prod-27207_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27205",
@@ -1601,9 +1660,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27205_p1.png"
+      "/pdfs-png/prod-27205_p1.png",
+      "/pdfs-png/prod-27205_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27201",
@@ -1628,9 +1688,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27201_p1.png"
+      "/pdfs-png/prod-27201_p1.png",
+      "/pdfs-png/prod-27201_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27199",
@@ -1655,9 +1716,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27199_p1.png"
+      "/pdfs-png/prod-27199_p1.png",
+      "/pdfs-png/prod-27199_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27197",
@@ -1682,9 +1744,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27197_p1.png"
+      "/pdfs-png/prod-27197_p1.png",
+      "/pdfs-png/prod-27197_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27195",
@@ -1709,9 +1772,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27195_p1.png"
+      "/pdfs-png/prod-27195_p1.png",
+      "/pdfs-png/prod-27195_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27193",
@@ -1736,9 +1800,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27193_p1.png"
+      "/pdfs-png/prod-27193_p1.png",
+      "/pdfs-png/prod-27193_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27191",
@@ -1763,9 +1828,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27191_p1.png"
+      "/pdfs-png/prod-27191_p1.png",
+      "/pdfs-png/prod-27191_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27188",
@@ -1790,9 +1856,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27188_p1.png"
+      "/pdfs-png/prod-27188_p1.png",
+      "/pdfs-png/prod-27188_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27186",
@@ -1817,9 +1884,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27186_p1.png"
+      "/pdfs-png/prod-27186_p1.png",
+      "/pdfs-png/prod-27186_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27184",
@@ -1844,9 +1912,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27184_p1.png"
+      "/pdfs-png/prod-27184_p1.png",
+      "/pdfs-png/prod-27184_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27181",
@@ -1871,9 +1940,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27181_p1.png"
+      "/pdfs-png/prod-27181_p1.png",
+      "/pdfs-png/prod-27181_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27178",
@@ -1898,9 +1968,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27178_p1.png"
+      "/pdfs-png/prod-27178_p1.png",
+      "/pdfs-png/prod-27178_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27175",
@@ -1925,9 +1996,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27175_p1.png"
+      "/pdfs-png/prod-27175_p1.png",
+      "/pdfs-png/prod-27175_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27173",
@@ -1952,9 +2024,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27173_p1.png"
+      "/pdfs-png/prod-27173_p1.png",
+      "/pdfs-png/prod-27173_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27171",
@@ -1979,9 +2052,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27171_p1.png"
+      "/pdfs-png/prod-27171_p1.png",
+      "/pdfs-png/prod-27171_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27169",
@@ -2006,9 +2080,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27169_p1.png"
+      "/pdfs-png/prod-27169_p1.png",
+      "/pdfs-png/prod-27169_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27167",
@@ -2033,9 +2108,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27167_p1.png"
+      "/pdfs-png/prod-27167_p1.png",
+      "/pdfs-png/prod-27167_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27165",
@@ -2060,9 +2136,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27165_p1.png"
+      "/pdfs-png/prod-27165_p1.png",
+      "/pdfs-png/prod-27165_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27163",
@@ -2087,9 +2164,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27163_p1.png"
+      "/pdfs-png/prod-27163_p1.png",
+      "/pdfs-png/prod-27163_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27160",
@@ -2114,9 +2192,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27160_p1.png"
+      "/pdfs-png/prod-27160_p1.png",
+      "/pdfs-png/prod-27160_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27156",
@@ -2141,9 +2220,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-27156_p1.png"
+      "/pdfs-png/prod-27156_p1.png",
+      "/pdfs-png/prod-27156_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27136",
@@ -2170,9 +2250,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27136_p1.png"
+      "/pdfs-png/prod-27136_p1.png",
+      "/pdfs-png/prod-27136_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27114",
@@ -2196,9 +2277,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27114_p1.png"
+      "/pdfs-png/prod-27114_p1.png",
+      "/pdfs-png/prod-27114_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27111",
@@ -2222,9 +2304,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27111_p1.png"
+      "/pdfs-png/prod-27111_p1.png",
+      "/pdfs-png/prod-27111_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27109",
@@ -2246,9 +2329,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27109_p1.png"
+      "/pdfs-png/prod-27109_p1.png",
+      "/pdfs-png/prod-27109_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27107",
@@ -2270,9 +2354,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27107_p1.png"
+      "/pdfs-png/prod-27107_p1.png",
+      "/pdfs-png/prod-27107_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27104",
@@ -2296,9 +2381,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27104_p1.png"
+      "/pdfs-png/prod-27104_p1.png",
+      "/pdfs-png/prod-27104_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27101",
@@ -2322,9 +2408,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27101_p1.png"
+      "/pdfs-png/prod-27101_p1.png",
+      "/pdfs-png/prod-27101_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27096",
@@ -2348,9 +2435,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27096_p1.png"
+      "/pdfs-png/prod-27096_p1.png",
+      "/pdfs-png/prod-27096_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27093",
@@ -2374,9 +2462,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27093_p1.png"
+      "/pdfs-png/prod-27093_p1.png",
+      "/pdfs-png/prod-27093_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27090",
@@ -2400,9 +2489,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27090_p1.png"
+      "/pdfs-png/prod-27090_p1.png",
+      "/pdfs-png/prod-27090_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27087",
@@ -2426,9 +2516,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27087_p1.png"
+      "/pdfs-png/prod-27087_p1.png",
+      "/pdfs-png/prod-27087_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27084",
@@ -2452,9 +2543,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27084_p1.png"
+      "/pdfs-png/prod-27084_p1.png",
+      "/pdfs-png/prod-27084_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27080",
@@ -2479,9 +2571,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27080_p1.png"
+      "/pdfs-png/prod-27080_p1.png",
+      "/pdfs-png/prod-27080_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27077",
@@ -2505,9 +2598,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27077_p1.png"
+      "/pdfs-png/prod-27077_p1.png",
+      "/pdfs-png/prod-27077_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27071",
@@ -2531,9 +2625,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27071_p1.png"
+      "/pdfs-png/prod-27071_p1.png",
+      "/pdfs-png/prod-27071_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27068",
@@ -2557,9 +2652,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27068_p1.png"
+      "/pdfs-png/prod-27068_p1.png",
+      "/pdfs-png/prod-27068_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27064",
@@ -2584,9 +2680,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27064_p1.png"
+      "/pdfs-png/prod-27064_p1.png",
+      "/pdfs-png/prod-27064_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27058",
@@ -2613,9 +2710,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27058_p1.png"
+      "/pdfs-png/prod-27058_p1.png",
+      "/pdfs-png/prod-27058_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27052",
@@ -2642,9 +2740,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27052_p1.png"
+      "/pdfs-png/prod-27052_p1.png",
+      "/pdfs-png/prod-27052_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27044",
@@ -2669,9 +2768,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27044_p1.png"
+      "/pdfs-png/prod-27044_p1.png",
+      "/pdfs-png/prod-27044_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27040",
@@ -2696,9 +2796,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27040_p1.png"
+      "/pdfs-png/prod-27040_p1.png",
+      "/pdfs-png/prod-27040_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27036",
@@ -2723,9 +2824,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27036_p1.png"
+      "/pdfs-png/prod-27036_p1.png",
+      "/pdfs-png/prod-27036_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27033",
@@ -2749,9 +2851,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27033_p1.png"
+      "/pdfs-png/prod-27033_p1.png",
+      "/pdfs-png/prod-27033_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27023",
@@ -2775,9 +2878,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27023_p1.png"
+      "/pdfs-png/prod-27023_p1.png",
+      "/pdfs-png/prod-27023_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27019",
@@ -2802,9 +2906,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-27019_p1.png"
+      "/pdfs-png/prod-27019_p1.png",
+      "/pdfs-png/prod-27019_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26999",
@@ -2828,9 +2933,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26999_p1.png"
+      "/pdfs-png/prod-26999_p1.png",
+      "/pdfs-png/prod-26999_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26996",
@@ -2854,9 +2960,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26996_p1.png"
+      "/pdfs-png/prod-26996_p1.png",
+      "/pdfs-png/prod-26996_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26993",
@@ -2880,9 +2987,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26993_p1.png"
+      "/pdfs-png/prod-26993_p1.png",
+      "/pdfs-png/prod-26993_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26989",
@@ -2906,9 +3014,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26989_p1.png"
+      "/pdfs-png/prod-26989_p1.png",
+      "/pdfs-png/prod-26989_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26985",
@@ -2932,9 +3041,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26985_p1.png"
+      "/pdfs-png/prod-26985_p1.png",
+      "/pdfs-png/prod-26985_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26982",
@@ -2958,9 +3068,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26982_p1.png"
+      "/pdfs-png/prod-26982_p1.png",
+      "/pdfs-png/prod-26982_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26978",
@@ -2984,9 +3095,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26978_p1.png"
+      "/pdfs-png/prod-26978_p1.png",
+      "/pdfs-png/prod-26978_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26974",
@@ -3011,9 +3123,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26974_p1.png"
+      "/pdfs-png/prod-26974_p1.png",
+      "/pdfs-png/prod-26974_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26970",
@@ -3038,9 +3151,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26970_p1.png"
+      "/pdfs-png/prod-26970_p1.png",
+      "/pdfs-png/prod-26970_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26966",
@@ -3064,9 +3178,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26966_p1.png"
+      "/pdfs-png/prod-26966_p1.png",
+      "/pdfs-png/prod-26966_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26963",
@@ -3090,9 +3205,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26963_p1.png"
+      "/pdfs-png/prod-26963_p1.png",
+      "/pdfs-png/prod-26963_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26960",
@@ -3116,9 +3232,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26960_p1.png"
+      "/pdfs-png/prod-26960_p1.png",
+      "/pdfs-png/prod-26960_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26957",
@@ -3142,9 +3259,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26957_p1.png"
+      "/pdfs-png/prod-26957_p1.png",
+      "/pdfs-png/prod-26957_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26954",
@@ -3168,9 +3286,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26954_p1.png"
+      "/pdfs-png/prod-26954_p1.png",
+      "/pdfs-png/prod-26954_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26949",
@@ -3194,9 +3313,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26949_p1.png"
+      "/pdfs-png/prod-26949_p1.png",
+      "/pdfs-png/prod-26949_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26939",
@@ -3623,9 +3743,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26882_p1.png"
+      "/pdfs-png/prod-26882_p1.png",
+      "/pdfs-png/prod-26882_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26873",
@@ -3649,9 +3770,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26873_p1.png"
+      "/pdfs-png/prod-26873_p1.png",
+      "/pdfs-png/prod-26873_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26870",
@@ -3675,9 +3797,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26870_p1.png"
+      "/pdfs-png/prod-26870_p1.png",
+      "/pdfs-png/prod-26870_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26867",
@@ -3701,9 +3824,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26867_p1.png"
+      "/pdfs-png/prod-26867_p1.png",
+      "/pdfs-png/prod-26867_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26863",
@@ -3727,9 +3851,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26863_p1.png"
+      "/pdfs-png/prod-26863_p1.png",
+      "/pdfs-png/prod-26863_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26832",
@@ -3753,9 +3878,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26832_p1.png"
+      "/pdfs-png/prod-26832_p1.png",
+      "/pdfs-png/prod-26832_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26829",
@@ -3779,9 +3905,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26829_p1.png"
+      "/pdfs-png/prod-26829_p1.png",
+      "/pdfs-png/prod-26829_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26826",
@@ -3805,9 +3932,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26826_p1.png"
+      "/pdfs-png/prod-26826_p1.png",
+      "/pdfs-png/prod-26826_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26817",
@@ -3831,9 +3959,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26817_p1.png"
+      "/pdfs-png/prod-26817_p1.png",
+      "/pdfs-png/prod-26817_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26819",
@@ -3857,9 +3986,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26819_p1.png"
+      "/pdfs-png/prod-26819_p1.png",
+      "/pdfs-png/prod-26819_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26813",
@@ -3884,9 +4014,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26813_p1.png"
+      "/pdfs-png/prod-26813_p1.png",
+      "/pdfs-png/prod-26813_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26805",
@@ -3908,9 +4039,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26805_p1.png"
+      "/pdfs-png/prod-26805_p1.png",
+      "/pdfs-png/prod-26805_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26804",
@@ -3935,9 +4067,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26804_p1.png"
+      "/pdfs-png/prod-26804_p1.png",
+      "/pdfs-png/prod-26804_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26801",
@@ -3988,9 +4121,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26796_p1.png"
+      "/pdfs-png/prod-26796_p1.png",
+      "/pdfs-png/prod-26796_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26788",
@@ -4012,9 +4146,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26788_p1.png"
+      "/pdfs-png/prod-26788_p1.png",
+      "/pdfs-png/prod-26788_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26791",
@@ -4039,9 +4174,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26791_p1.png"
+      "/pdfs-png/prod-26791_p1.png",
+      "/pdfs-png/prod-26791_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26787",
@@ -4063,9 +4199,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26787_p1.png"
+      "/pdfs-png/prod-26787_p1.png",
+      "/pdfs-png/prod-26787_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26789",
@@ -4087,9 +4224,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26789_p1.png"
+      "/pdfs-png/prod-26789_p1.png",
+      "/pdfs-png/prod-26789_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26785",
@@ -4111,9 +4249,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26785_p1.png"
+      "/pdfs-png/prod-26785_p1.png",
+      "/pdfs-png/prod-26785_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26781",
@@ -4137,9 +4276,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26781_p1.png"
+      "/pdfs-png/prod-26781_p1.png",
+      "/pdfs-png/prod-26781_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26777",
@@ -4163,9 +4303,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26777_p1.png"
+      "/pdfs-png/prod-26777_p1.png",
+      "/pdfs-png/prod-26777_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26772",
@@ -4189,9 +4330,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26772_p1.png"
+      "/pdfs-png/prod-26772_p1.png",
+      "/pdfs-png/prod-26772_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26769",
@@ -4215,9 +4357,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26769_p1.png"
+      "/pdfs-png/prod-26769_p1.png",
+      "/pdfs-png/prod-26769_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26760",
@@ -4266,9 +4409,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26761_p1.png"
+      "/pdfs-png/prod-26761_p1.png",
+      "/pdfs-png/prod-26761_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26756",
@@ -4292,9 +4436,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26756_p1.png"
+      "/pdfs-png/prod-26756_p1.png",
+      "/pdfs-png/prod-26756_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26754",
@@ -4318,9 +4463,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26754_p1.png"
+      "/pdfs-png/prod-26754_p1.png",
+      "/pdfs-png/prod-26754_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26755",
@@ -4369,9 +4515,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26743_p1.png"
+      "/pdfs-png/prod-26743_p1.png",
+      "/pdfs-png/prod-26743_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26745",
@@ -4396,9 +4543,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26745_p1.png"
+      "/pdfs-png/prod-26745_p1.png",
+      "/pdfs-png/prod-26745_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26746",
@@ -4446,9 +4594,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26737_p1.png"
+      "/pdfs-png/prod-26737_p1.png",
+      "/pdfs-png/prod-26737_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26720",
@@ -4472,9 +4621,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26720_p1.png"
+      "/pdfs-png/prod-26720_p1.png",
+      "/pdfs-png/prod-26720_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26731",
@@ -4499,9 +4649,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26731_p1.png"
+      "/pdfs-png/prod-26731_p1.png",
+      "/pdfs-png/prod-26731_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26730",
@@ -4525,9 +4676,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26730_p1.png"
+      "/pdfs-png/prod-26730_p1.png",
+      "/pdfs-png/prod-26730_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26726",
@@ -4549,9 +4701,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26726_p1.png"
+      "/pdfs-png/prod-26726_p1.png",
+      "/pdfs-png/prod-26726_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26721",
@@ -4576,9 +4729,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26721_p1.png"
+      "/pdfs-png/prod-26721_p1.png",
+      "/pdfs-png/prod-26721_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26709",
@@ -4654,9 +4808,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26710_p1.png"
+      "/pdfs-png/prod-26710_p1.png",
+      "/pdfs-png/prod-26710_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26699",
@@ -4680,9 +4835,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26699_p1.png"
+      "/pdfs-png/prod-26699_p1.png",
+      "/pdfs-png/prod-26699_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26695",
@@ -4732,9 +4888,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26689_p1.png"
+      "/pdfs-png/prod-26689_p1.png",
+      "/pdfs-png/prod-26689_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26673",
@@ -4785,9 +4942,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26678_p1.png"
+      "/pdfs-png/prod-26678_p1.png",
+      "/pdfs-png/prod-26678_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26684",
@@ -4811,9 +4969,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26684_p1.png"
+      "/pdfs-png/prod-26684_p1.png",
+      "/pdfs-png/prod-26684_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26677",
@@ -4837,9 +4996,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26677_p1.png"
+      "/pdfs-png/prod-26677_p1.png",
+      "/pdfs-png/prod-26677_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26672",
@@ -4863,9 +5023,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26672_p1.png"
+      "/pdfs-png/prod-26672_p1.png",
+      "/pdfs-png/prod-26672_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26660",
@@ -4889,9 +5050,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26660_p1.png"
+      "/pdfs-png/prod-26660_p1.png",
+      "/pdfs-png/prod-26660_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26658",
@@ -4915,9 +5077,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26658_p1.png"
+      "/pdfs-png/prod-26658_p1.png",
+      "/pdfs-png/prod-26658_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26653",
@@ -4941,9 +5104,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26653_p1.png"
+      "/pdfs-png/prod-26653_p1.png",
+      "/pdfs-png/prod-26653_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26652",
@@ -4967,9 +5131,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26652_p1.png"
+      "/pdfs-png/prod-26652_p1.png",
+      "/pdfs-png/prod-26652_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26638",
@@ -4991,9 +5156,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26638_p1.png"
+      "/pdfs-png/prod-26638_p1.png",
+      "/pdfs-png/prod-26638_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26615",
@@ -5015,9 +5181,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26615_p1.png"
+      "/pdfs-png/prod-26615_p1.png",
+      "/pdfs-png/prod-26615_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26621",
@@ -5065,9 +5232,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26622_p1.png"
+      "/pdfs-png/prod-26622_p1.png",
+      "/pdfs-png/prod-26622_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26618",
@@ -5091,9 +5259,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26618_p1.png"
+      "/pdfs-png/prod-26618_p1.png",
+      "/pdfs-png/prod-26618_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26608",
@@ -5115,9 +5284,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26608_p1.png"
+      "/pdfs-png/prod-26608_p1.png",
+      "/pdfs-png/prod-26608_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26609",
@@ -5242,9 +5412,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26505_p1.png"
+      "/pdfs-png/prod-26505_p1.png",
+      "/pdfs-png/prod-26505_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26498",
@@ -5266,9 +5437,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26498_p1.png"
+      "/pdfs-png/prod-26498_p1.png",
+      "/pdfs-png/prod-26498_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26494",
@@ -5292,9 +5464,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26494_p1.png"
+      "/pdfs-png/prod-26494_p1.png",
+      "/pdfs-png/prod-26494_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26491",
@@ -5318,9 +5491,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26491_p1.png"
+      "/pdfs-png/prod-26491_p1.png",
+      "/pdfs-png/prod-26491_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26488",
@@ -5342,9 +5516,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26488_p1.png"
+      "/pdfs-png/prod-26488_p1.png",
+      "/pdfs-png/prod-26488_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26481",
@@ -5369,9 +5544,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26481_p1.png"
+      "/pdfs-png/prod-26481_p1.png",
+      "/pdfs-png/prod-26481_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26471",
@@ -5422,9 +5598,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26468_p1.png"
+      "/pdfs-png/prod-26468_p1.png",
+      "/pdfs-png/prod-26468_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26465",
@@ -5448,9 +5625,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26465_p1.png"
+      "/pdfs-png/prod-26465_p1.png",
+      "/pdfs-png/prod-26465_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26461",
@@ -5475,9 +5653,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26461_p1.png"
+      "/pdfs-png/prod-26461_p1.png",
+      "/pdfs-png/prod-26461_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26457",
@@ -5529,9 +5708,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26453_p1.png"
+      "/pdfs-png/prod-26453_p1.png",
+      "/pdfs-png/prod-26453_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26450",
@@ -5581,9 +5761,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26447_p1.png"
+      "/pdfs-png/prod-26447_p1.png",
+      "/pdfs-png/prod-26447_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26442",
@@ -5607,9 +5788,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26442_p1.png"
+      "/pdfs-png/prod-26442_p1.png",
+      "/pdfs-png/prod-26442_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26438",
@@ -5633,9 +5815,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26438_p1.png"
+      "/pdfs-png/prod-26438_p1.png",
+      "/pdfs-png/prod-26438_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26434",
@@ -5687,9 +5870,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26430_p1.png"
+      "/pdfs-png/prod-26430_p1.png",
+      "/pdfs-png/prod-26430_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26426",
@@ -5740,9 +5924,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26421_p1.png"
+      "/pdfs-png/prod-26421_p1.png",
+      "/pdfs-png/prod-26421_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26417",
@@ -5793,9 +5978,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26414_p1.png"
+      "/pdfs-png/prod-26414_p1.png",
+      "/pdfs-png/prod-26414_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26408",
@@ -5819,9 +6005,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26408_p1.png"
+      "/pdfs-png/prod-26408_p1.png",
+      "/pdfs-png/prod-26408_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26405",
@@ -5845,9 +6032,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26405_p1.png"
+      "/pdfs-png/prod-26405_p1.png",
+      "/pdfs-png/prod-26405_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26402",
@@ -5871,9 +6059,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26402_p1.png"
+      "/pdfs-png/prod-26402_p1.png",
+      "/pdfs-png/prod-26402_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26397",
@@ -5898,9 +6087,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26397_p1.png"
+      "/pdfs-png/prod-26397_p1.png",
+      "/pdfs-png/prod-26397_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26394",
@@ -5950,9 +6140,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26391_p1.png"
+      "/pdfs-png/prod-26391_p1.png",
+      "/pdfs-png/prod-26391_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26385",
@@ -5976,9 +6167,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26385_p1.png"
+      "/pdfs-png/prod-26385_p1.png",
+      "/pdfs-png/prod-26385_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26384",
@@ -6002,9 +6194,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26384_p1.png"
+      "/pdfs-png/prod-26384_p1.png",
+      "/pdfs-png/prod-26384_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26379",
@@ -6028,9 +6221,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26379_p1.png"
+      "/pdfs-png/prod-26379_p1.png",
+      "/pdfs-png/prod-26379_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26376",
@@ -6054,9 +6248,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26376_p1.png"
+      "/pdfs-png/prod-26376_p1.png",
+      "/pdfs-png/prod-26376_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26375",
@@ -6080,9 +6275,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26375_p1.png"
+      "/pdfs-png/prod-26375_p1.png",
+      "/pdfs-png/prod-26375_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26368",
@@ -6106,9 +6302,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26368_p1.png"
+      "/pdfs-png/prod-26368_p1.png",
+      "/pdfs-png/prod-26368_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26363",
@@ -6132,9 +6329,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26363_p1.png"
+      "/pdfs-png/prod-26363_p1.png",
+      "/pdfs-png/prod-26363_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26364",
@@ -6159,9 +6357,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26364_p1.png"
+      "/pdfs-png/prod-26364_p1.png",
+      "/pdfs-png/prod-26364_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26360",
@@ -6183,9 +6382,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26360_p1.png"
+      "/pdfs-png/prod-26360_p1.png",
+      "/pdfs-png/prod-26360_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26357",
@@ -6209,9 +6409,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26357_p1.png"
+      "/pdfs-png/prod-26357_p1.png",
+      "/pdfs-png/prod-26357_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26353",
@@ -6235,9 +6436,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26353_p1.png"
+      "/pdfs-png/prod-26353_p1.png",
+      "/pdfs-png/prod-26353_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26349",
@@ -6261,9 +6463,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26349_p1.png"
+      "/pdfs-png/prod-26349_p1.png",
+      "/pdfs-png/prod-26349_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26346",
@@ -6287,9 +6490,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26346_p1.png"
+      "/pdfs-png/prod-26346_p1.png",
+      "/pdfs-png/prod-26346_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26340",
@@ -6339,9 +6543,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26339_p1.png"
+      "/pdfs-png/prod-26339_p1.png",
+      "/pdfs-png/prod-26339_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26335",
@@ -6392,9 +6597,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26330_p1.png"
+      "/pdfs-png/prod-26330_p1.png",
+      "/pdfs-png/prod-26330_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26327",
@@ -6418,9 +6624,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26327_p1.png"
+      "/pdfs-png/prod-26327_p1.png",
+      "/pdfs-png/prod-26327_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26324",
@@ -6444,9 +6651,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26324_p1.png"
+      "/pdfs-png/prod-26324_p1.png",
+      "/pdfs-png/prod-26324_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26321",
@@ -6470,9 +6678,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26321_p1.png"
+      "/pdfs-png/prod-26321_p1.png",
+      "/pdfs-png/prod-26321_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26316",
@@ -6496,9 +6705,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26316_p1.png"
+      "/pdfs-png/prod-26316_p1.png",
+      "/pdfs-png/prod-26316_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26315",
@@ -6522,9 +6732,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26315_p1.png"
+      "/pdfs-png/prod-26315_p1.png",
+      "/pdfs-png/prod-26315_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26312",
@@ -6548,9 +6759,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26312_p1.png"
+      "/pdfs-png/prod-26312_p1.png",
+      "/pdfs-png/prod-26312_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26300",
@@ -6574,9 +6786,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26300_p1.png"
+      "/pdfs-png/prod-26300_p1.png",
+      "/pdfs-png/prod-26300_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26296",
@@ -6600,9 +6813,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26296_p1.png"
+      "/pdfs-png/prod-26296_p1.png",
+      "/pdfs-png/prod-26296_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26288",
@@ -6652,9 +6866,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26279_p1.png"
+      "/pdfs-png/prod-26279_p1.png",
+      "/pdfs-png/prod-26279_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26268",
@@ -6733,9 +6948,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26247_p1.png"
+      "/pdfs-png/prod-26247_p1.png",
+      "/pdfs-png/prod-26247_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26237",
@@ -6760,9 +6976,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26237_p1.png"
+      "/pdfs-png/prod-26237_p1.png",
+      "/pdfs-png/prod-26237_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26233",
@@ -6787,9 +7004,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26233_p1.png"
+      "/pdfs-png/prod-26233_p1.png",
+      "/pdfs-png/prod-26233_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26228",
@@ -6842,9 +7060,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26222_p1.png"
+      "/pdfs-png/prod-26222_p1.png",
+      "/pdfs-png/prod-26222_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26219",
@@ -6868,9 +7087,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26219_p1.png"
+      "/pdfs-png/prod-26219_p1.png",
+      "/pdfs-png/prod-26219_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26213",
@@ -6897,9 +7117,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26213_p1.png"
+      "/pdfs-png/prod-26213_p1.png",
+      "/pdfs-png/prod-26213_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26210",
@@ -6923,9 +7144,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26210_p1.png"
+      "/pdfs-png/prod-26210_p1.png",
+      "/pdfs-png/prod-26210_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26201",
@@ -6949,9 +7171,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26201_p1.png"
+      "/pdfs-png/prod-26201_p1.png",
+      "/pdfs-png/prod-26201_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26203",
@@ -6975,9 +7198,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26203_p1.png"
+      "/pdfs-png/prod-26203_p1.png",
+      "/pdfs-png/prod-26203_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26202",
@@ -7001,9 +7225,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26202_p1.png"
+      "/pdfs-png/prod-26202_p1.png",
+      "/pdfs-png/prod-26202_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26197",
@@ -7055,9 +7280,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26176_p1.png"
+      "/pdfs-png/prod-26176_p1.png",
+      "/pdfs-png/prod-26176_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26189",
@@ -7107,9 +7333,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26175_p1.png"
+      "/pdfs-png/prod-26175_p1.png",
+      "/pdfs-png/prod-26175_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26173",
@@ -7161,9 +7388,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26146_p1.png"
+      "/pdfs-png/prod-26146_p1.png",
+      "/pdfs-png/prod-26146_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26129",
@@ -7216,9 +7444,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26126_p1.png"
+      "/pdfs-png/prod-26126_p1.png",
+      "/pdfs-png/prod-26126_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26111",
@@ -7242,9 +7471,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26111_p1.png"
+      "/pdfs-png/prod-26111_p1.png",
+      "/pdfs-png/prod-26111_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26103",
@@ -7268,9 +7498,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26103_p1.png"
+      "/pdfs-png/prod-26103_p1.png",
+      "/pdfs-png/prod-26103_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26098",
@@ -7294,9 +7525,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26098_p1.png"
+      "/pdfs-png/prod-26098_p1.png",
+      "/pdfs-png/prod-26098_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26093",
@@ -7320,9 +7552,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26093_p1.png"
+      "/pdfs-png/prod-26093_p1.png",
+      "/pdfs-png/prod-26093_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26094",
@@ -7347,9 +7580,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26094_p1.png"
+      "/pdfs-png/prod-26094_p1.png",
+      "/pdfs-png/prod-26094_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26087",
@@ -7373,9 +7607,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26087_p1.png"
+      "/pdfs-png/prod-26087_p1.png",
+      "/pdfs-png/prod-26087_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26086",
@@ -7400,9 +7635,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26086_p1.png"
+      "/pdfs-png/prod-26086_p1.png",
+      "/pdfs-png/prod-26086_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26073",
@@ -7482,9 +7718,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26055_p1.png"
+      "/pdfs-png/prod-26055_p1.png",
+      "/pdfs-png/prod-26055_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26051",
@@ -7508,9 +7745,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26051_p1.png"
+      "/pdfs-png/prod-26051_p1.png",
+      "/pdfs-png/prod-26051_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26034",
@@ -7535,9 +7773,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26034_p1.png"
+      "/pdfs-png/prod-26034_p1.png",
+      "/pdfs-png/prod-26034_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26035",
@@ -7562,9 +7801,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26035_p1.png"
+      "/pdfs-png/prod-26035_p1.png",
+      "/pdfs-png/prod-26035_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26028",
@@ -7589,9 +7829,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26028_p1.png"
+      "/pdfs-png/prod-26028_p1.png",
+      "/pdfs-png/prod-26028_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26025",
@@ -7615,9 +7856,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26025_p1.png"
+      "/pdfs-png/prod-26025_p1.png",
+      "/pdfs-png/prod-26025_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26011",
@@ -7639,9 +7881,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26011_p1.png"
+      "/pdfs-png/prod-26011_p1.png",
+      "/pdfs-png/prod-26011_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26006",
@@ -7666,9 +7909,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-26006_p1.png"
+      "/pdfs-png/prod-26006_p1.png",
+      "/pdfs-png/prod-26006_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25986",
@@ -7693,9 +7937,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25986_p1.png"
+      "/pdfs-png/prod-25986_p1.png",
+      "/pdfs-png/prod-25986_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26013",
@@ -7719,9 +7964,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26013_p1.png"
+      "/pdfs-png/prod-26013_p1.png",
+      "/pdfs-png/prod-26013_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26012",
@@ -7745,9 +7991,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-26012_p1.png"
+      "/pdfs-png/prod-26012_p1.png",
+      "/pdfs-png/prod-26012_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25998",
@@ -7771,9 +8018,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25998_p1.png"
+      "/pdfs-png/prod-25998_p1.png",
+      "/pdfs-png/prod-25998_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25991",
@@ -7798,9 +8046,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25991_p1.png"
+      "/pdfs-png/prod-25991_p1.png",
+      "/pdfs-png/prod-25991_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25992",
@@ -7824,9 +8073,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25992_p1.png"
+      "/pdfs-png/prod-25992_p1.png",
+      "/pdfs-png/prod-25992_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25993",
@@ -7852,9 +8102,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25993_p1.png"
+      "/pdfs-png/prod-25993_p1.png",
+      "/pdfs-png/prod-25993_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25960",
@@ -7878,9 +8129,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25960_p1.png"
+      "/pdfs-png/prod-25960_p1.png",
+      "/pdfs-png/prod-25960_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25976",
@@ -7906,9 +8158,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25976_p1.png"
+      "/pdfs-png/prod-25976_p1.png",
+      "/pdfs-png/prod-25976_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25955",
@@ -7932,9 +8185,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25955_p1.png"
+      "/pdfs-png/prod-25955_p1.png",
+      "/pdfs-png/prod-25955_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25952",
@@ -7984,9 +8238,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25945_p1.png"
+      "/pdfs-png/prod-25945_p1.png",
+      "/pdfs-png/prod-25945_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25948",
@@ -8008,9 +8263,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25948_p1.png"
+      "/pdfs-png/prod-25948_p1.png",
+      "/pdfs-png/prod-25948_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25934",
@@ -8034,9 +8290,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25934_p1.png"
+      "/pdfs-png/prod-25934_p1.png",
+      "/pdfs-png/prod-25934_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25893",
@@ -8060,9 +8317,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25893_p1.png"
+      "/pdfs-png/prod-25893_p1.png",
+      "/pdfs-png/prod-25893_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25888",
@@ -8088,9 +8346,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25888_p1.png"
+      "/pdfs-png/prod-25888_p1.png",
+      "/pdfs-png/prod-25888_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25877",
@@ -8112,9 +8371,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25877_p1.png"
+      "/pdfs-png/prod-25877_p1.png",
+      "/pdfs-png/prod-25877_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25876",
@@ -8138,9 +8398,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25876_p1.png"
+      "/pdfs-png/prod-25876_p1.png",
+      "/pdfs-png/prod-25876_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25874",
@@ -8162,9 +8423,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25874_p1.png"
+      "/pdfs-png/prod-25874_p1.png",
+      "/pdfs-png/prod-25874_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25837",
@@ -8188,9 +8450,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-25837_p1.png"
+      "/pdfs-png/prod-25837_p1.png",
+      "/pdfs-png/prod-25837_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25831",
@@ -8216,9 +8479,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25831_p1.png"
+      "/pdfs-png/prod-25831_p1.png",
+      "/pdfs-png/prod-25831_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25827",
@@ -8243,9 +8507,10 @@
     "onSale": true,
     "discountPct": 10,
     "pdfPngs": [
-      "/pdfs-png/prod-25827_p1.png"
+      "/pdfs-png/prod-25827_p1.png",
+      "/pdfs-png/prod-25827_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25813",
@@ -20101,9 +20366,10 @@
     "onSale": false,
     "discountPct": 0,
     "pdfPngs": [
-      "/pdfs-png/prod-23362_p1.png"
+      "/pdfs-png/prod-23362_p1.png",
+      "/pdfs-png/prod-23362_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-23358",
@@ -33899,9 +34165,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27003_p1.png"
+      "/pdfs-png/prod-27003_p1.png",
+      "/pdfs-png/prod-27003_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27004",
@@ -33920,9 +34187,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27004_p1.png"
+      "/pdfs-png/prod-27004_p1.png",
+      "/pdfs-png/prod-27004_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26861",
@@ -33941,9 +34209,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26861_p1.png"
+      "/pdfs-png/prod-26861_p1.png",
+      "/pdfs-png/prod-26861_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26862",
@@ -33962,9 +34231,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26862_p1.png"
+      "/pdfs-png/prod-26862_p1.png",
+      "/pdfs-png/prod-26862_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26853",
@@ -33983,9 +34253,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26853_p1.png"
+      "/pdfs-png/prod-26853_p1.png",
+      "/pdfs-png/prod-26853_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26854",
@@ -34004,9 +34275,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26854_p1.png"
+      "/pdfs-png/prod-26854_p1.png",
+      "/pdfs-png/prod-26854_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26855",
@@ -34025,9 +34297,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26855_p1.png"
+      "/pdfs-png/prod-26855_p1.png",
+      "/pdfs-png/prod-26855_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26856",
@@ -34046,9 +34319,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26856_p1.png"
+      "/pdfs-png/prod-26856_p1.png",
+      "/pdfs-png/prod-26856_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26843",
@@ -34067,9 +34341,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26843_p1.png"
+      "/pdfs-png/prod-26843_p1.png",
+      "/pdfs-png/prod-26843_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26844",
@@ -34088,9 +34363,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26844_p1.png"
+      "/pdfs-png/prod-26844_p1.png",
+      "/pdfs-png/prod-26844_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26845",
@@ -34109,9 +34385,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26845_p1.png"
+      "/pdfs-png/prod-26845_p1.png",
+      "/pdfs-png/prod-26845_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26696",
@@ -34130,9 +34407,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26696_p1.png"
+      "/pdfs-png/prod-26696_p1.png",
+      "/pdfs-png/prod-26696_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26698",
@@ -34151,9 +34429,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26698_p1.png"
+      "/pdfs-png/prod-26698_p1.png",
+      "/pdfs-png/prod-26698_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26646",
@@ -34172,9 +34451,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26646_p1.png"
+      "/pdfs-png/prod-26646_p1.png",
+      "/pdfs-png/prod-26646_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26647",
@@ -34193,9 +34473,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-26647_p1.png"
+      "/pdfs-png/prod-26647_p1.png",
+      "/pdfs-png/prod-26647_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26628",
@@ -34760,9 +35041,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27129_p1.png"
+      "/pdfs-png/prod-27129_p1.png",
+      "/pdfs-png/prod-27129_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27130",
@@ -34781,9 +35063,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27130_p1.png"
+      "/pdfs-png/prod-27130_p1.png",
+      "/pdfs-png/prod-27130_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27127",
@@ -34802,9 +35085,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27127_p1.png"
+      "/pdfs-png/prod-27127_p1.png",
+      "/pdfs-png/prod-27127_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27128",
@@ -34823,9 +35107,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27128_p1.png"
+      "/pdfs-png/prod-27128_p1.png",
+      "/pdfs-png/prod-27128_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27125",
@@ -34844,9 +35129,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27125_p1.png"
+      "/pdfs-png/prod-27125_p1.png",
+      "/pdfs-png/prod-27125_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27126",
@@ -34865,9 +35151,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27126_p1.png"
+      "/pdfs-png/prod-27126_p1.png",
+      "/pdfs-png/prod-27126_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27123",
@@ -34886,9 +35173,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27123_p1.png"
+      "/pdfs-png/prod-27123_p1.png",
+      "/pdfs-png/prod-27123_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27124",
@@ -34907,9 +35195,10 @@
     "specs": {},
     "archived": true,
     "pdfPngs": [
-      "/pdfs-png/prod-27124_p1.png"
+      "/pdfs-png/prod-27124_p1.png",
+      "/pdfs-png/prod-27124_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28264",
@@ -34934,9 +35223,10 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoar-incastrat-cellini-81-negru/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28264_p1.png"
+      "/pdfs-png/prod-28264_p1.png",
+      "/pdfs-png/prod-28264_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28261",
@@ -34961,9 +35251,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/baza-dulap-baie-easy-80-negru-lemn/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28261_p1.png"
+      "/pdfs-png/prod-28261_p1.png",
+      "/pdfs-png/prod-28261_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28250",
@@ -34988,9 +35279,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/paravan-dus-easy-walk-in/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28250_p1.png"
+      "/pdfs-png/prod-28250_p1.png",
+      "/pdfs-png/prod-28250_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28246",
@@ -35016,9 +35308,10 @@
     "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/sistem-edplit-buton-wc-invizibil/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28246_p1.png"
+      "/pdfs-png/prod-28246_p1.png",
+      "/pdfs-png/prod-28246_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28242",
@@ -35043,9 +35336,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/coloana-baie-universal-urban-grey/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28242_p1.png"
+      "/pdfs-png/prod-28242_p1.png",
+      "/pdfs-png/prod-28242_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28235",
@@ -35097,9 +35391,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/baza-dulap-baie-winter-100-mattone/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28231_p1.png"
+      "/pdfs-png/prod-28231_p1.png",
+      "/pdfs-png/prod-28231_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28228",
@@ -35124,9 +35419,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/oglinda-baie-brunelleschi-100x75-led/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28228_p1.png"
+      "/pdfs-png/prod-28228_p1.png",
+      "/pdfs-png/prod-28228_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28224",
@@ -35151,9 +35447,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/coloana-baie-lyra-34x139/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28224_p1.png"
+      "/pdfs-png/prod-28224_p1.png",
+      "/pdfs-png/prod-28224_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28220",
@@ -35179,9 +35476,10 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoar-blat-integrat-negru-81/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28220_p1.png"
+      "/pdfs-png/prod-28220_p1.png",
+      "/pdfs-png/prod-28220_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28217",
@@ -35206,9 +35504,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/baza-dulap-baie-lyra-80-verde/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28217_p1.png"
+      "/pdfs-png/prod-28217_p1.png",
+      "/pdfs-png/prod-28217_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28213",
@@ -35234,9 +35533,10 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/vas-toaleta-inteligent-villeroy-boch-tivo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28213_p1.png"
+      "/pdfs-png/prod-28213_p1.png",
+      "/pdfs-png/prod-28213_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28210",
@@ -35261,9 +35561,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/oglinda-baie-brunelleschi-rotunda-d60-led/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28210_p1.png"
+      "/pdfs-png/prod-28210_p1.png",
+      "/pdfs-png/prod-28210_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28206",
@@ -35288,9 +35589,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/oglinda-baie-brunelleschi-80x60-led/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28206_p1.png"
+      "/pdfs-png/prod-28206_p1.png",
+      "/pdfs-png/prod-28206_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-28203",
@@ -35315,9 +35617,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/baza-dulap-baie-iconica-80-blu-mare/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-28203_p1.png"
+      "/pdfs-png/prod-28203_p1.png",
+      "/pdfs-png/prod-28203_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27925",
@@ -35343,9 +35646,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-totem-crom/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27925_p1.png"
+      "/pdfs-png/prod-27925_p1.png",
+      "/pdfs-png/prod-27925_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27922",
@@ -35370,9 +35674,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/panel-decorativ-beton-acquabella-cappuccino-80x250/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27922_p1.png"
+      "/pdfs-png/prod-27922_p1.png",
+      "/pdfs-png/prod-27922_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27906",
@@ -35401,9 +35706,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/radiatoare/radiator-electric-fiora-vulcano-cappuccino-500x1500/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27906_p1.png"
+      "/pdfs-png/prod-27906_p1.png",
+      "/pdfs-png/prod-27906_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27896",
@@ -35429,9 +35735,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/blat-lavoar-aqcuabella-cappuccino-150x51/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27896_p1.png"
+      "/pdfs-png/prod-27896_p1.png",
+      "/pdfs-png/prod-27896_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27873",
@@ -35457,9 +35764,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-bruma-aurie-sunrise-pvd/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27873_p1.png"
+      "/pdfs-png/prod-27873_p1.png",
+      "/pdfs-png/prod-27873_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27008",
@@ -35484,9 +35792,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/ventil-lavoar-pop-up-leaf-pvd/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27008_p1.png"
+      "/pdfs-png/prod-27008_p1.png",
+      "/pdfs-png/prod-27008_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-27002",
@@ -35511,9 +35820,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/set-dus-leaf-sunrise-pvd/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-27002_p1.png"
+      "/pdfs-png/prod-27002_p1.png",
+      "/pdfs-png/prod-27002_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26857",
@@ -35539,9 +35849,10 @@
     "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-de-actionare-rezervor-alca-linka/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26857_p1.png"
+      "/pdfs-png/prod-26857_p1.png",
+      "/pdfs-png/prod-26857_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26846",
@@ -35569,9 +35880,10 @@
     "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-actionare-rezervor-incastrat-alca-flat/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26846_p1.png"
+      "/pdfs-png/prod-26846_p1.png",
+      "/pdfs-png/prod-26846_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26837",
@@ -35598,9 +35910,10 @@
     "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-actionare-rezervor-incastrat-alca-ray/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26837_p1.png"
+      "/pdfs-png/prod-26837_p1.png",
+      "/pdfs-png/prod-26837_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26691",
@@ -35628,9 +35941,10 @@
     "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-actionare-sticla-lucioasa-cu-sistem-dublu-tecesquare/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26691_p1.png"
+      "/pdfs-png/prod-26691_p1.png",
+      "/pdfs-png/prod-26691_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26637",
@@ -35657,9 +35971,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-cada-baterie-cada-dus-perete/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26637_p1.png"
+      "/pdfs-png/prod-26637_p1.png",
+      "/pdfs-png/prod-26637_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26625",
@@ -36036,9 +36351,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-dus-hera-design/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26293_p1.png"
+      "/pdfs-png/prod-26293_p1.png",
+      "/pdfs-png/prod-26293_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26277",
@@ -36063,9 +36379,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-hera-design/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26277_p1.png"
+      "/pdfs-png/prod-26277_p1.png",
+      "/pdfs-png/prod-26277_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26240",
@@ -36090,9 +36407,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-monobloc-bruma/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26240_p1.png"
+      "/pdfs-png/prod-26240_p1.png",
+      "/pdfs-png/prod-26240_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26165",
@@ -36117,9 +36435,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-inalta-elo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26165_p1.png"
+      "/pdfs-png/prod-26165_p1.png",
+      "/pdfs-png/prod-26165_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26151",
@@ -36144,9 +36463,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-hera/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26151_p1.png"
+      "/pdfs-png/prod-26151_p1.png",
+      "/pdfs-png/prod-26151_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26127",
@@ -36171,9 +36491,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-freestanding-dus/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26127_p1.png"
+      "/pdfs-png/prod-26127_p1.png",
+      "/pdfs-png/prod-26127_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26115",
@@ -36198,9 +36519,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/sistem-dus-classico-chrome/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26115_p1.png"
+      "/pdfs-png/prod-26115_p1.png",
+      "/pdfs-png/prod-26115_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26104",
@@ -36225,9 +36547,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-dus-classico-chrome/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26104_p1.png"
+      "/pdfs-png/prod-26104_p1.png",
+      "/pdfs-png/prod-26104_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26066",
@@ -36253,9 +36576,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/tava-organizare-baie-cristal-auriu/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26066_p1.png"
+      "/pdfs-png/prod-26066_p1.png",
+      "/pdfs-png/prod-26066_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-26026",
@@ -36280,9 +36604,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-incastrata-cu-placa-havona/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-26026_p1.png"
+      "/pdfs-png/prod-26026_p1.png",
+      "/pdfs-png/prod-26026_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25977",
@@ -36307,9 +36632,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-retro-dus/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25977_p1.png"
+      "/pdfs-png/prod-25977_p1.png",
+      "/pdfs-png/prod-25977_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25968",
@@ -36334,9 +36660,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-bideu-classico-ventil-automat/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25968_p1.png"
+      "/pdfs-png/prod-25968_p1.png",
+      "/pdfs-png/prod-25968_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25958",
@@ -36361,9 +36688,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-retro-pipa-rotativa/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25958_p1.png"
+      "/pdfs-png/prod-25958_p1.png",
+      "/pdfs-png/prod-25958_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25933",
@@ -36388,9 +36716,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-retro-ventil/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25933_p1.png"
+      "/pdfs-png/prod-25933_p1.png",
+      "/pdfs-png/prod-25933_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25915",
@@ -36415,9 +36744,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/sistem-dus-escudo-palarie-250/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25915_p1.png"
+      "/pdfs-png/prod-25915_p1.png",
+      "/pdfs-png/prod-25915_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25907",
@@ -36442,9 +36772,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-freestanding-escudo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25907_p1.png"
+      "/pdfs-png/prod-25907_p1.png",
+      "/pdfs-png/prod-25907_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25895",
@@ -36469,9 +36800,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/set-dus-quadra-bara-flat/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25895_p1.png"
+      "/pdfs-png/prod-25895_p1.png",
+      "/pdfs-png/prod-25895_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25873",
@@ -36496,9 +36828,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-dus-escudo-monocomanda/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25873_p1.png"
+      "/pdfs-png/prod-25873_p1.png",
+      "/pdfs-png/prod-25873_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25865",
@@ -36523,9 +36856,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/set-dus-quadra/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25865_p1.png"
+      "/pdfs-png/prod-25865_p1.png",
+      "/pdfs-png/prod-25865_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25855",
@@ -36550,9 +36884,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-escudo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25855_p1.png"
+      "/pdfs-png/prod-25855_p1.png",
+      "/pdfs-png/prod-25855_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25845",
@@ -36577,9 +36912,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-bideu-escudo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25845_p1.png"
+      "/pdfs-png/prod-25845_p1.png",
+      "/pdfs-png/prod-25845_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25836",
@@ -36604,9 +36940,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-inalta-escudo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25836_p1.png"
+      "/pdfs-png/prod-25836_p1.png",
+      "/pdfs-png/prod-25836_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25823",
@@ -36656,9 +36993,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-escudo/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25774_p1.png"
+      "/pdfs-png/prod-25774_p1.png",
+      "/pdfs-png/prod-25774_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25720",
@@ -36683,9 +37021,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-3-gauri-lusa/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25720_p1.png"
+      "/pdfs-png/prod-25720_p1.png",
+      "/pdfs-png/prod-25720_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25690",
@@ -36710,9 +37049,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-freestanding-lusa/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25690_p1.png"
+      "/pdfs-png/prod-25690_p1.png",
+      "/pdfs-png/prod-25690_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25667",
@@ -36737,9 +37077,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/set-dus-bruma-flowq/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25667_p1.png"
+      "/pdfs-png/prod-25667_p1.png",
+      "/pdfs-png/prod-25667_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25657",
@@ -36764,9 +37105,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-dus-bruma-breeze/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25657_p1.png"
+      "/pdfs-png/prod-25657_p1.png",
+      "/pdfs-png/prod-25657_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25641",
@@ -36789,9 +37131,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/set-dus-bruma-crom-175/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25641_p1.png"
+      "/pdfs-png/prod-25641_p1.png",
+      "/pdfs-png/prod-25641_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25630",
@@ -36816,9 +37159,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-bruma-breeze/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25630_p1.png"
+      "/pdfs-png/prod-25630_p1.png",
+      "/pdfs-png/prod-25630_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25620",
@@ -36843,9 +37187,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-freestanding-bruma-breeze/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25620_p1.png"
+      "/pdfs-png/prod-25620_p1.png",
+      "/pdfs-png/prod-25620_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25605",
@@ -36870,9 +37215,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/sistem-dus-bruma-brat-reglabil/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25605_p1.png"
+      "/pdfs-png/prod-25605_p1.png",
+      "/pdfs-png/prod-25605_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25595",
@@ -36897,9 +37243,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/sistem-dus-incastrat-bruma-palarie-250/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25595_p1.png"
+      "/pdfs-png/prod-25595_p1.png",
+      "/pdfs-png/prod-25595_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25584",
@@ -36924,9 +37271,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-incastrata-bruma-breeze-set-dus/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25584_p1.png"
+      "/pdfs-png/prod-25584_p1.png",
+      "/pdfs-png/prod-25584_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25574",
@@ -36951,9 +37299,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-bideu-bruma-breeze/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25574_p1.png"
+      "/pdfs-png/prod-25574_p1.png",
+      "/pdfs-png/prod-25574_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25566",
@@ -36978,9 +37327,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-bruma-breeze/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25566_p1.png"
+      "/pdfs-png/prod-25566_p1.png",
+      "/pdfs-png/prod-25566_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25558",
@@ -37005,9 +37355,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-inalta-bruma/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25558_p1.png"
+      "/pdfs-png/prod-25558_p1.png",
+      "/pdfs-png/prod-25558_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25534",
@@ -37030,9 +37381,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/portprosop-aludra-crom/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25534_p1.png"
+      "/pdfs-png/prod-25534_p1.png",
+      "/pdfs-png/prod-25534_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25499",
@@ -37057,9 +37409,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/suport-prosop-crom-60cm-bruma/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25499_p1.png"
+      "/pdfs-png/prod-25499_p1.png",
+      "/pdfs-png/prod-25499_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25446",
@@ -37085,9 +37438,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadita-dus-patrata-90x90-dune/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25446_p1.png"
+      "/pdfs-png/prod-25446_p1.png",
+      "/pdfs-png/prod-25446_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25318",
@@ -37110,9 +37464,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/sifoane-ventile-si-racorduri/70071-bu-ventil-pop-up-ottone-burattato-nero-opaco/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25318_p1.png"
+      "/pdfs-png/prod-25318_p1.png",
+      "/pdfs-png/prod-25318_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25275",
@@ -37139,9 +37494,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/ventil-pop-up-linea-bongio/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25275_p1.png"
+      "/pdfs-png/prod-25275_p1.png",
+      "/pdfs-png/prod-25275_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25248",
@@ -37164,9 +37520,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/pare-furtunuri-si-accesorii/furtun-de-dus-din-otel-inoxidabil-170-m-boet/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25248_p1.png"
+      "/pdfs-png/prod-25248_p1.png",
+      "/pdfs-png/prod-25248_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25240",
@@ -37189,9 +37546,10 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/accesorii-dus/suport-dus-cu-legatura-la-apa/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25240_p1.png"
+      "/pdfs-png/prod-25240_p1.png",
+      "/pdfs-png/prod-25240_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25227",
@@ -37216,9 +37574,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/pare-furtunuri-si-accesorii/para-dus-abs-4-pozitii-anticalcar/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25227_p1.png"
+      "/pdfs-png/prod-25227_p1.png",
+      "/pdfs-png/prod-25227_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25211",
@@ -37241,9 +37600,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/brate-si-palarii-dus/brat-dus-tavan-20-cm-boet/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25211_p1.png"
+      "/pdfs-png/prod-25211_p1.png",
+      "/pdfs-png/prod-25211_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25182",
@@ -37266,9 +37626,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/brate-si-palarii-dus/palarie-dus-rotunda-inox-25-30-cm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25182_p1.png"
+      "/pdfs-png/prod-25182_p1.png",
+      "/pdfs-png/prod-25182_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25091",
@@ -37291,9 +37652,10 @@
     "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/coloane-de-dus/coloana-dus-tube-palarie-rotunda/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25091_p1.png"
+      "/pdfs-png/prod-25091_p1.png",
+      "/pdfs-png/prod-25091_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-25080",
@@ -37316,9 +37678,10 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-cada-freestanding-tube/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-25080_p1.png"
+      "/pdfs-png/prod-25080_p1.png",
+      "/pdfs-png/prod-25080_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24982",
@@ -37341,9 +37704,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-otel-felix-1200x300-mrp/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24982_p1.png"
+      "/pdfs-png/prod-24982_p1.png",
+      "/pdfs-png/prod-24982_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24972",
@@ -37366,9 +37730,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-otel-neo-580x410-baie/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24972_p1.png"
+      "/pdfs-png/prod-24972_p1.png",
+      "/pdfs-png/prod-24972_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24955",
@@ -37391,9 +37756,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-aluminiu-entree-txc-1800x470-vertical/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24955_p1.png"
+      "/pdfs-png/prod-24955_p1.png",
+      "/pdfs-png/prod-24955_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24933",
@@ -37416,9 +37782,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-otel-dante-1500x32-matt-black/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24933_p1.png"
+      "/pdfs-png/prod-24933_p1.png",
+      "/pdfs-png/prod-24933_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24902",
@@ -37441,9 +37808,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-otel-otto-single-1800x75/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24902_p1.png"
+      "/pdfs-png/prod-24902_p1.png",
+      "/pdfs-png/prod-24902_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24878",
@@ -37466,9 +37834,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/radiatoare-mobilier-baie/radiator-aluminiu-magnus-f-1600x500-negru/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24878_p1.png"
+      "/pdfs-png/prod-24878_p1.png",
+      "/pdfs-png/prod-24878_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24794",
@@ -37493,9 +37862,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadita-dus-semirotunda-slim-mild-80x80-4-5cm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24794_p1.png"
+      "/pdfs-png/prod-24794_p1.png",
+      "/pdfs-png/prod-24794_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24792",
@@ -37518,9 +37888,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadita-dus-patrata-slim-mild-90x90-4-5cm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24792_p1.png"
+      "/pdfs-png/prod-24792_p1.png",
+      "/pdfs-png/prod-24792_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24789",
@@ -37545,9 +37916,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadita-dus-rotunda-domio-80x80-16cm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24789_p1.png"
+      "/pdfs-png/prod-24789_p1.png",
+      "/pdfs-png/prod-24789_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24786",
@@ -37572,9 +37944,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadita-dus-patrata-domio-80x80-16cm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24786_p1.png"
+      "/pdfs-png/prod-24786_p1.png",
+      "/pdfs-png/prod-24786_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24784",
@@ -37597,9 +37970,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cabina-dus-rotunda-new-varia-80x80/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24784_p1.png"
+      "/pdfs-png/prod-24784_p1.png",
+      "/pdfs-png/prod-24784_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24782",
@@ -37622,9 +37996,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/cabina-dus-patrata-new-varia-80-x-80-x-200-cm-usa-culisanta-sticla-6-mm/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24782_p1.png"
+      "/pdfs-png/prod-24782_p1.png",
+      "/pdfs-png/prod-24782_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24655",
@@ -37649,9 +38024,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/grila-tece-drainline-basic-inox-lucios/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24655_p1.png"
+      "/pdfs-png/prod-24655_p1.png",
+      "/pdfs-png/prod-24655_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24649",
@@ -37676,9 +38052,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/grila-tece-drainline-plate-placare-ceramica/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24649_p1.png"
+      "/pdfs-png/prod-24649_p1.png",
+      "/pdfs-png/prod-24649_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24644",
@@ -37701,9 +38078,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/rigola-dus-tece-drainline-seal-system/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24644_p1.png"
+      "/pdfs-png/prod-24644_p1.png",
+      "/pdfs-png/prod-24644_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24566",
@@ -37726,9 +38104,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/gresie-portelanata-calacatta-gold-60x120/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24566_p1.png"
+      "/pdfs-png/prod-24566_p1.png",
+      "/pdfs-png/prod-24566_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24551",
@@ -37753,9 +38132,10 @@
     "buyUrl": "https://doarbai.ro/produs/dusuri/gresie-de-baie/gresie-portelanata-terrazzo-60x120-cera-scaglie-incenso/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24551_p1.png"
+      "/pdfs-png/prod-24551_p1.png",
+      "/pdfs-png/prod-24551_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-24295",
@@ -37780,9 +38160,10 @@
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/oglinda-baie-premium-havona-din-rasina-piesa-unicat-disponibila-in-3-marimi/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-24295_p1.png"
+      "/pdfs-png/prod-24295_p1.png",
+      "/pdfs-png/prod-24295_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   },
   {
     "id": "prod-21885",
@@ -37807,8 +38188,9 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoare/lavoar-de-blat-wb-0411-335-c-din-mineral-composite-335x285-mm-lucios-sau-mat-fara-preaplin/",
     "pdfUrl": "",
     "pdfPngs": [
-      "/pdfs-png/prod-21885_p1.png"
+      "/pdfs-png/prod-21885_p1.png",
+      "/pdfs-png/prod-21885_p2.png"
     ],
-    "pdfPages": 1
+    "pdfPages": 2
   }
 ]
