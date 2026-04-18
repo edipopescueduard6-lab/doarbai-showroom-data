@@ -52,7 +52,7 @@
       "/pdfs-png/prod-27461_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27395",
@@ -80,7 +80,7 @@
       "/pdfs-png/prod-27395_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27399",
@@ -109,7 +109,7 @@
       "/pdfs-png/prod-27399_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27385",
@@ -137,7 +137,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27357",
@@ -163,7 +163,7 @@
       "/pdfs-png/prod-27357_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27355",
@@ -191,7 +191,7 @@
       "/pdfs-png/prod-27355_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27352",
@@ -219,7 +219,7 @@
       "/pdfs-png/prod-27352_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27350",
@@ -247,7 +247,7 @@
       "/pdfs-png/prod-27350_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27347",
@@ -275,7 +275,7 @@
       "/pdfs-png/prod-27347_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27345",
@@ -303,7 +303,7 @@
       "/pdfs-png/prod-27345_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27343",
@@ -331,7 +331,7 @@
       "/pdfs-png/prod-27343_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27340",
@@ -359,7 +359,7 @@
       "/pdfs-png/prod-27340_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27337",
@@ -387,7 +387,7 @@
       "/pdfs-png/prod-27337_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27325",
@@ -417,7 +417,7 @@
       "/pdfs-png/prod-27325_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27324",
@@ -446,7 +446,7 @@
       "/pdfs-png/prod-27324_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27321",
@@ -475,7 +475,7 @@
       "/pdfs-png/prod-27321_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27319",
@@ -504,7 +504,7 @@
       "/pdfs-png/prod-27319_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27317",
@@ -533,7 +533,7 @@
       "/pdfs-png/prod-27317_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27315",
@@ -562,7 +562,7 @@
       "/pdfs-png/prod-27315_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27313",
@@ -591,7 +591,7 @@
       "/pdfs-png/prod-27313_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27300",
@@ -620,7 +620,7 @@
       "/pdfs-png/prod-27300_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27298",
@@ -649,7 +649,7 @@
       "/pdfs-png/prod-27298_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27295",
@@ -678,7 +678,7 @@
       "/pdfs-png/prod-27295_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27293",
@@ -707,7 +707,7 @@
       "/pdfs-png/prod-27293_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27291",
@@ -736,7 +736,7 @@
       "/pdfs-png/prod-27291_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27289",
@@ -765,7 +765,7 @@
       "/pdfs-png/prod-27289_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27287",
@@ -794,7 +794,7 @@
       "/pdfs-png/prod-27287_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27285",
@@ -823,7 +823,7 @@
       "/pdfs-png/prod-27285_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27283",
@@ -852,7 +852,7 @@
       "/pdfs-png/prod-27283_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27281",
@@ -881,7 +881,7 @@
       "/pdfs-png/prod-27281_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27279",
@@ -910,7 +910,7 @@
       "/pdfs-png/prod-27279_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27277",
@@ -939,7 +939,7 @@
       "/pdfs-png/prod-27277_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27274",
@@ -968,7 +968,7 @@
       "/pdfs-png/prod-27274_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27272",
@@ -997,7 +997,7 @@
       "/pdfs-png/prod-27272_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27267",
@@ -1026,7 +1026,7 @@
       "/pdfs-png/prod-27267_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27265",
@@ -1055,7 +1055,7 @@
       "/pdfs-png/prod-27265_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27260",
@@ -1084,7 +1084,7 @@
       "/pdfs-png/prod-27260_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27257",
@@ -1113,7 +1113,7 @@
       "/pdfs-png/prod-27257_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27255",
@@ -1142,7 +1142,7 @@
       "/pdfs-png/prod-27255_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27253",
@@ -1172,7 +1172,7 @@
       "/pdfs-png/prod-27253_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27250",
@@ -1201,7 +1201,7 @@
       "/pdfs-png/prod-27250_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27248",
@@ -1230,7 +1230,7 @@
       "/pdfs-png/prod-27248_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27246",
@@ -1259,7 +1259,7 @@
       "/pdfs-png/prod-27246_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27244",
@@ -1288,7 +1288,7 @@
       "/pdfs-png/prod-27244_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27242",
@@ -1317,7 +1317,7 @@
       "/pdfs-png/prod-27242_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27240",
@@ -1346,7 +1346,7 @@
       "/pdfs-png/prod-27240_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27238",
@@ -1375,7 +1375,7 @@
       "/pdfs-png/prod-27238_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27233",
@@ -1404,7 +1404,7 @@
       "/pdfs-png/prod-27233_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27235",
@@ -1433,7 +1433,7 @@
       "/pdfs-png/prod-27235_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27231",
@@ -1462,7 +1462,7 @@
       "/pdfs-png/prod-27231_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27224",
@@ -1491,7 +1491,7 @@
       "/pdfs-png/prod-27224_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27222",
@@ -1520,7 +1520,7 @@
       "/pdfs-png/prod-27222_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27218",
@@ -1549,7 +1549,7 @@
       "/pdfs-png/prod-27218_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27216",
@@ -1578,7 +1578,7 @@
       "/pdfs-png/prod-27216_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27214",
@@ -1607,7 +1607,7 @@
       "/pdfs-png/prod-27214_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27212",
@@ -1636,7 +1636,7 @@
       "/pdfs-png/prod-27212_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27209",
@@ -1665,7 +1665,7 @@
       "/pdfs-png/prod-27209_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27207",
@@ -1694,7 +1694,7 @@
       "/pdfs-png/prod-27207_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27205",
@@ -1723,7 +1723,7 @@
       "/pdfs-png/prod-27205_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27201",
@@ -1752,7 +1752,7 @@
       "/pdfs-png/prod-27201_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27199",
@@ -1781,7 +1781,7 @@
       "/pdfs-png/prod-27199_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27197",
@@ -1810,7 +1810,7 @@
       "/pdfs-png/prod-27197_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27195",
@@ -1839,7 +1839,7 @@
       "/pdfs-png/prod-27195_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27193",
@@ -1868,7 +1868,7 @@
       "/pdfs-png/prod-27193_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27191",
@@ -1897,7 +1897,7 @@
       "/pdfs-png/prod-27191_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27188",
@@ -1926,7 +1926,7 @@
       "/pdfs-png/prod-27188_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27186",
@@ -1955,7 +1955,7 @@
       "/pdfs-png/prod-27186_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27184",
@@ -1984,7 +1984,7 @@
       "/pdfs-png/prod-27184_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27181",
@@ -2013,7 +2013,7 @@
       "/pdfs-png/prod-27181_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27178",
@@ -2042,7 +2042,7 @@
       "/pdfs-png/prod-27178_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27175",
@@ -2071,7 +2071,7 @@
       "/pdfs-png/prod-27175_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27173",
@@ -36243,7 +36243,7 @@
       "/pdfs-png/prod-28264_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28261",
@@ -36272,7 +36272,7 @@
       "/pdfs-png/prod-28261_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28250",
@@ -36301,7 +36301,7 @@
       "/pdfs-png/prod-28250_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28246",
@@ -36331,7 +36331,7 @@
       "/pdfs-png/prod-28246_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28242",
@@ -36360,7 +36360,7 @@
       "/pdfs-png/prod-28242_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28235",
@@ -36388,7 +36388,7 @@
       "/pdfs-png/prod-28235_p1.png"
     ],
     "pdfPages": 1,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28231",
@@ -36417,7 +36417,7 @@
       "/pdfs-png/prod-28231_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28228",
@@ -36446,7 +36446,7 @@
       "/pdfs-png/prod-28228_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28224",
@@ -36475,7 +36475,7 @@
       "/pdfs-png/prod-28224_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28220",
@@ -36505,7 +36505,7 @@
       "/pdfs-png/prod-28220_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28217",
@@ -36534,7 +36534,7 @@
       "/pdfs-png/prod-28217_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28213",
@@ -36564,7 +36564,7 @@
       "/pdfs-png/prod-28213_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28210",
@@ -36593,7 +36593,7 @@
       "/pdfs-png/prod-28210_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28206",
@@ -36622,7 +36622,7 @@
       "/pdfs-png/prod-28206_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28203",
@@ -36651,7 +36651,7 @@
       "/pdfs-png/prod-28203_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27925",
@@ -36681,7 +36681,7 @@
       "/pdfs-png/prod-27925_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27922",
@@ -36710,7 +36710,7 @@
       "/pdfs-png/prod-27922_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27906",
@@ -36743,7 +36743,7 @@
       "/pdfs-png/prod-27906_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27896",
@@ -36773,7 +36773,7 @@
       "/pdfs-png/prod-27896_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27873",
@@ -36803,7 +36803,7 @@
       "/pdfs-png/prod-27873_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27008",
@@ -39340,7 +39340,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28296",
@@ -39366,7 +39366,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28293",
@@ -39392,7 +39392,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28289",
@@ -39418,7 +39418,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28286",
@@ -39444,7 +39444,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28283",
@@ -39470,7 +39470,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28280",
@@ -39496,7 +39496,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28277",
@@ -39522,7 +39522,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-28274",
@@ -39548,6 +39548,6 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   }
 ]
