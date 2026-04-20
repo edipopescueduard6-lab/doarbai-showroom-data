@@ -39599,5 +39599,56 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-28367",
+    "name": "Baterie lavoar tavan Bruma X-Alpha 1.5 m inox satinat",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii lavoar",
+    "boxId": "box-showroom-demo",
+    "price": 5884,
+    "regularPrice": 5884,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T120146.458.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T120208.922.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T121313.249.jpg"
+    ],
+    "description": "Baterie lavoar Bruma X-Alpha montaj din tavan, lungime 1.5 m, finisaj inox satinat, cu design cilindric și racord G1/2, permite integrare completă în plafon și oferă soluție clară pentru băi moderne cu linii curate și spațiu liber pe perete.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-tavan-bruma-xalpha/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-28362",
+    "name": "Baterie lavoar incastrata perete pipa 200 mm finisaj inox satinat",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii lavoar",
+    "boxId": "box-showroom-demo",
+    "price": 1566,
+    "regularPrice": 1566,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T115709.653.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T115719.586.jpg"
+    ],
+    "description": "Baterie lavoar încastrată în perete cu pipă de 200 mm, placă unică și finisaj inox satinat, oferă montaj ascuns, economisește spațiu pe blat și asigură control precis al apei în băi moderne cu design bine organizat.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-incastrata-perete-200mm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
