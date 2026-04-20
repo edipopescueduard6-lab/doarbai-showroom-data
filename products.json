@@ -39650,5 +39650,55 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-28376",
+    "name": "Bara stabilizatoare paravan dus 125 cm crom",
+    "brand": "Accesorii baie",
+    "category": "Accesorii baie, Cuiere si suporturi prosoape",
+    "boxId": "box-showroom-demo",
+    "price": 424,
+    "regularPrice": 424,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T125246.891.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T125258.213.jpg"
+    ],
+    "description": "Bara stabilizatoare din aluminiu, lungime 125 cm, finisaj crom lucios, compatibila cu paravane din colectia Easy. Asigura fixare stabila si siguranta in utilizare.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/accesorii-baie/bara-stabilizatoare-paravan-dus-125-cm-crom/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-28371",
+    "name": "Oglinda rectangulara LED cu touch rama si polita Brunelleschi lux",
+    "brand": "Mobilier baie",
+    "category": "Mobilier baie, Oglinzi baie si corpuri iluminat",
+    "boxId": "box-showroom-demo",
+    "price": 1185,
+    "regularPrice": 1185,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T122827.357.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T122723.489-1.jpg"
+    ],
+    "description": "Oglinda rectangulara cu iluminare LED integrata si control touch, prevazuta cu polita practica pentru depozitare rapida. Ofera lumina uniforma si organizare eficienta langa lavoar.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/mobilier-baie/oglinda-rectangulara-led-cu-touch-rama-si-polita-brunelleschi-lux/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
