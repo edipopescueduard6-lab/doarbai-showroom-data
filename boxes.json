@@ -748,87 +748,55 @@
     "heroImage": "/images/showroom/boxa8-atlas.jpg",
     "video": "/videos/boxa9-vivere.mp4",
     "color": "#7C5E4A",
-    "productCount": 19,
+    "productCount": 12,
     "productPositions": [
       {
-        "productId": "prod-24265",
-        "label": "IMPERIA set mobilier frasin 1500 unicat"
+        "productId": "prod-25798",
+        "label": "Gresie portelanata Rainforest Green Pol 60x120x0.98 Revigres"
       },
       {
-        "productId": "prod-26312",
-        "label": "HERA baterie cada freestanding montaj pardoseala"
+        "productId": "prod-27399",
+        "label": "Priza ascunsa dubla alba EDPLIT montaj invizibil perete deco"
       },
       {
-        "productId": "prod-24293",
-        "label": "ILLUMA set mobilier lemn masiv 1500"
+        "productId": "prod-22574",
+        "label": "Ideal Standard BD130AA – Set duş igienic IdealSpray crom luc"
       },
       {
-        "productId": "prod-24200",
-        "label": "VELLA set mobilier nuc 900"
+        "productId": "prod-24179",
+        "label": "Dispenser automat Colectia NERO argintiu crom lucios cu senz"
       },
       {
-        "productId": "prod-26115",
-        "label": "Sistem dus CLASSICO chrome palarie 200 mm"
+        "productId": "prod-26127",
+        "label": "Baterie cada freestanding cu dus montaj pardoseala"
       },
       {
-        "productId": "prod-24273",
-        "label": "ALERA set mobilier lemn masiv 800"
+        "productId": "prod-25477",
+        "label": "Cadita dus asimetrica 80x120 Mineralite slim"
       },
       {
-        "productId": "prod-24282",
-        "label": "ELVO set mobilier lemn masiv 800"
+        "productId": "prod-26926",
+        "label": "Baterie lavoar din perete Classico Chrome, Bruma"
       },
       {
-        "productId": "prod-24982",
-        "label": "Radiator otel FELIX 1200x300 MRP"
+        "productId": "prod-24160",
+        "label": "Dispenser automat Colectia LUXA alb lucios cu senzor"
       },
       {
-        "productId": "prod-24939",
-        "label": "Radiator otel DANTE 1500x32 negru"
+        "productId": "prod-24136",
+        "label": "Dispenser automat Colectia SERENE alb lucios cu senzor"
       },
       {
-        "productId": "prod-24902",
-        "label": "Radiator otel OTTO SINGLE 1800x75 TXC"
+        "productId": "prod-25676",
+        "label": "Baterie lavoar LUSA monocomanda cu ventil crom"
       },
       {
-        "productId": "prod-25958",
-        "label": "RETRO baterie lavoar cu pipa rotativa"
+        "productId": "prod-27101",
+        "label": "Difuzor parfum cu floare Pepe Nero 100 ml elegant"
       },
       {
-        "productId": "prod-26165",
-        "label": "ELO baterie lavoar inalta cu ventil pop-up"
-      },
-      {
-        "productId": "prod-25968",
-        "label": "RETRO baterie bideu cu ventil automat"
-      },
-      {
-        "productId": "prod-24035",
-        "label": "Nisa depozitare incastrata HAVONA"
-      },
-      {
-        "productId": "prod-25642",
-        "label": "Vas WC stativ alb capac soft close"
-      },
-      {
-        "productId": "prod-25845",
-        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
-      },
-      {
-        "productId": "prod-24177",
-        "label": "Dispenser automat NERO alb vene aurii"
-      },
-      {
-        "productId": "prod-24537",
-        "label": "Gresie portelanata EIK Leaf Natural R 60x60"
-      },
-      {
-        "productId": "prod-24125",
-        "label": "Dispenser automat SERENE alb marmorat aurii"
-      },
-      {
-        "productId": "prod-23822",
-        "label": "Cada freestanding VALORIA ovala 175 cm"
+        "productId": "prod-25794",
+        "label": "Set 4 accesorii baie, culoare gri-ash, Havona"
       }
     ]
   },
@@ -841,59 +809,67 @@
     "heroImage": "/images/showroom/boxa8-vivere.jpg",
     "video": "/videos/boxa10-pulsar.mp4",
     "color": "#5B7A5E",
-    "productCount": 13,
+    "productCount": 15,
     "productPositions": [
       {
-        "productId": "prod-24223",
-        "label": "ZENON set mobilier lemn masiv 1700"
+        "productId": "prod-24158",
+        "label": "Dispenser automat Colectia LUXA negru lucios cu senzor"
       },
       {
-        "productId": "prod-23870",
-        "label": "Cada freestanding SOLIN 1700x740x550"
+        "productId": "prod-25534",
+        "label": "Portprosop ALUDRA crom 50/60 cm montaj perete"
       },
       {
-        "productId": "prod-24190",
-        "label": "BOREAL set mobilier lemn masiv unicat"
+        "productId": "prod-25620",
+        "label": "Baterie cada freestanding Bruma BREEZE cu dus de mana"
       },
       {
-        "productId": "prod-23798",
-        "label": "Cada freestanding SOMA ovala 170 cm"
+        "productId": "prod-25605",
+        "label": "Sistem dus Bruma cu palarie Ø250 mm si brat reglabil"
       },
       {
-        "productId": "prod-24940",
-        "label": "Radiator otel BOREAS B MIRROR 1800x369 negru"
+        "productId": "prod-24113",
+        "label": "Dispenser automat Colectia SERENE negru lucios cu senzor"
       },
       {
-        "productId": "prod-24955",
-        "label": "Radiator aluminiu ENTREE 1800x470 TXC"
+        "productId": "prod-24943",
+        "label": "Radiator aluminiu 1800x470 CIRCLES antracit"
       },
       {
-        "productId": "prod-23936",
-        "label": "Lavoar freestanding SOLIN 400x400x850"
+        "productId": "prod-25690",
+        "label": "Baterie lavoar freestanding LUSA monocomanda crom"
       },
       {
-        "productId": "prod-25595",
-        "label": "Sistem dus Bruma palarie 250 mm"
+        "productId": "prod-25542",
+        "label": "Polita cu suport prosop ALUDRA 60 cm crom"
       },
       {
-        "productId": "prod-25584",
-        "label": "Baterie cada freestanding Bruma BREEZE"
+        "productId": "prod-25480",
+        "label": "Cadita dus patrata 90x90 Mineralite AIR slim"
       },
       {
-        "productId": "prod-23934",
-        "label": "Lavoar freestanding SOMA 400x400x850"
+        "productId": "prod-25483",
+        "label": "Paravan dus walk in 90 cm EASY STR4PX SOLO profil lucios"
       },
       {
-        "productId": "prod-25573",
-        "label": "Baterie lavoar Bruma BREEZE ventil Sunset"
+        "productId": "prod-23119",
+        "label": "Gresie portelanata Calacatta Classic 60×120 cm mat | Placa r"
       },
       {
-        "productId": "prod-24774",
-        "label": "Tava bambus pentru cada cu suport carte"
+        "productId": "prod-24173",
+        "label": "Dispenser automat Colectia NERO negru cu vene aurii cu senzo"
       },
       {
-        "productId": "prod-23127",
-        "label": "Gresie Cityzen Carbon Mat 60x60"
+        "productId": "prod-28362",
+        "label": "Baterie lavoar incastrata perete cu pipa 200 mm si placa uni"
+      },
+      {
+        "productId": "prod-28367",
+        "label": "Baterie lavoar tavan Bruma X-Alpha 1.5 m inox satinat."
+      },
+      {
+        "productId": "prod-28376",
+        "label": "Bara stabilizatoare Ronal cu Finisaj Cromat Elegant"
       }
     ]
   },
