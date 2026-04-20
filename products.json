@@ -39574,5 +39574,30 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-28324",
+    "name": "Dulap baie suspendat Universal 34 cm negru mat si rovere moka cu 2 usi",
+    "brand": "Dulapuri baie",
+    "category": "Dulapuri baie, Mobilier baie",
+    "boxId": "box-showroom-demo",
+    "price": 1331,
+    "regularPrice": 1331,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T083009.563.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T082736.140.jpg"
+    ],
+    "description": "Dulap baie suspendat Universal 34x36x133 cm cu finisaj negru mat și laterale rovere moka, două uși și rafturi interioare, oferă organizare verticală eficientă și montaj pe perete pentru băi compacte cu spațiu limitat.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/mobilier-baie/dulap-baie-universal-34-negru-moka/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
