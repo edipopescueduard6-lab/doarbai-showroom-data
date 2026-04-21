@@ -18502,7 +18502,7 @@
     "salePrice": 2454,
     "onSale": true,
     "discountPct": 10,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-23916",
