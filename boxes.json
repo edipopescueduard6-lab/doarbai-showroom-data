@@ -748,8 +748,84 @@
     "heroImage": "/images/showroom/boxa8-atlas.jpg",
     "video": "/videos/boxa9-vivere.mp4",
     "color": "#7C5E4A",
-    "productCount": 12,
+    "productCount": 31,
     "productPositions": [
+      {
+        "productId": "prod-24265",
+        "label": "IMPERIA set mobilier frasin 1500 unicat"
+      },
+      {
+        "productId": "prod-24293",
+        "label": "ILLUMA set mobilier lemn masiv 1500"
+      },
+      {
+        "productId": "prod-24200",
+        "label": "VELLA set mobilier nuc 900"
+      },
+      {
+        "productId": "prod-26115",
+        "label": "Sistem dus CLASSICO chrome palarie 200 mm"
+      },
+      {
+        "productId": "prod-24273",
+        "label": "ALERA set mobilier lemn masiv 800"
+      },
+      {
+        "productId": "prod-24282",
+        "label": "ELVO set mobilier lemn masiv 800"
+      },
+      {
+        "productId": "prod-24982",
+        "label": "Radiator otel FELIX 1200x300 MRP"
+      },
+      {
+        "productId": "prod-24939",
+        "label": "Radiator otel DANTE 1500x32 negru"
+      },
+      {
+        "productId": "prod-24902",
+        "label": "Radiator otel OTTO SINGLE 1800x75 TXC"
+      },
+      {
+        "productId": "prod-25958",
+        "label": "RETRO baterie lavoar cu pipa rotativa"
+      },
+      {
+        "productId": "prod-26165",
+        "label": "ELO baterie lavoar inalta cu ventil pop-up"
+      },
+      {
+        "productId": "prod-25968",
+        "label": "RETRO baterie bideu cu ventil automat"
+      },
+      {
+        "productId": "prod-24035",
+        "label": "Nisa depozitare incastrata HAVONA"
+      },
+      {
+        "productId": "prod-25642",
+        "label": "Vas WC stativ alb capac soft close"
+      },
+      {
+        "productId": "prod-25845",
+        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
+      },
+      {
+        "productId": "prod-24177",
+        "label": "Dispenser automat NERO alb vene aurii"
+      },
+      {
+        "productId": "prod-24537",
+        "label": "Gresie portelanata EIK Leaf Natural R 60x60"
+      },
+      {
+        "productId": "prod-24125",
+        "label": "Dispenser automat SERENE alb marmorat aurii"
+      },
+      {
+        "productId": "prod-23822",
+        "label": "Cada freestanding VALORIA ovala 175 cm"
+      },
       {
         "productId": "prod-25798",
         "label": "Gresie portelanata Rainforest Green Pol 60x120x0.98 Revigres"
@@ -809,8 +885,48 @@
     "heroImage": "/images/showroom/boxa8-vivere.jpg",
     "video": "/videos/boxa10-pulsar.mp4",
     "color": "#5B7A5E",
-    "productCount": 15,
+    "productCount": 25,
     "productPositions": [
+      {
+        "productId": "prod-24223",
+        "label": "ZENON set mobilier lemn masiv 1700"
+      },
+      {
+        "productId": "prod-23870",
+        "label": "Cada freestanding SOLIN 1700x740x550"
+      },
+      {
+        "productId": "prod-24190",
+        "label": "BOREAL set mobilier lemn masiv unicat"
+      },
+      {
+        "productId": "prod-23798",
+        "label": "Cada freestanding SOMA ovala 170 cm"
+      },
+      {
+        "productId": "prod-24940",
+        "label": "Radiator otel BOREAS B MIRROR 1800x369 negru"
+      },
+      {
+        "productId": "prod-23936",
+        "label": "Lavoar freestanding SOLIN 400x400x850"
+      },
+      {
+        "productId": "prod-23934",
+        "label": "Lavoar freestanding SOMA 400x400x850"
+      },
+      {
+        "productId": "prod-25573",
+        "label": "Baterie lavoar Bruma BREEZE ventil Sunset"
+      },
+      {
+        "productId": "prod-24774",
+        "label": "Tava bambus pentru cada cu suport carte"
+      },
+      {
+        "productId": "prod-23127",
+        "label": "Gresie Cityzen Carbon Mat 60x60"
+      },
       {
         "productId": "prod-24158",
         "label": "Dispenser automat Colectia LUXA negru lucios cu senzor"
