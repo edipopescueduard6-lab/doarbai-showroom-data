@@ -457,79 +457,91 @@
     "image": "/images/showroom/boxa6-nexum.jpg",
     "heroImage": "/images/showroom/boxa6-nexum.jpg",
     "color": "#6B5B73",
-    "productCount": 18,
+    "productCount": 20,
     "productPositions": [
       {
+        "productId": "prod-24693",
+        "x": 55,
+        "y": 25,
+        "label": "Clapeta WC TECE"
+      },
+      {
+        "productId": "prod-24175",
+        "x": 52,
+        "y": 60,
+        "label": "Dispenser automat .."
+      },
+      {
         "productId": "prod-24618",
-        "label": "Cadita dus Plato Halo Slate 80x100"
+        "label": "Cadita dus 80x100 Plato Halo Slate textura ardezie"
       },
       {
         "productId": "prod-26609",
-        "label": "Set mobilier cu lavoar Fiora"
+        "label": "Set mobilier cu lavoar, Fiora"
       },
       {
         "productId": "prod-26621",
-        "label": "Oglinda Fiora 500x30x800"
+        "label": "Oglinda 500x30x800, Fiora"
       },
       {
         "productId": "prod-26720",
-        "label": "Coloana mobilier Fiora"
+        "label": "Coloana mobilier baie deschisa cu rafturi 400x235x1300 mm, F"
       },
       {
         "productId": "prod-26618",
-        "label": "Consola blat lavoar Liso Fiora"
+        "label": "Consola pentru blat lavoar, 500x800, Liso, Fiora"
       },
       {
         "productId": "prod-24604",
-        "label": "Panel decorativ Basic Cappuccino"
+        "label": "Panel decorativ perete 60x250 Basic Cappuccino"
       },
       {
         "productId": "prod-23348",
-        "label": "Panou Acquabella Hera Zero Nat"
+        "label": "Panou decorativ Acquabella Hera Zero Nat 120x250 cm – materi"
       },
       {
         "productId": "prod-27922",
-        "label": "Panel Beton Cappuccino 80x250"
+        "label": "Panel decorativ BETON Cappuccino 80x250 cm din Akron"
       },
       {
         "productId": "prod-25730",
-        "label": "Baterie lavoar incastrata aurie"
+        "label": "Baterie lavoar incastrata aurie design modern"
       },
       {
         "productId": "prod-25696",
-        "label": "Baterie lavoar incastrata auriu"
+        "label": "Baterie lavoar auriu incastrata design modern"
       },
       {
         "productId": "prod-26094",
-        "label": "Verve Showers Brushed Gold"
+        "label": "Verve Showers sistem dus cu termostat si palarie Brushed Gol"
       },
       {
         "productId": "prod-24024",
-        "label": "Raft incastrat Havona"
+        "label": "Raft incastrat HAVONA 900x300x100"
       },
       {
         "productId": "prod-24896",
-        "label": "Radiator Magnico Bath"
+        "label": "Radiator baie 1485x500 MAGICO BATH aluminiu TXB"
       },
       {
         "productId": "prod-23147",
-        "label": "Gresie Iron 600x1200"
+        "label": "Gresie portelanata Iron 600×1200 mm pentru proiecte premium"
       },
       {
         "productId": "prod-24048",
-        "label": "Cada colt AQUAWAVE"
+        "label": "Cada de colt AQUAWAVE 1700x800 din acril"
       },
       {
         "productId": "prod-28213",
-        "label": "Villeroy&Boch Tivo inteligent"
+        "label": "Vas toaleta inteligent Villeroy Boch Tivo suspendat cu funct"
       },
       {
         "productId": "prod-28246",
-        "label": "Sistem EDPLIT buton invizibil"
+        "label": "Sistem EDPLIT buton WC invizibil compatibil Geberit."
       },
       {
         "productId": "prod-28250",
-        "label": "Paravan dus EASY walk-in"
+        "label": "Paravan dus EASY walk in sticla securizata 8 mm cu profil lu"
       }
     ]
   },
@@ -542,8 +554,32 @@
     "heroImage": "/images/showroom/boxa7-radix.jpg",
     "video": "/videos/boxa7-radix.mp4",
     "color": "#8B5E3C",
-    "productCount": 29,
+    "productCount": 35,
     "productPositions": [
+      {
+        "productId": "prod-24277",
+        "label": "NEREA – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-24238",
+        "label": "SOLIS – set mobilier de baie din lemn ma"
+      },
+      {
+        "productId": "prod-23898",
+        "label": "Lavoar freestanding LUNA 450x450x850 din"
+      },
+      {
+        "productId": "prod-23913",
+        "label": "Lavoar freestanding OZIA 420x420x900 din"
+      },
+      {
+        "productId": "prod-24557",
+        "label": "Faianta portelanata Eik Canne Almond R 6"
+      },
+      {
+        "productId": "prod-24349",
+        "label": "Mozaic marmura handmade 333x303"
+      },
       {
         "productId": "prod-24566",
         "label": "Gresie portelanata Calacatta Gold 60x120 aspect marmura"
@@ -671,7 +707,7 @@
     "heroImage": "/images/showroom/boxa8-atlas-new.jpg",
     "video": "/videos/boxa8-atlas.mp4",
     "color": "#4A6E8C",
-    "productCount": 16,
+    "productCount": 24,
     "productPositions": [
       {
         "productId": "prod-24221",
@@ -686,20 +722,12 @@
         "label": "Baterie lavoar inalta Villeroy & Boch ve"
       },
       {
-        "productId": "prod-25300",
-        "label": "EU LINEA by AC Bongio – Baterie lavoar i"
-      },
-      {
         "productId": "prod-23338",
         "label": "Lavoar tip bol Villeroy & Boch Artis 61x"
       },
       {
         "productId": "prod-23311",
         "label": "Cada iuncastrabila Villeroy & Boch Obero"
-      },
-      {
-        "productId": "prod-23898",
-        "label": "Lavoar freestanding LUNA 450x450x850 din"
       },
       {
         "productId": "prod-20924",
@@ -712,10 +740,6 @@
       {
         "productId": "prod-21011",
         "label": "Set accesorii pentru lavoar Ideal Standa"
-      },
-      {
-        "productId": "prod-20062",
-        "label": "Baterie lavoar negru mat Ideal Standard "
       },
       {
         "productId": "prod-24543",
@@ -736,6 +760,50 @@
       {
         "productId": "prod-24121",
         "label": "Dispenser automat Colectia SERENE, negru"
+      },
+      {
+        "productId": "prod-24539",
+        "label": "Gresie portelanata alba 60x120 Flake Stripe White Medium R"
+      },
+      {
+        "productId": "prod-27111",
+        "label": "Difuzor parfum Pepe Nero Class 100 ml premium"
+      },
+      {
+        "productId": "prod-26921",
+        "label": "Baterie lavoar inalta AXOR Citterio 250 bronz periat CoolSta"
+      },
+      {
+        "productId": "prod-26360",
+        "label": "Agatatoare baie negru auriu montaj perete"
+      },
+      {
+        "productId": "prod-26126",
+        "label": "Raft baie stejar cu suport prosop"
+      },
+      {
+        "productId": "prod-24815",
+        "label": "Cadita dus patrata 90x90 MILD STONE BLACK 4.5 cm"
+      },
+      {
+        "productId": "prod-28277",
+        "label": "Dulap baie Villeroy Boch 100 cm suspendat cu iluminare LED"
+      },
+      {
+        "productId": "prod-28280",
+        "label": "Cadita dus Villeroy Boch Squaro Infinity 90x90 cm Almond Qua"
+      },
+      {
+        "productId": "prod-21123",
+        "label": "Baterie lavoar Ideal Standard Cerafine moderna și practica"
+      },
+      {
+        "productId": "prod-24824",
+        "label": "Cabina dus walk-in 90x200 Smart Copper Brushed 8 mm"
+      },
+      {
+        "productId": "prod-28296",
+        "label": "Baterie lavoar Capsule Platinum cu ventil pop up montaj pe b"
       }
     ]
   },
@@ -998,7 +1066,7 @@
     "heroImage": "/images/showroom/boxa9-pulsar.jpg",
     "video": "/videos/boxa11-aureo.mp4",
     "color": "#8C6A7A",
-    "productCount": 21,
+    "productCount": 40,
     "productPositions": [
       {
         "productId": "prod-24210",
@@ -1061,10 +1129,6 @@
         "label": "Para de dus EcoSmart+ alb mat Hansgrohe Pulsify E"
       },
       {
-        "productId": "prod-26006",
-        "label": "Clapeta actionare alb Hansgrohe iFrame Original Q"
-      },
-      {
         "productId": "prod-26087",
         "label": "Furtun de dus 200 cm alb mat Hansgrohe"
       },
@@ -1073,16 +1137,96 @@
         "label": "Gresie portelanata Di Alba Stone Grey 60x60"
       },
       {
-        "productId": "prod-24119",
-        "label": "Dispenser automat SERENE maro marmorat"
-      },
-      {
         "productId": "prod-24134",
         "label": "Dispenser automat SERENE carbon look"
       },
       {
         "productId": "prod-24370",
         "label": "Placa mozaic marmura handmade 297x256"
+      },
+      {
+        "productId": "prod-23147",
+        "label": "Gresie portelanata Iron 600×1200 mm pentru proiecte premium"
+      },
+      {
+        "productId": "prod-23863",
+        "label": "Cada freestanding MARVOLO din compozit 1700x800x700"
+      },
+      {
+        "productId": "prod-24144",
+        "label": "Dispenser SERENE turcoaz marmorat cu accente aurii cu senzor"
+      },
+      {
+        "productId": "prod-27096",
+        "label": "Difuzor parfum cu floare Acqua Marina 100 ml elegant"
+      },
+      {
+        "productId": "prod-25976",
+        "label": "Clapeta de actionare, negru mat, Hansgrohe iFrame Original Q"
+      },
+      {
+        "productId": "prod-26652",
+        "label": "Raft depozitare 60cm, Havona"
+      },
+      {
+        "productId": "prod-26901",
+        "label": "Baterie lavoar Hansgrohe Metropol 100 negru mat cu ventil Pu"
+      },
+      {
+        "productId": "prod-27040",
+        "label": "Baterie lavoar Hansgrohe Tecturis S negru mat EcoSmart"
+      },
+      {
+        "productId": "prod-27090",
+        "label": "Difuzor parfum Vanilie si Tonka Class premium cu betisoare"
+      },
+      {
+        "productId": "prod-24999",
+        "label": "Radiator aluminiu 1500x245 CURVY BATH TXC champagne"
+      },
+      {
+        "productId": "prod-27044",
+        "label": "Baterie lavoar incastrata Hansgrohe Logis negru mat EcoSmart"
+      },
+      {
+        "productId": "prod-22625",
+        "label": "Ideal Standard Ceralife O BE019XG – Baterie lavoar încastrat"
+      },
+      {
+        "productId": "prod-25831",
+        "label": "Tava organizator baie din cristal gri fumuriu 32x12 cm, Havo"
+      },
+      {
+        "productId": "prod-25796",
+        "label": "Suport periute dinti 4 locuri cristal gri fumuriu"
+      },
+      {
+        "productId": "prod-25731",
+        "label": "Difuzor parfum ambient cristal gri fumuriu cu betisoare"
+      },
+      {
+        "productId": "prod-26202",
+        "label": "Pahar baie din cristal model diamant, 9 cm, Havona"
+      },
+      {
+        "productId": "prod-26939",
+        "label": "Set dus Hansgrohe Pulsify S 260 3 jeturi EcoSmart cu termost"
+      },
+      {
+        "productId": "prod-27136",
+        "label": "Sistem dus AXOR ShowerHeaven 1200/300 4 jeturi LED premium"
+      },
+      {
+        "productId": "prod-26898",
+        "label": "Lavoar serviciu Hansgrohe Xelu Q 36x25 cm alb orificiu bater"
+      },
+      {
+        "productId": "prod-26891",
+        "label": "Mobilier baie Hansgrohe Xelu Q alb lucios 340x245 mm usa sta"
+      },
+      {
+        "productId": "prod-26886",
+        "label": "Oglinda baie Hansgrohe Xarita Lite design Modern si Chic"
       }
     ]
   },
