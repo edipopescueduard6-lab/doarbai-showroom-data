@@ -2985,7 +2985,7 @@
       "/pdfs-png/prod-27023_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-27019",
@@ -3014,7 +3014,7 @@
       "/pdfs-png/prod-27019_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-26999",
