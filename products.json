@@ -39700,5 +39700,80 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-28549",
+    "name": "Clapeta WC TECEvelvet antracit FENIX 22x15 cm",
+    "brand": "Clapete de actionare",
+    "category": "Clapete de actionare",
+    "boxId": "box-showroom-demo",
+    "price": 1125,
+    "regularPrice": 1125,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T082236.098.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T082254.118.jpg"
+    ],
+    "description": "Clapeta WC TECEvelvet antracit din FENIX NTM, 22&#215;15 cm, cu dubla actionare si suprafata soft touch anti amprenta, compatibila cu rezervoare TECE pentru montaj frontal sau superior si integrare incastrata in baie moderna",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-wc-tecevelvet-antracit-fenix-22x15cm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-28546",
+    "name": "Clapeta WC TECEsquare II sticla alba satinata 22x15 cm",
+    "brand": "Clapete de actionare",
+    "category": "Clapete de actionare",
+    "boxId": "box-showroom-demo",
+    "price": 1982,
+    "regularPrice": 1982,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T081827.020.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T081837.210.jpg"
+    ],
+    "description": "Clapeta WC TECEsquare II din sticla alba satinata, 22&#215;15 cm, cu dubla actionare si design extra-plat, compatibila cu rezervoare TECE pentru montaj frontal sau superior, ideala pentru integrare incastrata si aspect curat in baie moderna",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-wc-tecesquare-ii-sticla-alba-satinata-22x15cm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-28543",
+    "name": "Clapeta WC TECE Square sticla neagra 22x15 cm",
+    "brand": "Clapete de actionare",
+    "category": "Clapete de actionare",
+    "boxId": "box-showroom-demo",
+    "price": 1041,
+    "regularPrice": 1041,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T081344.071.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-23T081355.575.jpg"
+    ],
+    "description": "Clapeta de actionare TECE Square din sticla neagra, extra-plata, cu dubla comanda. Compatibila cu rezervoare TECE pentru montaj frontal sau superior.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/clapeta-wc-tece-square-sticla-neagra-22x15-cm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
