@@ -39897,5 +39897,30 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-28856",
+    "name": "Placa de actionare TECE Loop din sticla rosu rubiniu",
+    "brand": "Clapete de actionare",
+    "category": "Clapete de actionare",
+    "boxId": "box-showroom-demo",
+    "price": 890,
+    "regularPrice": 890,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-24T153738.682.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-24T153748.735.jpg"
+    ],
+    "description": "Placa WC TECE Loop din sticla rosu rubiniu, 22&#215;15 cm, pentru montaj frontal sau superior, compatibila cu sisteme TECE si utilizata impreuna cu butoane separate pentru configuratii personalizate in bai moderne",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/clapete-de-actionare-rezervoare-wc/placa-wc-tece-loop-sticla-rosu-rubiniu-22x15cm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
