@@ -40445,5 +40445,31 @@
     "pdfPngs": [],
     "pdfPages": 0,
     "archived": false
+  },
+  {
+    "id": "prod-29155",
+    "name": "Baterie lavoar BONGIO crom sau bronz monocomanda design cilindric modern",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii cada",
+    "boxId": "box-showroom-demo",
+    "price": 1913,
+    "regularPrice": 1913,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-04T115237.466.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-04T115300.054.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-04T115718.001.jpg"
+    ],
+    "description": "Baterie lavoar moderna din alama, disponibila in crom lucios sau auriu mat, cu design cilindric, pipa fixa si cartus ceramic, ideala pentru bai contemporane si utilizare zilnica confortabila",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-crom-auriu-monocomanda-design-cilindric/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
