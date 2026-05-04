@@ -40522,5 +40522,30 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-29180",
+    "name": "Baterie lavoar inox Bongio Time 2020 monocomanda design modern",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii lavoar",
+    "boxId": "box-showroom-demo",
+    "price": 2776,
+    "regularPrice": 2776,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-04T132620.093.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-04T132714.311.jpg"
+    ],
+    "description": "Baterie lavoar Bongio Time 2020 din inox satinat, cu design modern, monocomanda si pipa fixa curbata, ideala pentru bai contemporane si utilizare zilnica precisa si durabila",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-inox-bongio-time-2020-monocomanda/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
