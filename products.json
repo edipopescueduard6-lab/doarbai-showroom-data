@@ -40551,5 +40551,30 @@
     "pdfPngs": [],
     "pdfPages": 0,
     "archived": false
+  },
+  {
+    "id": "prod-29235",
+    "name": "Cada Freestanding HAVONA Nisa 1800x800x550 mm – Handmade Luxury Bathtub cu finisaj artistic",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi freestanding",
+    "boxId": "box-showroom-demo",
+    "price": 17641,
+    "regularPrice": 17641,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-06T121614.738.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/Promotie-Cada-lavoar-2026-05-06T122123.925.jpg"
+    ],
+    "description": "Cadă freestanding HAVONA Nisa este o piesă statement realizată handmade, creată pentru băi premium cu personalitate puternică. Forma organică sculpturală și finisajul artistic oxidat transformă cada într-un element central de design, perfect pentru amenajări moderne luxury, industrial elegante sau spa contemporane.\n\nDimensiuni: 1800x800x550 mm",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/ada-freestanding-havona-nisa-1800-800-550/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
