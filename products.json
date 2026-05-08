@@ -395,7 +395,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "",
-    "price": 9079,
+    "price": 8470,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/cada-baroque.jpg",
     "gallery": [
@@ -409,9 +409,9 @@
     "sku": "1000000019131",
     "badge": "NOU",
     "regularPrice": 9411,
-    "salePrice": 9079,
+    "salePrice": 8470,
     "onSale": true,
-    "discountPct": 4,
+    "discountPct": 10,
     "pdfPngs": [
       "/pdfs-png/prod-27325_p1.png",
       "/pdfs-png/prod-27325_p2.png"
