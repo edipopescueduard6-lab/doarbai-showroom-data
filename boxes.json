@@ -132,14 +132,6 @@
         "label": "Set dus termostat Verve"
       },
       {
-        "productId": "prod-23325",
-        "label": "Lavoar Antao Morning Green"
-      },
-      {
-        "productId": "prod-21312",
-        "label": "Capac WC Antao Morning Green"
-      },
-      {
         "productId": "prod-25426",
         "label": "Oglinda LED Savini Due"
       },
@@ -204,8 +196,24 @@
         "label": "Bideu suspendat Villeroy&Boch Venticello"
       },
       {
-        "productId": "prod-26086",
-        "label": "Antao WC suspendat TwistFlush Morning Gr"
+        "productId": "prod-23319",
+        "label": "Vas WC suspendat Villeroy & Boch Antao Almond Rimless TwistF"
+      },
+      {
+        "productId": "prod-26028",
+        "label": "Antao lavoar pe blat 650 mm Almond CeramicPlus"
+      },
+      {
+        "productId": "prod-21229",
+        "label": "Lavoar pe blat, Villeroy&Boch Antao, material TitanCeram, 51"
+      },
+      {
+        "productId": "prod-25893",
+        "label": "Gresie portelanata Montana Cherry 20×90×1.05 Revigres"
+      },
+      {
+        "productId": "prod-23271",
+        "label": "Villeroy & Boch Antao – Capac WC SoftClosing Almond, 8M67S1"
       }
     ]
   },
