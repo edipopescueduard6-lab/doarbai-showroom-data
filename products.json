@@ -49041,5 +49041,57 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-30863",
+    "name": "Cadru WC incastrat cu rezervor si clapeta alba",
+    "brand": "Obiecte sanitare",
+    "category": "Obiecte sanitare, Rezervoare incastrate",
+    "boxId": "box-showroom-demo",
+    "price": 758,
+    "regularPrice": 758,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/tece-9400413-clapeta-alba-1200-791a6f20.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/tece-9400413-cadru-complet-1200-235a0a0d.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/05/tece-9400413-detaliu-1200-c75209a6.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/05/tece-9400413-schema-montaj-1200-eacfdacc.jpg"
+    ],
+    "description": "Set complet de instalare incastrata pentru WC suspendat — TECEbase, cu clapeta de actionare alba. Cadru auto-portant TECE cu rezervor 10 litri dual-flush.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/rezervoare-incastrate/cadru-wc-incastrat-cu-rezervor-si-clapeta-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-30861",
+    "name": "Rigola pentru dus dubla 750 mm Alca",
+    "brand": "Dusuri",
+    "category": "Dusuri, Rigole si canale de scurgere dus",
+    "boxId": "box-showroom-demo",
+    "price": 861,
+    "regularPrice": 861,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/apz13-double6-893f26a3.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/apz13-double6-fit-and-go-koty-6c46a4c7.jpg"
+    ],
+    "description": "Rigolă de duș premium din inox, cu pantă interioară pentru evacuare rapidă și grătar reversibil cu funcție dublă (față plină sau placabilă cu gresie/lemn). Are înălțime reglabilă la montaj și include kit complet pentru hidroizolare și protecție.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/dusuri/rigola-pentru-dus-dubla-750-mm-alca/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
