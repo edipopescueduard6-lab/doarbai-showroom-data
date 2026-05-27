@@ -4968,7 +4968,7 @@
     "brand": "Havona",
     "category": "Mobilier baie, Rafturi incastrate",
     "boxId": "",
-    "price": 2318,
+    "price": 1739,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-40.jpg",
     "gallery": [
@@ -4980,9 +4980,9 @@
     "sku": "1000000024296",
     "badge": "NOU",
     "regularPrice": 2318,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1739,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26710_p1.png",
       "/pdfs-png/prod-26710_p2.png"
@@ -4996,7 +4996,7 @@
     "brand": "Havona",
     "category": "Mobilier baie, Rafturi incastrate",
     "boxId": "",
-    "price": 727,
+    "price": 545,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-38.jpg",
     "gallery": [
@@ -5008,9 +5008,9 @@
     "sku": "1000000024289",
     "badge": "NOU",
     "regularPrice": 727,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 545,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26699_p1.png",
       "/pdfs-png/prod-26699_p2.png"
@@ -5051,7 +5051,7 @@
     "brand": "Havona",
     "category": "Mobilier baie, Rafturi incastrate",
     "boxId": "",
-    "price": 626,
+    "price": 469,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-37.jpg",
     "gallery": [
@@ -5063,9 +5063,9 @@
     "sku": "1000000024272",
     "badge": "NOU",
     "regularPrice": 626,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 469,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26689_p1.png",
       "/pdfs-png/prod-26689_p2.png"
@@ -5247,7 +5247,7 @@
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
-    "price": 918,
+    "price": 689,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-32.jpg",
     "gallery": [
@@ -5259,9 +5259,9 @@
     "sku": "1000000024234",
     "badge": "NOU",
     "regularPrice": 918,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 689,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26658_p1.png",
       "/pdfs-png/prod-26658_p2.png"
