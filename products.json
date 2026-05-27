@@ -5303,7 +5303,7 @@
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "box-11",
-    "price": 1095,
+    "price": 821,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-33.jpg",
     "gallery": [
@@ -5315,9 +5315,9 @@
     "sku": "1000000024227",
     "badge": "NOU",
     "regularPrice": 1095,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 821,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26652_p1.png",
       "/pdfs-png/prod-26652_p2.png"
@@ -5331,7 +5331,7 @@
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
-    "price": 885,
+    "price": 664,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-16-17.jpg",
     "gallery": [],
@@ -5341,9 +5341,9 @@
     "sku": "1000000024210",
     "badge": "NOU",
     "regularPrice": 885,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 664,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26638_p1.png",
       "/pdfs-png/prod-26638_p2.png"
@@ -5357,7 +5357,7 @@
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
-    "price": 826,
+    "price": 620,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-30.jpg",
     "gallery": [],
@@ -5367,9 +5367,9 @@
     "sku": "1000000024203",
     "badge": "NOU",
     "regularPrice": 826,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 620,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26615_p1.png",
       "/pdfs-png/prod-26615_p2.png"
@@ -5464,7 +5464,7 @@
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
-    "price": 606,
+    "price": 454,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-29.jpg",
     "gallery": [],
@@ -5474,9 +5474,9 @@
     "sku": "1000000024197",
     "badge": "NOU",
     "regularPrice": 606,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 454,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26608_p1.png",
       "/pdfs-png/prod-26608_p2.png"
@@ -6406,7 +6406,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
-    "price": 1095,
+    "price": 821,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-27.jpg",
     "gallery": [
@@ -6418,9 +6418,9 @@
     "sku": "1000000024180",
     "badge": "NOU",
     "regularPrice": 1095,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 821,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26384_p1.png",
       "/pdfs-png/prod-26384_p2.png"
@@ -6462,7 +6462,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
-    "price": 434,
+    "price": 325,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-25.jpg",
     "gallery": [
@@ -6474,9 +6474,9 @@
     "sku": "1000000024173",
     "badge": "NOU",
     "regularPrice": 434,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 325,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26376_p1.png",
       "/pdfs-png/prod-26376_p2.png"
@@ -6603,7 +6603,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "box-8",
-    "price": 141,
+    "price": 105,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-22.jpg",
     "gallery": [],
@@ -6613,9 +6613,9 @@
     "sku": "1000000024142",
     "badge": "NOU",
     "regularPrice": 141,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 105,
+    "onSale": true,
+    "discountPct": 26,
     "pdfPngs": [
       "/pdfs-png/prod-26360_p1.png",
       "/pdfs-png/prod-26360_p2.png"
@@ -6629,7 +6629,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "",
-    "price": 299,
+    "price": 225,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-20.jpg",
     "gallery": [
@@ -6641,9 +6641,9 @@
     "sku": "1000000024159",
     "badge": "NOU",
     "regularPrice": 299,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 225,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26357_p1.png",
       "/pdfs-png/prod-26357_p2.png"
@@ -7447,7 +7447,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
-    "price": 680,
+    "price": 510,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-17.jpg",
     "gallery": [
@@ -7459,9 +7459,9 @@
     "sku": "1000000024104",
     "badge": "NOU",
     "regularPrice": 680,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 510,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26203_p1.png",
       "/pdfs-png/prod-26203_p2.png"
@@ -7589,7 +7589,7 @@
     "brand": "Havona",
     "category": "",
     "boxId": "",
-    "price": 381,
+    "price": 285,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-16.jpg",
     "gallery": [],
@@ -7599,9 +7599,9 @@
     "sku": "1000000024098",
     "badge": "NOU",
     "regularPrice": 381,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 285,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26175_p1.png",
       "/pdfs-png/prod-26175_p2.png"
@@ -7644,7 +7644,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "box-showroom-demo",
-    "price": 993,
+    "price": 745,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-15.jpg",
     "gallery": [
@@ -7656,9 +7656,9 @@
     "sku": "1000000024081",
     "badge": "NOU",
     "regularPrice": 993,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 745,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26146_p1.png",
       "/pdfs-png/prod-26146_p2.png"
@@ -7702,7 +7702,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "box-8",
-    "price": 885,
+    "price": 664,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-14.jpg",
     "gallery": [
@@ -7714,9 +7714,9 @@
     "sku": "1000000024074",
     "badge": "NOU",
     "regularPrice": 885,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 664,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26126_p1.png",
       "/pdfs-png/prod-26126_p2.png"
@@ -7730,7 +7730,7 @@
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
-    "price": 601,
+    "price": 450,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-13.jpg",
     "gallery": [
@@ -7742,9 +7742,9 @@
     "sku": "1000000024067",
     "badge": "NOU",
     "regularPrice": 601,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 450,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26111_p1.png",
       "/pdfs-png/prod-26111_p2.png"
@@ -8241,7 +8241,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii cada",
     "boxId": "",
-    "price": 3125,
+    "price": 2344,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-17-6.jpg",
     "gallery": [
@@ -8253,9 +8253,9 @@
     "sku": "1000000024029",
     "badge": "NOU",
     "regularPrice": 3125,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 2344,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-26013_p1.png",
       "/pdfs-png/prod-26013_p2.png"
@@ -8297,7 +8297,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 2404,
+    "price": 1803,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-17-4.jpg",
     "gallery": [
@@ -8309,9 +8309,9 @@
     "sku": "1000000024012",
     "badge": "NOU",
     "regularPrice": 2404,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1803,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-25998_p1.png",
       "/pdfs-png/prod-25998_p2.png"
@@ -8412,7 +8412,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii cada",
     "boxId": "",
-    "price": 1397,
+    "price": 1048,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-17-3.jpg",
     "gallery": [
@@ -8424,9 +8424,9 @@
     "sku": "1000000024302",
     "badge": "NOU",
     "regularPrice": 1397,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1048,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-25960_p1.png",
       "/pdfs-png/prod-25960_p2.png"
@@ -8889,7 +8889,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 850,
+    "price": 638,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-9.jpg",
     "gallery": [
@@ -8908,9 +8908,9 @@
     },
     "pdfUrl": "/pdfs/prod-25810.pdf",
     "regularPrice": 850,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 638,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9005,7 +9005,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 747,
+    "price": 560,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-8.jpg",
     "gallery": [
@@ -9023,9 +9023,9 @@
     },
     "pdfUrl": "/pdfs/prod-25793.pdf",
     "regularPrice": 747,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 560,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9091,7 +9091,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 815,
+    "price": 611,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-17-1.jpg",
     "gallery": [
@@ -9110,9 +9110,9 @@
     },
     "pdfUrl": "/pdfs/prod-25784.pdf",
     "regularPrice": 815,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 611,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9179,7 +9179,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 694,
+    "price": 520,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-6.jpg",
     "gallery": [
@@ -9197,9 +9197,9 @@
     },
     "pdfUrl": "/pdfs/prod-25740.pdf",
     "regularPrice": 694,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 520,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9411,7 +9411,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-accesorii",
-    "price": 1260,
+    "price": 945,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-5.jpg",
     "gallery": [
@@ -9429,9 +9429,9 @@
     },
     "pdfUrl": "/pdfs/prod-25730.pdf",
     "regularPrice": 1260,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 945,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9499,7 +9499,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-accesorii",
-    "price": 1840,
+    "price": 1380,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-4.jpg",
     "gallery": [
@@ -9517,9 +9517,9 @@
     },
     "pdfUrl": "/pdfs/prod-25696.pdf",
     "regularPrice": 1840,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1380,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9644,7 +9644,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 1333,
+    "price": 1000,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15-3.jpg",
     "gallery": [
@@ -9662,9 +9662,9 @@
     },
     "pdfUrl": "/pdfs/prod-25675.pdf",
     "regularPrice": 1333,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1000,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9702,7 +9702,7 @@
     "brand": "Havona",
     "category": "Brate si palarii dus, Sisteme de dus, Sisteme de dus incastrate",
     "boxId": "",
-    "price": 1668,
+    "price": 1251,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-16-1.jpg",
     "gallery": [
@@ -9720,9 +9720,9 @@
     },
     "pdfUrl": "/pdfs/prod-25654.pdf",
     "regularPrice": 1668,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1251,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9731,7 +9731,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 773,
+    "price": 580,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-17.jpg",
     "gallery": [
@@ -9749,9 +9749,9 @@
     },
     "pdfUrl": "/pdfs/prod-25644.pdf",
     "regularPrice": 773,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 580,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -9760,7 +9760,7 @@
     "brand": "Havona",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 681,
+    "price": 510,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/Untitled-design-15.jpg",
     "gallery": [
@@ -9777,9 +9777,9 @@
     },
     "pdfUrl": "/pdfs/prod-25628.pdf",
     "regularPrice": 681,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 510,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -37651,8 +37651,8 @@
     "brand": "Baterii baie",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-showroom-demo",
-    "price": 1414,
-    "regularPrice": 1414,
+    "price": 1061,
+    "regularPrice": 1061,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
