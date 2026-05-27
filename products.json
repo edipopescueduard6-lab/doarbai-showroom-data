@@ -49510,5 +49510,56 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-30860",
+    "name": "Rigola pentru dus simpla APZ18-550, ALCA",
+    "brand": "Accesorii",
+    "category": "Accesorii, Alca",
+    "boxId": "box-showroom-demo",
+    "price": 462,
+    "regularPrice": 462,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/apz18-simple1-33c7487f.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/apz18-simple-koty-bb257fb9.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/05/nd-apz9-10-18-30-3-530c2aa6.jpg"
+    ],
+    "description": "Rigola dus simpla APZ18-550 ALCA cu gratar inox, sifon anti-miros curatabil si montaj usor. Ideala pentru dusuri walk-in si bai moderne",
+    "specs": {},
+    "inStock": false,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/accesorii/alca/rigola-pentru-dus-simpla-apz18-550-alca/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-30829",
+    "name": "Chrom Mecanism de Rezervor pentru WC simpla apasare + flotor 1/2'' ALCA",
+    "brand": "Accesorii",
+    "category": "Accesorii, Accesorii baie, Alca",
+    "boxId": "box-showroom-demo",
+    "price": 73,
+    "regularPrice": 73,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/sa2000-1-2-1-c810a466.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/sa2000-1-2-koty-1-7c57c3ea.jpg"
+    ],
+    "description": "Pentru rezervoare WC ceramice.",
+    "specs": {},
+    "inStock": false,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/accesorii/chrom-mecanism-de-rezervor-pentru-wc-simpla-apasare-flotor-1-2-alca/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
