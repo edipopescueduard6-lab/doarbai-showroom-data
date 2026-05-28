@@ -49924,5 +49924,30 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-30992",
+    "name": "Baterie monocomanda lavoar BOET Tube Dorado",
+    "brand": "Baterii Baie",
+    "category": "Baterii Baie, Baterii baie, Baterii lavoar, Baterii Sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 351,
+    "regularPrice": 351,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/05/BOET-DORADO-CROM.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/05/BOET-DORADO-DIMENSIUNI.jpg"
+    ],
+    "description": "Adaugă o notă de rafinament și minimalism modern în baia ta cu bateria de lavoar monocomandă BOET din colecția Tube. Fabricată în Spania de un brand cu peste 150 de ani de tradiție în arta tehnologiei sanitare, această baterie îmbină geometria perfectă a liniilor cilindrice cu o fiabilitate excepțională.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-monocomanda-lavoar-boet-tube-dorado/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
