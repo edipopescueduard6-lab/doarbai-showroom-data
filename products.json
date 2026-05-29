@@ -283,7 +283,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-showroom-demo",
-    "price": 8371,
+    "price": 6278,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/ed-2026-03-30T085219.820.jpg",
     "gallery": [
@@ -295,9 +295,9 @@
     "sku": "X-TGD01",
     "badge": "NOU",
     "regularPrice": 8371,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 6278,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-27345_p1.png",
       "/pdfs-png/prod-27345_p2.png"
@@ -339,7 +339,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "",
-    "price": 11181,
+    "price": 8386,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/ed-2026-03-30T083005.272.jpg",
     "gallery": [
@@ -351,9 +351,9 @@
     "sku": "X-LGB01WHITE",
     "badge": "NOU",
     "regularPrice": 11181,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 8386,
+    "onSale": true,
+    "discountPct": 25,
     "pdfPngs": [
       "/pdfs-png/prod-27340_p1.png",
       "/pdfs-png/prod-27340_p2.png"
@@ -10753,7 +10753,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "",
-    "price": 8527,
+    "price": 6395,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/ed-2026-03-02T144109.075.jpg",
     "gallery": [
@@ -10774,9 +10774,9 @@
     },
     "pdfUrl": "/pdfs/prod-25385.pdf",
     "regularPrice": 8527,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 6395,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18257,7 +18257,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 4684,
+    "price": 3513,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T142840.959.jpg",
     "gallery": [
@@ -18278,9 +18278,9 @@
     },
     "pdfUrl": "/pdfs/prod-23940.pdf",
     "regularPrice": 4684,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 3513,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18317,7 +18317,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 4238,
+    "price": 3179,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/Lavoar-fain-negru.jpg",
     "gallery": [],
@@ -18336,9 +18336,9 @@
     },
     "pdfUrl": "/pdfs/prod-23936.pdf",
     "regularPrice": 4238,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 3179,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18347,7 +18347,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 3008,
+    "price": 2256,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-02-26T124703.051.jpg",
     "gallery": [
@@ -18368,9 +18368,9 @@
     },
     "pdfUrl": "/pdfs/prod-23934.pdf",
     "regularPrice": 3008,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 2256,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18379,7 +18379,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 5989,
+    "price": 4492,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T130237.270.jpg",
     "gallery": [
@@ -18401,9 +18401,9 @@
     },
     "pdfUrl": "/pdfs/prod-23931.pdf",
     "regularPrice": 5989,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 4492,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18703,7 +18703,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 4805,
+    "price": 3604,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ChatGPT-Image-Apr-14-2026-04_35_06-PM.png",
     "gallery": [
@@ -18724,9 +18724,9 @@
     },
     "pdfUrl": "/pdfs/prod-23903.pdf",
     "regularPrice": 4805,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 3604,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18765,7 +18765,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 2805,
+    "price": 2104,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T094456.211.jpg",
     "gallery": [
@@ -18787,9 +18787,9 @@
     },
     "pdfUrl": "/pdfs/prod-23898.pdf",
     "regularPrice": 2805,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 2104,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18798,7 +18798,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 3138,
+    "price": 2354,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T093824.568.jpg",
     "gallery": [
@@ -18819,9 +18819,9 @@
     },
     "pdfUrl": "/pdfs/prod-23894.pdf",
     "regularPrice": 3138,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 2354,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18861,7 +18861,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 3585,
+    "price": 2688,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T091726.764.jpg",
     "gallery": [
@@ -18882,9 +18882,9 @@
     },
     "pdfUrl": "/pdfs/prod-23889.pdf",
     "regularPrice": 3585,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 2688,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18893,7 +18893,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 4590,
+    "price": 3443,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T091256.017.jpg",
     "gallery": [
@@ -18914,9 +18914,9 @@
     },
     "pdfUrl": "/pdfs/prod-23882.pdf",
     "regularPrice": 4590,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 3443,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18925,7 +18925,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 976,
+    "price": 732,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T085758.131.jpg",
     "gallery": [
@@ -18945,9 +18945,9 @@
     },
     "pdfUrl": "/pdfs/prod-23887.pdf",
     "regularPrice": 976,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 732,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -18956,7 +18956,7 @@
     "brand": "Havona",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1339,
+    "price": 1004,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-14T085729.418.jpg",
     "gallery": [
@@ -18976,9 +18976,9 @@
     },
     "pdfUrl": "/pdfs/prod-23884.pdf",
     "regularPrice": 1339,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 1004,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19049,7 +19049,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 12230,
+    "price": 9173,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-02-20T121621.426.jpg",
     "gallery": [
@@ -19070,9 +19070,9 @@
     },
     "pdfUrl": "/pdfs/prod-23870.pdf",
     "regularPrice": 12230,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 9173,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19081,7 +19081,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 10822,
+    "price": 8117,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-13T133254.671.jpg",
     "gallery": [
@@ -19103,9 +19103,9 @@
     },
     "pdfUrl": "/pdfs/prod-23867.pdf",
     "regularPrice": 10822,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 8117,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19205,7 +19205,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 14047,
+    "price": 10535,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-13T095407.011.jpg",
     "gallery": [
@@ -19226,9 +19226,9 @@
     },
     "pdfUrl": "/pdfs/prod-23859.pdf",
     "regularPrice": 14047,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 10535,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19302,7 +19302,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 17641,
+    "price": 13231,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-13T091708.977.jpg",
     "gallery": [],
@@ -19321,9 +19321,9 @@
     },
     "pdfUrl": "/pdfs/prod-23849.pdf",
     "regularPrice": 17641,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 13231,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19425,7 +19425,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 7775,
+    "price": 5831,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-13T084006.290.jpg",
     "gallery": [
@@ -19446,9 +19446,9 @@
     },
     "pdfUrl": "/pdfs/prod-23834.pdf",
     "regularPrice": 7775,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 5831,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19780,7 +19780,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 11230,
+    "price": 8423,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-19T084358.583.jpg",
     "gallery": [
@@ -19802,9 +19802,9 @@
     },
     "pdfUrl": "/pdfs/prod-23798.pdf",
     "regularPrice": 11230,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 8423,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
@@ -19813,7 +19813,7 @@
     "brand": "Havona",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 12118,
+    "price": 9089,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/01/ed-2026-01-12T123208.316.jpg",
     "gallery": [
@@ -19835,9 +19835,9 @@
     },
     "pdfUrl": "/pdfs/prod-23796.pdf",
     "regularPrice": 12118,
-    "salePrice": null,
-    "onSale": false,
-    "discountPct": 0,
+    "salePrice": 9089,
+    "onSale": true,
+    "discountPct": 25,
     "archived": false
   },
   {
