@@ -8,7 +8,7 @@
     "image": "/images/showroom/hero-wall-lumiere.jpg",
     "heroImage": "/images/showroom/double-sink-topdown.jpg",
     "color": "#1F5F5B",
-    "productCount": 21,
+    "productCount": 22,
     "productPositions": [
       {
         "productId": "prod-23830",
@@ -93,6 +93,10 @@
       {
         "productId": "prod-27461",
         "label": "Sistem ascuns buton WC faiantabil in spa"
+      },
+      {
+        "productId": "prod-26819",
+        "label": "Baterie bideu ACB Linea cu pipa pe blat "
       }
     ]
   },
@@ -105,7 +109,7 @@
     "image": "/images/showroom/boxa2-baterii.jpg",
     "heroImage": "/images/showroom/smart-mirror-controls.jpg",
     "color": "#3D3D3D",
-    "productCount": 25,
+    "productCount": 27,
     "productPositions": [
       {
         "productId": "prod-23362",
@@ -208,12 +212,12 @@
         "label": "Lavoar pe blat, Villeroy&Boch Antao, material TitanCeram, 51"
       },
       {
-        "productId": "prod-25893",
-        "label": "Gresie portelanata Montana Cherry 20×90×1.05 Revigres"
-      },
-      {
         "productId": "prod-23271",
         "label": "Villeroy & Boch Antao – Capac WC SoftClosing Almond, 8M67S1"
+      },
+      {
+        "productId": "prod-25726",
+        "label": "Gresie portelanata Nordik White Matt 19."
       }
     ]
   },
@@ -226,7 +230,7 @@
     "video": "/videos/box3-contrasto.mp4",
     "heroImage": "/images/showroom/detail-vanity-full.jpg",
     "color": "#8B7355",
-    "productCount": 14,
+    "productCount": 16,
     "productPositions": [
       {
         "productId": "prod-23859",
@@ -269,10 +273,6 @@
         "label": "Vas WC Tesi AquaBlade"
       },
       {
-        "productId": "prod-22813",
-        "label": "Set instalare WC ProSys ECO M"
-      },
-      {
         "productId": "prod-22680",
         "label": "Capac WC Tesi slim soft-close"
       },
@@ -283,6 +283,18 @@
       {
         "productId": "prod-23129",
         "label": "Gresie Alb Lucios 7×29"
+      },
+      {
+        "productId": "prod-23123",
+        "label": "Gresie Brick Green Glossy 7×29×0.85 cm |"
+      },
+      {
+        "productId": "prod-25837",
+        "label": "Gresie portelanata Limestone Mist 60x60x"
+      },
+      {
+        "productId": "prod-21104",
+        "label": "Bideu suspendat, Ideal Standard Tesi, 36"
       }
     ]
   },
@@ -295,7 +307,7 @@
     "image": "/images/showroom/hero-icona.jpg",
     "heroImage": "/images/showroom/hero-bathtub-wide.jpg",
     "color": "#B8860B",
-    "productCount": 21,
+    "productCount": 27,
     "productPositions": [
       {
         "productId": "prod-20306",
@@ -316,10 +328,6 @@
       {
         "productId": "prod-24631",
         "label": "Panel decorativ Muretto Loft Cappuccino 120x250"
-      },
-      {
-        "productId": "prod-23330",
-        "label": "Cadita dus Smart Quiz 120x80"
       },
       {
         "productId": "prod-24621",
@@ -354,10 +362,6 @@
         "label": "Lavoar oval WB 0564 560C"
       },
       {
-        "productId": "prod-20312",
-        "label": "Oglinda rotunda Akron Slate 80"
-      },
-      {
         "productId": "prod-24761",
         "label": "Raft incastrat 300x900x100"
       },
@@ -370,16 +374,48 @@
         "label": "Gresie Cera Scaglie Incenso 60x120"
       },
       {
-        "productId": "prod-25744",
-        "label": "Gresie Travertino Sand Revigres"
-      },
-      {
-        "productId": "prod-25837",
-        "label": "Gresie portelanata Limestone Mist 60x60"
-      },
-      {
         "productId": "prod-23229",
         "label": "Lavoar oval pe blat WB 0564"
+      },
+      {
+        "productId": "prod-27101",
+        "label": "Difuzor parfum cu floare Pepe Nero 100 m"
+      },
+      {
+        "productId": "prod-25823",
+        "label": "Vaza cristal, 5x5x15cm / 5x5x17cm, Havon"
+      },
+      {
+        "productId": "prod-26615",
+        "label": "Raft baie din tavan Vinci, negru, Havona"
+      },
+      {
+        "productId": "prod-27906",
+        "label": "Radiator electric vertical Fiora Vulcano"
+      },
+      {
+        "productId": "prod-26746",
+        "label": "Coloana mobilier baie dreapta Fiora Clas"
+      },
+      {
+        "productId": "prod-24607",
+        "label": "Cadita de dus Plato Smart Quiz Cappuccin"
+      },
+      {
+        "productId": "prod-27896",
+        "label": "BLAT Acquabella, ONE CF, din ACKRON, 150"
+      },
+      {
+        "productId": "prod-26870",
+        "label": "Vas WC suspendat + Capac WC slim, soft c"
+      },
+      {
+        "productId": "prod-26587",
+        "label": "Baterie lavoar de perete, brushed gold, "
+      },
+      {
+        "productId": "prod-26588",
+        "label": "Baterie lavoar montată în perete PHASE, "
       }
     ]
   },
@@ -1608,7 +1644,7 @@
     "heroImage": "/images/showroom/island-havona-origins.jpg",
     "video": null,
     "color": "#A68A5B",
-    "productCount": 13,
+    "productCount": 16,
     "productPositions": [
       {
         "productId": "prod-23794",
@@ -1651,16 +1687,28 @@
         "label": "Lavoar freestanding CORALIA 400x400x850"
       },
       {
-        "productId": "prod-23889",
-        "label": "Lavoar freestanding ELUVIO 500x450x850"
-      },
-      {
         "productId": "prod-23894",
         "label": "Lavoar freestanding ARIA 450x450x900"
       },
       {
         "productId": "prod-23947",
         "label": "Lavoar freestanding ONDA cu oglinda 1550x560"
+      },
+      {
+        "productId": "prod-23854",
+        "label": "Cada freestanding ONDA 1827x1080x838 din"
+      },
+      {
+        "productId": "prod-25740",
+        "label": "Baterie lavoar crom cu pipa inalta Havon"
+      },
+      {
+        "productId": "prod-25813",
+        "label": "Set de 4 accesorii baie, crystal-carved,"
+      },
+      {
+        "productId": "prod-27357",
+        "label": "Lavoar freestanding MARMA 500x450x850 di"
       }
     ]
   },
@@ -1674,7 +1722,7 @@
     "heroImage": "/images/showroom/hero-island2-tessera.jpg",
     "video": null,
     "color": "#1F5F5B",
-    "productCount": 7,
+    "productCount": 10,
     "productPositions": [
       {
         "productId": "prod-23977",
@@ -1703,6 +1751,18 @@
       {
         "productId": "prod-23929",
         "label": "Lavoar freestanding SELIA 400x400x850"
+      },
+      {
+        "productId": "prod-26954",
+        "label": "Baterie lavoar PVD LEAF SUNSET cu insert"
+      },
+      {
+        "productId": "prod-27925",
+        "label": "Baterie lavoar tip totem crom cu mecanis"
+      },
+      {
+        "productId": "prod-23889",
+        "label": "Lavoar freestanding ELUVIO 500x450x850 d"
       }
     ]
   },
