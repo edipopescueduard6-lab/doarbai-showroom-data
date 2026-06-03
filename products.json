@@ -56590,5 +56590,34 @@
     "stock": 41,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-02T06:41:11.782Z"
+  },
+  {
+    "id": "prod-31101",
+    "name": "Baterie lavoar incastrata TUBE Negru Cromat Boet",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii Baie, Baterii lavoar, Baterii Sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 857,
+    "regularPrice": 857,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/06/baterie-boet-tube.png",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/06/boet-tube-incastrat-2.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/06/boet-tube-detaliu.png",
+      "https://doarbai.ro/wp-content/uploads/2026/06/boet-tube-incastrat-in-baie.png",
+      "https://doarbai.ro/wp-content/uploads/2026/06/boet-tube-culaore-deschis.png",
+      "https://doarbai.ro/wp-content/uploads/2026/06/ChatGPT-Image-Jun-3-2026-09_06_43-AM.png"
+    ],
+    "description": "Baterie monocomanda pentru lavoar, montaj incastrat in perete, din gama TUBE de la Feliu Boet. Finisaj premium negru cromat, design modern si cartus progresiv pentru control precis al temperaturii si debitului de apa. Corpul incastrat este inclus in pachet.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-incastrata-tube-negru-cromat-boet/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
