@@ -501,14 +501,8 @@
     "image": "/images/showroom/boxa6-nexum.jpg",
     "heroImage": "/images/showroom/boxa6-nexum.jpg",
     "color": "#6B5B73",
-    "productCount": 20,
+    "productCount": 19,
     "productPositions": [
-      {
-        "productId": "prod-24693",
-        "x": 55,
-        "y": 25,
-        "label": "Clapeta WC TECE"
-      },
       {
         "productId": "prod-24175",
         "x": 52,
@@ -598,7 +592,7 @@
     "heroImage": "/images/showroom/boxa7-radix.jpg",
     "video": "/videos/boxa7-radix.mp4",
     "color": "#8B5E3C",
-    "productCount": 35,
+    "productCount": 34,
     "productPositions": [
       {
         "productId": "prod-24277",
@@ -645,12 +639,8 @@
         "label": "Baterie lavoar Hansgrohe Tecturis E bronz periat CoolStart"
       },
       {
-        "productId": "prod-25845",
-        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
-      },
-      {
-        "productId": "prod-25915",
-        "label": "Sistem dus ESCUDO cu palarie inox 250x250 mm"
+        "productId": "prod-25929",
+        "label": "ESCUDO Sistem dus palarie 250 - negru"
       },
       {
         "productId": "prod-26353",
@@ -778,10 +768,6 @@
         "label": "Coloana dus cu baterie si termostat Idea"
       },
       {
-        "productId": "prod-20932",
-        "label": "Coloana de dus Ideal Standard Alu+, negr"
-      },
-      {
         "productId": "prod-21011",
         "label": "Set accesorii pentru lavoar Ideal Standa"
       },
@@ -848,6 +834,10 @@
       {
         "productId": "prod-28296",
         "label": "Baterie lavoar Capsule Platinum cu ventil pop up montaj pe b"
+      },
+      {
+        "productId": "prod-23268",
+        "label": "Ideal Standard Ceratherm ALU+ Silk Black sistem dus"
       }
     ]
   },
@@ -860,7 +850,7 @@
     "heroImage": "/images/showroom/boxa8-atlas.jpg",
     "video": "/videos/boxa9-vivere.mp4",
     "color": "#7C5E4A",
-    "productCount": 31,
+    "productCount": 30,
     "productPositions": [
       {
         "productId": "prod-24265",
@@ -891,8 +881,8 @@
         "label": "Radiator otel FELIX 1200x300 MRP"
       },
       {
-        "productId": "prod-24939",
-        "label": "Radiator otel DANTE 1500x32 negru"
+        "productId": "prod-24937",
+        "label": "Radiator DANTE 1500x32 - auriu"
       },
       {
         "productId": "prod-24902",
@@ -907,20 +897,12 @@
         "label": "ELO baterie lavoar inalta cu ventil pop-up"
       },
       {
-        "productId": "prod-25968",
-        "label": "RETRO baterie bideu cu ventil automat"
-      },
-      {
         "productId": "prod-24035",
         "label": "Nisa depozitare incastrata HAVONA"
       },
       {
         "productId": "prod-25642",
         "label": "Vas WC stativ alb capac soft close"
-      },
-      {
-        "productId": "prod-25845",
-        "label": "Baterie bideu ESCUDO monocomanda cu ventil"
       },
       {
         "productId": "prod-24177",
@@ -985,6 +967,10 @@
       {
         "productId": "prod-25794",
         "label": "Set 4 accesorii baie, culoare gri-ash, Havona"
+      },
+      {
+        "productId": "prod-27325",
+        "label": "Cada freestanding BAROQUE Havona handmade"
       }
     ]
   },
