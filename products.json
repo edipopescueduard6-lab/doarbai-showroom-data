@@ -32441,7 +32441,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 11,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32477,7 +32477,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32513,7 +32513,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32549,7 +32549,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32581,7 +32581,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 11,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32615,7 +32615,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 8,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32649,7 +32649,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 21,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32682,7 +32682,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 11,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32718,7 +32718,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32755,7 +32755,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 12,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32791,7 +32791,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 24,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32827,7 +32827,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 11,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32861,7 +32861,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 16,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32896,7 +32896,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32932,7 +32932,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 32,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -32968,7 +32968,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33005,7 +33005,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33041,7 +33041,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33078,7 +33078,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33115,7 +33115,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 17,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33152,7 +33152,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33189,7 +33189,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33221,7 +33221,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33252,7 +33252,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33288,7 +33288,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33322,7 +33322,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 8,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33359,7 +33359,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -33398,7 +33398,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
