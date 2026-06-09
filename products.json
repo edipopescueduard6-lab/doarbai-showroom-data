@@ -55,7 +55,7 @@
       "/pdfs-png/prod-27461_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -86,7 +86,7 @@
       "/pdfs-png/prod-27395_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 9,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -118,7 +118,7 @@
       "/pdfs-png/prod-27399_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -149,7 +149,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -178,7 +178,7 @@
       "/pdfs-png/prod-27357_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -209,7 +209,7 @@
       "/pdfs-png/prod-27355_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -240,7 +240,7 @@
       "/pdfs-png/prod-27352_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -271,7 +271,7 @@
       "/pdfs-png/prod-27350_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -302,7 +302,7 @@
       "/pdfs-png/prod-27347_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -333,7 +333,7 @@
       "/pdfs-png/prod-27345_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -364,7 +364,7 @@
       "/pdfs-png/prod-27343_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -395,7 +395,7 @@
       "/pdfs-png/prod-27340_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -426,7 +426,7 @@
       "/pdfs-png/prod-27337_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -459,7 +459,7 @@
       "/pdfs-png/prod-27325_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -491,7 +491,7 @@
       "/pdfs-png/prod-27324_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -523,7 +523,7 @@
       "/pdfs-png/prod-27321_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -555,7 +555,7 @@
       "/pdfs-png/prod-27319_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 151,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -587,7 +587,7 @@
       "/pdfs-png/prod-27317_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -619,7 +619,7 @@
       "/pdfs-png/prod-27315_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -651,7 +651,7 @@
       "/pdfs-png/prod-27313_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 252,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -683,7 +683,7 @@
       "/pdfs-png/prod-27300_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 252,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -715,7 +715,7 @@
       "/pdfs-png/prod-27298_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 150,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -747,7 +747,7 @@
       "/pdfs-png/prod-27295_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 151,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -779,7 +779,7 @@
       "/pdfs-png/prod-27293_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 155,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -811,7 +811,7 @@
       "/pdfs-png/prod-27291_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 151,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -843,7 +843,7 @@
       "/pdfs-png/prod-27289_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 155,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -875,7 +875,7 @@
       "/pdfs-png/prod-27287_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 27,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -907,7 +907,7 @@
       "/pdfs-png/prod-27285_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 143,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -939,7 +939,7 @@
       "/pdfs-png/prod-27283_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 143,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -971,7 +971,7 @@
       "/pdfs-png/prod-27281_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 143,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1003,7 +1003,7 @@
       "/pdfs-png/prod-27279_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1035,7 +1035,7 @@
       "/pdfs-png/prod-27277_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1067,7 +1067,7 @@
       "/pdfs-png/prod-27274_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1099,7 +1099,7 @@
       "/pdfs-png/prod-27272_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 252,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1131,7 +1131,7 @@
       "/pdfs-png/prod-27267_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 252,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1163,7 +1163,7 @@
       "/pdfs-png/prod-27265_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 252,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1195,7 +1195,7 @@
       "/pdfs-png/prod-27260_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1227,7 +1227,7 @@
       "/pdfs-png/prod-27257_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1259,7 +1259,7 @@
       "/pdfs-png/prod-27255_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1292,7 +1292,7 @@
       "/pdfs-png/prod-27253_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 50,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1324,7 +1324,7 @@
       "/pdfs-png/prod-27250_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 50,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1356,7 +1356,7 @@
       "/pdfs-png/prod-27248_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 157,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1388,7 +1388,7 @@
       "/pdfs-png/prod-27246_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 70,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1420,7 +1420,7 @@
       "/pdfs-png/prod-27244_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 244,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1452,7 +1452,7 @@
       "/pdfs-png/prod-27242_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 104,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1484,7 +1484,7 @@
       "/pdfs-png/prod-27240_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 244,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1516,7 +1516,7 @@
       "/pdfs-png/prod-27238_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 157,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1548,7 +1548,7 @@
       "/pdfs-png/prod-27233_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 244,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1580,7 +1580,7 @@
       "/pdfs-png/prod-27235_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 148,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1612,7 +1612,7 @@
       "/pdfs-png/prod-27231_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 244,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1644,7 +1644,7 @@
       "/pdfs-png/prod-27224_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 139,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1676,7 +1676,7 @@
       "/pdfs-png/prod-27222_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 135,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1708,7 +1708,7 @@
       "/pdfs-png/prod-27218_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1740,7 +1740,7 @@
       "/pdfs-png/prod-27216_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1772,7 +1772,7 @@
       "/pdfs-png/prod-27214_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1804,7 +1804,7 @@
       "/pdfs-png/prod-27212_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 144,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1836,7 +1836,7 @@
       "/pdfs-png/prod-27209_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 139,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1868,7 +1868,7 @@
       "/pdfs-png/prod-27207_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 139,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1900,7 +1900,7 @@
       "/pdfs-png/prod-27205_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 139,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1932,7 +1932,7 @@
       "/pdfs-png/prod-27201_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 148,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1964,7 +1964,7 @@
       "/pdfs-png/prod-27199_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 75,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -1996,7 +1996,7 @@
       "/pdfs-png/prod-27197_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 155,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -2028,7 +2028,7 @@
       "/pdfs-png/prod-27195_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 42,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -2060,7 +2060,7 @@
       "/pdfs-png/prod-27193_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 96,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -2092,7 +2092,7 @@
       "/pdfs-png/prod-27191_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 157,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -2124,7 +2124,7 @@
       "/pdfs-png/prod-27188_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 149,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -2156,7 +2156,7 @@
       "/pdfs-png/prod-27186_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 54,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5239,7 +5239,7 @@
       "/pdfs-png/prod-26746_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5270,7 +5270,7 @@
       "/pdfs-png/prod-26737_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5301,7 +5301,7 @@
       "/pdfs-png/prod-26720_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5333,7 +5333,7 @@
       "/pdfs-png/prod-26731_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5364,7 +5364,7 @@
       "/pdfs-png/prod-26730_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5393,7 +5393,7 @@
       "/pdfs-png/prod-26726_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5425,7 +5425,7 @@
       "/pdfs-png/prod-26721_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5455,7 +5455,7 @@
       "/pdfs-png/prod-26709_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5485,7 +5485,7 @@
       "/pdfs-png/prod-26711_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5516,7 +5516,7 @@
       "/pdfs-png/prod-26710_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5547,7 +5547,7 @@
       "/pdfs-png/prod-26699_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5577,7 +5577,7 @@
       "/pdfs-png/prod-26695_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5608,7 +5608,7 @@
       "/pdfs-png/prod-26689_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5670,7 +5670,7 @@
       "/pdfs-png/prod-26678_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5701,7 +5701,7 @@
       "/pdfs-png/prod-26684_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5732,7 +5732,7 @@
       "/pdfs-png/prod-26677_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5763,7 +5763,7 @@
       "/pdfs-png/prod-26672_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5794,7 +5794,7 @@
       "/pdfs-png/prod-26660_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5825,7 +5825,7 @@
       "/pdfs-png/prod-26658_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5856,7 +5856,7 @@
       "/pdfs-png/prod-26653_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5887,7 +5887,7 @@
       "/pdfs-png/prod-26652_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5916,7 +5916,7 @@
       "/pdfs-png/prod-26638_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5945,7 +5945,7 @@
       "/pdfs-png/prod-26615_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -5975,7 +5975,7 @@
       "/pdfs-png/prod-26621_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6004,7 +6004,7 @@
       "/pdfs-png/prod-26622_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6035,7 +6035,7 @@
       "/pdfs-png/prod-26618_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6064,7 +6064,7 @@
       "/pdfs-png/prod-26608_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6094,7 +6094,7 @@
       "/pdfs-png/prod-26609_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6122,7 +6122,7 @@
       "/pdfs-png/prod-26599_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6153,7 +6153,7 @@
       "/pdfs-png/prod-26587_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6183,7 +6183,7 @@
       "/pdfs-png/prod-26552_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6212,7 +6212,7 @@
       "/pdfs-png/prod-26505_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6241,7 +6241,7 @@
       "/pdfs-png/prod-26498_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6272,7 +6272,7 @@
       "/pdfs-png/prod-26494_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6303,7 +6303,7 @@
       "/pdfs-png/prod-26491_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6332,7 +6332,7 @@
       "/pdfs-png/prod-26488_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6364,7 +6364,7 @@
       "/pdfs-png/prod-26481_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6395,7 +6395,7 @@
       "/pdfs-png/prod-26471_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6426,7 +6426,7 @@
       "/pdfs-png/prod-26468_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6457,7 +6457,7 @@
       "/pdfs-png/prod-26465_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6489,7 +6489,7 @@
       "/pdfs-png/prod-26461_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6520,7 +6520,7 @@
       "/pdfs-png/prod-26457_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6552,7 +6552,7 @@
       "/pdfs-png/prod-26453_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6582,7 +6582,7 @@
       "/pdfs-png/prod-26450_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6613,7 +6613,7 @@
       "/pdfs-png/prod-26447_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6644,7 +6644,7 @@
       "/pdfs-png/prod-26442_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6675,7 +6675,7 @@
       "/pdfs-png/prod-26438_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6706,7 +6706,7 @@
       "/pdfs-png/prod-26434_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6738,7 +6738,7 @@
       "/pdfs-png/prod-26430_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6768,7 +6768,7 @@
       "/pdfs-png/prod-26426_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6800,7 +6800,7 @@
       "/pdfs-png/prod-26421_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6831,7 +6831,7 @@
       "/pdfs-png/prod-26417_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6862,7 +6862,7 @@
       "/pdfs-png/prod-26414_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6893,7 +6893,7 @@
       "/pdfs-png/prod-26408_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6924,7 +6924,7 @@
       "/pdfs-png/prod-26405_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6955,7 +6955,7 @@
       "/pdfs-png/prod-26402_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -6987,7 +6987,7 @@
       "/pdfs-png/prod-26397_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7017,7 +7017,7 @@
       "/pdfs-png/prod-26394_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7048,7 +7048,7 @@
       "/pdfs-png/prod-26391_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7079,7 +7079,7 @@
       "/pdfs-png/prod-26385_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7110,7 +7110,7 @@
       "/pdfs-png/prod-26384_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7141,7 +7141,7 @@
       "/pdfs-png/prod-26379_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7172,7 +7172,7 @@
       "/pdfs-png/prod-26376_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7203,7 +7203,7 @@
       "/pdfs-png/prod-26375_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7234,7 +7234,7 @@
       "/pdfs-png/prod-26368_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7265,7 +7265,7 @@
       "/pdfs-png/prod-26363_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7297,7 +7297,7 @@
       "/pdfs-png/prod-26364_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7326,7 +7326,7 @@
       "/pdfs-png/prod-26360_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7357,7 +7357,7 @@
       "/pdfs-png/prod-26357_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7388,7 +7388,7 @@
       "/pdfs-png/prod-26353_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7419,7 +7419,7 @@
       "/pdfs-png/prod-26349_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7450,7 +7450,7 @@
       "/pdfs-png/prod-26346_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7480,7 +7480,7 @@
       "/pdfs-png/prod-26340_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7511,7 +7511,7 @@
       "/pdfs-png/prod-26339_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7541,7 +7541,7 @@
       "/pdfs-png/prod-26335_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7573,7 +7573,7 @@
       "/pdfs-png/prod-26330_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7604,7 +7604,7 @@
       "/pdfs-png/prod-26327_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7635,7 +7635,7 @@
       "/pdfs-png/prod-26324_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7666,7 +7666,7 @@
       "/pdfs-png/prod-26321_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7697,7 +7697,7 @@
       "/pdfs-png/prod-26316_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7728,7 +7728,7 @@
       "/pdfs-png/prod-26315_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7759,7 +7759,7 @@
       "/pdfs-png/prod-26312_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7790,7 +7790,7 @@
       "/pdfs-png/prod-26300_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7821,7 +7821,7 @@
       "/pdfs-png/prod-26296_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -7851,7 +7851,7 @@
       "/pdfs-png/prod-26288_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10371,7 +10371,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10402,7 +10402,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 31,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10434,7 +10434,7 @@
     "salePrice": 945,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 13,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10466,7 +10466,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10499,7 +10499,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 50,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10531,7 +10531,7 @@
     "salePrice": 1380,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10564,7 +10564,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10595,7 +10595,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10627,7 +10627,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10659,7 +10659,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10691,7 +10691,7 @@
     "salePrice": 1000,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10723,7 +10723,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10755,7 +10755,7 @@
     "salePrice": 1251,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10787,7 +10787,7 @@
     "salePrice": 580,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10818,7 +10818,7 @@
     "salePrice": 510,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10846,7 +10846,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 9,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10874,7 +10874,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10902,7 +10902,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10935,7 +10935,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10966,7 +10966,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -10999,7 +10999,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11030,7 +11030,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11061,7 +11061,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11092,7 +11092,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11120,7 +11120,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11150,7 +11150,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11180,7 +11180,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11209,7 +11209,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11240,7 +11240,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11273,7 +11273,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11300,7 +11300,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11325,7 +11325,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11354,7 +11354,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11407,7 +11407,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11438,7 +11438,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11473,7 +11473,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11508,7 +11508,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11539,7 +11539,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11570,7 +11570,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11601,7 +11601,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11632,7 +11632,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11663,7 +11663,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11699,7 +11699,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11734,7 +11734,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11764,7 +11764,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11796,7 +11796,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11827,7 +11827,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11858,7 +11858,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11888,7 +11888,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11923,7 +11923,7 @@
     "salePrice": 6395,
     "onSale": true,
     "discountPct": 25,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11954,7 +11954,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -11985,7 +11985,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12017,7 +12017,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12049,7 +12049,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12081,7 +12081,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12112,7 +12112,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12144,7 +12144,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12176,7 +12176,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12208,7 +12208,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12239,7 +12239,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12271,7 +12271,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12303,7 +12303,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12335,7 +12335,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12367,7 +12367,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12400,7 +12400,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12431,7 +12431,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12463,7 +12463,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12495,7 +12495,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 20,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12526,7 +12526,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12560,7 +12560,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12594,7 +12594,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12625,7 +12625,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12656,7 +12656,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12687,7 +12687,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12718,7 +12718,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12749,7 +12749,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -12776,7 +12776,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -40311,7 +40311,7 @@
       "/pdfs-png/prod-28264_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846362828",
     "stock": 1,
     "stockExact": true,
@@ -40344,7 +40344,7 @@
       "/pdfs-png/prod-28261_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846348716",
     "stock": 1,
     "stockExact": true,
@@ -40377,7 +40377,7 @@
       "/pdfs-png/prod-28250_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "STR4P 080 06 07",
     "stock": 0,
     "stockExact": false,
@@ -40411,7 +40411,7 @@
       "/pdfs-png/prod-28246_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "1000000028324",
     "stock": 2,
     "stockExact": true,
@@ -40444,7 +40444,7 @@
       "/pdfs-png/prod-28242_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846361258",
     "stock": 1,
     "stockExact": true,
@@ -40476,7 +40476,7 @@
       "/pdfs-png/prod-28235_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "sku": "5945846362187",
     "stock": 1,
     "stockExact": true,
@@ -40509,7 +40509,7 @@
       "/pdfs-png/prod-28231_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846356261",
     "stock": 1,
     "stockExact": true,
@@ -40542,7 +40542,7 @@
       "/pdfs-png/prod-28228_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846340611",
     "stock": 1,
     "stockExact": true,
@@ -40575,7 +40575,7 @@
       "/pdfs-png/prod-28224_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846365362",
     "stock": 1,
     "stockExact": true,
@@ -40609,7 +40609,7 @@
       "/pdfs-png/prod-28220_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846354977",
     "stock": 1,
     "stockExact": true,
@@ -40642,7 +40642,7 @@
       "/pdfs-png/prod-28217_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846363184",
     "stock": 1,
     "stockExact": true,
@@ -40676,7 +40676,7 @@
       "/pdfs-png/prod-28213_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "4062373962602",
     "stock": 2,
     "stockExact": true,
@@ -40709,7 +40709,7 @@
       "/pdfs-png/prod-28210_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846340673",
     "stock": 1,
     "stockExact": true,
@@ -40774,7 +40774,7 @@
       "/pdfs-png/prod-28203_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "5945846365416",
     "stock": 1,
     "stockExact": true,
@@ -40808,7 +40808,7 @@
       "/pdfs-png/prod-27925_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "8430116003442",
     "stock": 2,
     "stockExact": true,
@@ -40841,7 +40841,7 @@
       "/pdfs-png/prod-27922_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "53025486EXP",
     "stock": 1,
     "stockExact": false,
@@ -40878,7 +40878,7 @@
       "/pdfs-png/prod-27906_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "36TX",
     "stock": 1,
     "stockExact": false,
@@ -40912,7 +40912,7 @@
       "/pdfs-png/prod-27896_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "BLAT0000",
     "stock": 1,
     "stockExact": false,
@@ -40946,7 +40946,7 @@
       "/pdfs-png/prod-27873_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "167 000 9PR",
     "stock": 1,
     "stockExact": false,
@@ -41184,7 +41184,7 @@
       "/pdfs-png/prod-26637_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41217,7 +41217,7 @@
       "/pdfs-png/prod-26625_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41250,7 +41250,7 @@
       "/pdfs-png/prod-26588_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41284,7 +41284,7 @@
       "/pdfs-png/prod-26579_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41317,7 +41317,7 @@
       "/pdfs-png/prod-26565_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41350,7 +41350,7 @@
       "/pdfs-png/prod-26564_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41384,7 +41384,7 @@
       "/pdfs-png/prod-26555_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41417,7 +41417,7 @@
       "/pdfs-png/prod-26528_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41451,7 +41451,7 @@
       "/pdfs-png/prod-26537_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41485,7 +41485,7 @@
       "/pdfs-png/prod-26529_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41518,7 +41518,7 @@
       "/pdfs-png/prod-26518_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41551,7 +41551,7 @@
       "/pdfs-png/prod-26500_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41584,7 +41584,7 @@
       "/pdfs-png/prod-26480_p1.png"
     ],
     "pdfPages": 1,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -41616,7 +41616,7 @@
       "/pdfs-png/prod-26293_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "106 040 0CR0",
     "stock": 1,
     "stockExact": false,
@@ -41649,7 +41649,7 @@
       "/pdfs-png/prod-26277_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "106 030 0CR0",
     "stock": null,
     "stockExact": false,
@@ -42397,7 +42397,7 @@
       "/pdfs-png/prod-25720_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "101 250 2CR2",
     "stock": 1,
     "stockExact": false,
@@ -42430,7 +42430,7 @@
       "/pdfs-png/prod-25690_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -42462,7 +42462,7 @@
       "/pdfs-png/prod-25667_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "145 579 1CR",
     "stock": 1,
     "stockExact": false,
@@ -42495,7 +42495,7 @@
       "/pdfs-png/prod-25657_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168 040 8CR8",
     "stock": 1,
     "stockExact": false,
@@ -42526,7 +42526,7 @@
       "/pdfs-png/prod-25641_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "191 590 0CR0",
     "stock": 1,
     "stockExact": false,
@@ -42559,7 +42559,7 @@
       "/pdfs-png/prod-25630_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -42591,7 +42591,7 @@
       "/pdfs-png/prod-25620_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168 800 1CR1",
     "stock": 1,
     "stockExact": false,
@@ -42624,7 +42624,7 @@
       "/pdfs-png/prod-25605_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168 653 1CR1",
     "stock": 1,
     "stockExact": false,
@@ -42657,7 +42657,7 @@
       "/pdfs-png/prod-25595_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168 763 2CR2",
     "stock": 1,
     "stockExact": false,
@@ -42690,7 +42690,7 @@
       "/pdfs-png/prod-25584_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168 460 1CR1",
     "stock": 0,
     "stockExact": false,
@@ -42723,7 +42723,7 @@
       "/pdfs-png/prod-25574_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168100 2SS2",
     "stock": 1,
     "stockExact": false,
@@ -42756,7 +42756,7 @@
       "/pdfs-png/prod-25566_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168000 1CR1",
     "stock": 1,
     "stockExact": false,
@@ -42789,7 +42789,7 @@
       "/pdfs-png/prod-25558_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "168000 3CR3",
     "stock": 1,
     "stockExact": false,
@@ -42820,7 +42820,7 @@
       "/pdfs-png/prod-25534_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -42852,7 +42852,7 @@
       "/pdfs-png/prod-25499_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -42885,7 +42885,7 @@
       "/pdfs-png/prod-25446_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "W32Q 090 18",
     "stock": 1,
     "stockExact": false,
@@ -42916,7 +42916,7 @@
       "/pdfs-png/prod-25318_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "70071 BU NE",
     "stock": 1,
     "stockExact": false,
@@ -42951,7 +42951,7 @@
       "/pdfs-png/prod-25275_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -42981,7 +42981,7 @@
       "/pdfs-png/prod-25248_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -43011,7 +43011,7 @@
       "/pdfs-png/prod-25240_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "BOET",
     "stock": null,
     "stockExact": false,
@@ -43044,7 +43044,7 @@
       "/pdfs-png/prod-25227_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "4083GBAC",
     "stock": null,
     "stockExact": false,
@@ -43075,7 +43075,7 @@
       "/pdfs-png/prod-25211_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -43105,7 +43105,7 @@
       "/pdfs-png/prod-25182_p2.png"
     ],
     "pdfPages": 2,
-    "archived": true,
+    "archived": false,
     "sku": "4089C",
     "stock": 5,
     "stockExact": false,
@@ -43819,7 +43819,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "88721PLGA",
     "stock": 1,
     "stockExact": false,
@@ -43849,7 +43849,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "83721HV",
     "stock": 1,
     "stockExact": false,
@@ -43879,7 +43879,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "86721BB",
     "stock": 1,
     "stockExact": false,
@@ -43909,7 +43909,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "87721 L2",
     "stock": 1,
     "stockExact": false,
@@ -43939,7 +43939,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "31601 L3",
     "stock": 1,
     "stockExact": false,
@@ -43969,7 +43969,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "4051202455835",
     "stock": 1,
     "stockExact": false,
@@ -43999,7 +43999,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "4062373168875",
     "stock": 2,
     "stockExact": true,
@@ -44029,7 +44029,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "1000000018561",
     "stock": 1,
     "stockExact": true,
@@ -44059,7 +44059,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "5945846340666",
     "stock": 1,
     "stockExact": true,
@@ -44089,7 +44089,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "5945846365379",
     "stock": 1,
     "stockExact": true,
@@ -44120,7 +44120,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "1000000025958",
     "stock": 1,
     "stockExact": true,
@@ -44150,7 +44150,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "186 010 6IS",
     "stock": 1,
     "stockExact": false,
@@ -44180,7 +44180,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "SMGE.50.1250",
     "stock": 1,
     "stockExact": false,
@@ -44210,7 +44210,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true,
+    "archived": false,
     "sku": "5945846340659",
     "stock": 1,
     "stockExact": true,
