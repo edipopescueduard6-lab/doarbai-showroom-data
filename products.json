@@ -5732,7 +5732,7 @@
       "/pdfs-png/prod-26677_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
