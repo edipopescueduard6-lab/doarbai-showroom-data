@@ -54829,7 +54829,7 @@
     "stock": 79,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30861",
@@ -54859,7 +54859,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30862",
@@ -54891,7 +54891,7 @@
     "stock": 107,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30828",
@@ -54922,7 +54922,7 @@
     "stock": 57,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30825",
@@ -54953,7 +54953,7 @@
     "stock": 67,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30824",
@@ -54984,7 +54984,7 @@
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30823",
@@ -55015,7 +55015,7 @@
     "stock": 45,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30821",
@@ -55045,7 +55045,7 @@
     "stock": 310,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30822",
@@ -55075,7 +55075,7 @@
     "stock": 42,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30820",
@@ -55106,7 +55106,7 @@
     "stock": 13,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30819",
@@ -55138,7 +55138,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30818",
@@ -55170,7 +55170,7 @@
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30817",
@@ -55201,7 +55201,7 @@
     "stock": 2,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30816",
@@ -55232,7 +55232,7 @@
     "stock": 52,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30815",
@@ -55263,7 +55263,7 @@
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30814",
@@ -55294,7 +55294,7 @@
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30812",
@@ -55325,7 +55325,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30811",
@@ -55356,7 +55356,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30860",
@@ -55387,7 +55387,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30829",
@@ -55417,7 +55417,7 @@
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30827",
@@ -55447,7 +55447,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30813",
@@ -55478,7 +55478,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30810",
@@ -55509,7 +55509,7 @@
     "stock": 19,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30809",
@@ -55540,7 +55540,7 @@
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30808",
@@ -55571,7 +55571,7 @@
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30807",
@@ -55602,7 +55602,7 @@
     "stock": 46,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30806",
@@ -55632,7 +55632,7 @@
     "stock": 23,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30805",
@@ -55663,7 +55663,7 @@
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30804",
@@ -55694,7 +55694,7 @@
     "stock": 8,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30801",
@@ -55725,7 +55725,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30803",
@@ -55756,7 +55756,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30802",
@@ -55787,7 +55787,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30800",
@@ -55819,7 +55819,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30769",
@@ -55850,7 +55850,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30992",
@@ -55879,7 +55879,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30768",
@@ -55910,7 +55910,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30767",
@@ -55941,7 +55941,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30766",
@@ -55972,7 +55972,7 @@
     "stock": 69,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30765",
@@ -56003,7 +56003,7 @@
     "stock": 68,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30762",
@@ -56033,7 +56033,7 @@
     "stock": 27,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30761",
@@ -56063,7 +56063,7 @@
     "stock": 167,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30764",
@@ -56094,7 +56094,7 @@
     "stock": 17,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30763",
@@ -56124,7 +56124,7 @@
     "stock": 20,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30760",
@@ -56155,7 +56155,7 @@
     "stock": 226,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30759",
@@ -56186,7 +56186,7 @@
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30758",
@@ -56217,7 +56217,7 @@
     "stock": 15,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30757",
@@ -56247,7 +56247,7 @@
     "stock": 32,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30756",
@@ -56278,7 +56278,7 @@
     "stock": 46,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30755",
@@ -56309,7 +56309,7 @@
     "stock": 39,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30754",
@@ -56340,7 +56340,7 @@
     "stock": 31,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30753",
@@ -56371,7 +56371,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30752",
@@ -56401,7 +56401,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30751",
@@ -56432,7 +56432,7 @@
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30750",
@@ -56463,7 +56463,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30749",
@@ -56493,7 +56493,7 @@
     "stock": 22,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30748",
@@ -56523,7 +56523,7 @@
     "stock": 52,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30747",
@@ -56553,7 +56553,7 @@
     "stock": 44,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30746",
@@ -56584,7 +56584,7 @@
     "stock": 25,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30745",
@@ -56615,7 +56615,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30744",
@@ -56646,7 +56646,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-30743",
@@ -56771,7 +56771,7 @@
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31357",
@@ -56797,7 +56797,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31364",
@@ -56823,7 +56823,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31360",
@@ -56850,7 +56850,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31367",
@@ -56876,7 +56876,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31370",
@@ -56903,7 +56903,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31388",
@@ -56931,7 +56931,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31374",
@@ -56957,7 +56957,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31415",
@@ -56986,7 +56986,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31421",
@@ -57015,7 +57015,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31434",
@@ -57044,7 +57044,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31427",
@@ -57074,7 +57074,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31440",
@@ -57102,7 +57102,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31451",
@@ -57131,7 +57131,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31445",
@@ -57160,7 +57160,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31463",
@@ -57187,7 +57187,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31459",
@@ -57214,7 +57214,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31467",
@@ -57242,7 +57242,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31477",
@@ -57266,7 +57266,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31472",
@@ -57294,7 +57294,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31479",
@@ -57324,7 +57324,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31486",
@@ -57348,7 +57348,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31490",
@@ -57378,7 +57378,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31488",
@@ -57402,7 +57402,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31497",
@@ -57431,7 +57431,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31503",
@@ -57460,7 +57460,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31509",
@@ -57487,7 +57487,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31405",
@@ -57511,7 +57511,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31403",
@@ -57563,7 +57563,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31412",
@@ -57589,7 +57589,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31398",
@@ -57617,7 +57617,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31393",
@@ -57645,7 +57645,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31774",
@@ -57669,7 +57669,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31773",
@@ -57693,7 +57693,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31772",
@@ -57717,7 +57717,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31771",
@@ -57745,7 +57745,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31770",
@@ -57773,7 +57773,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31769",
@@ -57801,7 +57801,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31457",
@@ -57825,7 +57825,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-31384",
@@ -57852,6 +57852,6 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   }
 ]
