@@ -8711,7 +8711,7 @@
     "brand": "Hansgrohe",
     "category": "Pare, furtunuri si accesorii, Sisteme de dus",
     "boxId": "",
-    "price": 265,
+    "price": 282,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/js-16.jpg",
     "gallery": [
@@ -8722,7 +8722,7 @@
     "buyUrl": "https://doarbai.ro/?p=26087",
     "sku": "4059625462751",
     "badge": "NOU",
-    "regularPrice": 265,
+    "regularPrice": 282,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -8774,7 +8774,7 @@
     "brand": "Hansgrohe",
     "category": "Pare, furtunuri si accesorii, Sisteme de dus",
     "boxId": "",
-    "price": 391,
+    "price": 402,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/js-11.jpg",
     "gallery": [
@@ -8788,7 +8788,7 @@
     "buyUrl": "https://doarbai.ro/?p=26073",
     "sku": "4059625414972",
     "badge": "NOU",
-    "regularPrice": 391,
+    "regularPrice": 402,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -8837,7 +8837,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Bideuri",
     "boxId": "",
-    "price": 1379,
+    "price": 1367,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/ed-2026-03-10T124003.702.jpg",
     "gallery": [
@@ -8849,7 +8849,7 @@
     "buyUrl": "https://doarbai.ro/?p=26055",
     "sku": "4062373962626",
     "badge": "NOU",
-    "regularPrice": 1379,
+    "regularPrice": 1367,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -9088,7 +9088,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Dulapuri baie, Mobilier baie",
     "boxId": "box-baterii",
-    "price": 9441,
+    "price": 10837,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/ed-2026-03-10T121345.448.jpg",
     "gallery": [
@@ -9100,7 +9100,7 @@
     "buyUrl": "https://doarbai.ro/?p=25986",
     "sku": "4065467415510",
     "badge": "NOU",
-    "regularPrice": 9441,
+    "regularPrice": 10837,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -9276,7 +9276,7 @@
     "brand": "Hansgrohe",
     "category": "Clapete de actionare, Rezervoare wc",
     "boxId": "",
-    "price": 363,
+    "price": 357,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/03/js-6.png",
     "gallery": [
@@ -9289,7 +9289,7 @@
     "buyUrl": "https://doarbai.ro/?p=25993",
     "sku": "66001000",
     "badge": "NOU",
-    "regularPrice": 363,
+    "regularPrice": 357,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -13413,7 +13413,7 @@
     "brand": "Boet",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "",
-    "price": 972,
+    "price": 904,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-23T084551.772.jpg",
     "gallery": [
@@ -13431,7 +13431,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-25072.pdf",
-    "regularPrice": 972,
+    "regularPrice": 904,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14398,7 +14398,7 @@
     "brand": "New Trendy",
     "category": "Cazi baie, Paravane de cada",
     "boxId": "box-cazi",
-    "price": 1159,
+    "price": 1101,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T150114.896.jpg",
     "gallery": [
@@ -14417,7 +14417,7 @@
       "Material": "Sticla"
     },
     "pdfUrl": "/pdfs/prod-24829.pdf",
-    "regularPrice": 1159,
+    "regularPrice": 1101,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14432,7 +14432,7 @@
     "brand": "New Trendy",
     "category": "Cabine de dus, Zona de dus",
     "boxId": "box-8",
-    "price": 2495,
+    "price": 2371,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T145257.296.jpg",
     "gallery": [
@@ -14453,7 +14453,7 @@
       "Material": "Sticla"
     },
     "pdfUrl": "/pdfs/prod-24824.pdf",
-    "regularPrice": 2495,
+    "regularPrice": 2371,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14468,7 +14468,7 @@
     "brand": "New Trendy",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 116,
+    "price": 110,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T144626.008.jpg",
     "gallery": [],
@@ -14481,7 +14481,7 @@
       "Culoare": "Alb, negru"
     },
     "pdfUrl": "/pdfs/prod-24820.pdf",
-    "regularPrice": 116,
+    "regularPrice": 110,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14496,7 +14496,7 @@
     "brand": "New Trendy",
     "category": "Cadite pentru dus, Zona de dus",
     "boxId": "box-8",
-    "price": 628,
+    "price": 597,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T142029.182.jpg",
     "gallery": [
@@ -14515,7 +14515,7 @@
       "Forma": "Patrata"
     },
     "pdfUrl": "/pdfs/prod-24815.pdf",
-    "regularPrice": 628,
+    "regularPrice": 597,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14530,7 +14530,7 @@
     "brand": "New Trendy",
     "category": "Rigole si canale de scurgere dus, Zona de dus",
     "boxId": "box-zona-dus",
-    "price": 2341,
+    "price": 2225,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T141119.831.jpg",
     "gallery": [
@@ -14548,7 +14548,7 @@
       "Material": "Cupru"
     },
     "pdfUrl": "/pdfs/prod-24810.pdf",
-    "regularPrice": 2341,
+    "regularPrice": 2225,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14563,7 +14563,7 @@
     "brand": "",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 241,
+    "price": 229,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T135058.513.jpg",
     "gallery": [
@@ -14579,7 +14579,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-24806.pdf",
-    "regularPrice": 241,
+    "regularPrice": 229,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14594,7 +14594,7 @@
     "brand": "New Trendy",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 214,
+    "price": 203,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T134252.458.jpg",
     "gallery": [
@@ -14606,7 +14606,7 @@
     "sku": "5902276339295",
     "badge": "NOU",
     "pdfUrl": "/pdfs/prod-24803.pdf",
-    "regularPrice": 214,
+    "regularPrice": 203,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14621,7 +14621,7 @@
     "brand": "New Trendy",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 234,
+    "price": 222,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T132019.082.jpg",
     "gallery": [
@@ -14633,7 +14633,7 @@
     "sku": "5903917269520",
     "badge": "NOU",
     "pdfUrl": "/pdfs/prod-24800.pdf",
-    "regularPrice": 234,
+    "regularPrice": 222,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -14648,7 +14648,7 @@
     "brand": "New Trendy",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 234,
+    "price": 222,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-11T131445.479.jpg",
     "gallery": [
@@ -14660,7 +14660,7 @@
     "sku": "5903917269513",
     "badge": "NOU",
     "pdfUrl": "/pdfs/prod-24797.pdf",
-    "regularPrice": 234,
+    "regularPrice": 222,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -15266,7 +15266,7 @@
     "brand": "Tece",
     "category": "Rigole si canale de scurgere dus, Zona de dus",
     "boxId": "box-zona-dus",
-    "price": 64,
+    "price": 85,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-05T124155.194.jpg",
     "gallery": [
@@ -15282,7 +15282,7 @@
       "GTIN / EAN": "4027255022591"
     },
     "pdfUrl": "/pdfs/prod-24671.pdf",
-    "regularPrice": 64,
+    "regularPrice": 85,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -15297,7 +15297,7 @@
     "brand": "Tece",
     "category": "Accesorii baie, Sifoane, ventile si racorduri",
     "boxId": "box-accesorii",
-    "price": 54,
+    "price": 64,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2026/02/ed-2026-02-05T123428.093.jpg",
     "gallery": [
@@ -15313,7 +15313,7 @@
       "Culoare": "negru"
     },
     "pdfUrl": "/pdfs/prod-24668.pdf",
-    "regularPrice": 54,
+    "regularPrice": 64,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -22113,7 +22113,7 @@
     "brand": "Boet",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 254,
+    "price": 361,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/140-985-Baterie-pentru-lavoar-crom-Neos.jpg",
     "gallery": [
@@ -22143,7 +22143,7 @@
       "Tip montare": "Chiuveta"
     },
     "pdfUrl": "/pdfs/prod-23613.pdf",
-    "regularPrice": 254,
+    "regularPrice": 361,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -23808,7 +23808,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1830,
+    "price": 1829,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-08T084138.535.jpg",
     "gallery": [
@@ -23826,7 +23826,7 @@
       "Dimensiuni": "26 x 26 cm"
     },
     "pdfUrl": "/pdfs/prod-23293.pdf",
-    "regularPrice": 1830,
+    "regularPrice": 1829,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -23841,7 +23841,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 1169,
+    "price": 1167,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-08T083134.784.jpg",
     "gallery": [
@@ -23860,7 +23860,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-23290.pdf",
-    "regularPrice": 1169,
+    "regularPrice": 1167,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -23875,7 +23875,7 @@
     "brand": "Ideal Standard",
     "category": "Cadite pentru dus, Zona de dus",
     "boxId": "box-zona-dus",
-    "price": 1665,
+    "price": 1791,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-08T082436.586.jpg",
     "gallery": [
@@ -23892,7 +23892,7 @@
       "Dimensiuni": "120 x 90 cm"
     },
     "pdfUrl": "/pdfs/prod-23286.pdf",
-    "regularPrice": 1665,
+    "regularPrice": 1791,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -23907,7 +23907,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1830,
+    "price": 1829,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T155709.036.jpg",
     "gallery": [
@@ -23925,7 +23925,7 @@
       "Dimensiuni": "260 x 260 mm"
     },
     "pdfUrl": "/pdfs/prod-23281.pdf",
-    "regularPrice": 1830,
+    "regularPrice": 1829,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -23973,7 +23973,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1643,
+    "price": 1632,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T142133.848.jpg",
     "gallery": [
@@ -23990,7 +23990,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-23273.pdf",
-    "regularPrice": 1643,
+    "regularPrice": 1632,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24035,7 +24035,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1300,
+    "price": 1281,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T095931.802.jpg",
     "gallery": [
@@ -24052,7 +24052,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-23268.pdf",
-    "regularPrice": 1300,
+    "regularPrice": 1281,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24067,7 +24067,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1300,
+    "price": 1281,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T095459.898.jpg",
     "gallery": [
@@ -24085,7 +24085,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-23264.pdf",
-    "regularPrice": 1300,
+    "regularPrice": 1281,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24200,7 +24200,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1142,
+    "price": 1181,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T092656.330.jpg",
     "gallery": [
@@ -24217,7 +24217,7 @@
       "Volum": "8 litri"
     },
     "pdfUrl": "/pdfs/prod-23250.pdf",
-    "regularPrice": 1142,
+    "regularPrice": 1181,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24232,7 +24232,7 @@
     "brand": "Ideal Standard",
     "category": "Coloane de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1112,
+    "price": 1111,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T092015.884.jpg",
     "gallery": [],
@@ -24248,7 +24248,7 @@
       "Volum": "12 litri"
     },
     "pdfUrl": "/pdfs/prod-23248.pdf",
-    "regularPrice": 1112,
+    "regularPrice": 1111,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24263,7 +24263,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 999,
+    "price": 1064,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-05T091603.894.jpg",
     "gallery": [
@@ -24280,7 +24280,7 @@
       "Volum": "3 litri"
     },
     "pdfUrl": "/pdfs/prod-23245.pdf",
-    "regularPrice": 999,
+    "regularPrice": 1064,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24295,7 +24295,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 1528,
+    "price": 1525,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-04T154157.079.jpg",
     "gallery": [
@@ -24314,7 +24314,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-23233.pdf",
-    "regularPrice": 1528,
+    "regularPrice": 1525,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24428,7 +24428,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 572,
+    "price": 565,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-04T092616.950.jpg",
     "gallery": [
@@ -24446,7 +24446,7 @@
       "Volum": "20,5 litri"
     },
     "pdfUrl": "/pdfs/prod-23211.pdf",
-    "regularPrice": 572,
+    "regularPrice": 565,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24461,7 +24461,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 720,
+    "price": 709,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-04T084541.603.jpg",
     "gallery": [
@@ -24478,7 +24478,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-23208.pdf",
-    "regularPrice": 720,
+    "regularPrice": 709,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24493,7 +24493,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 569,
+    "price": 568,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-04T083238.164.jpg",
     "gallery": [],
@@ -24508,7 +24508,7 @@
       "Material": "Acril"
     },
     "pdfUrl": "/pdfs/prod-23206.pdf",
-    "regularPrice": 569,
+    "regularPrice": 568,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24586,7 +24586,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 445,
+    "price": 435,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-03T111459.598.jpg",
     "gallery": [
@@ -24605,7 +24605,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-23177.pdf",
-    "regularPrice": 445,
+    "regularPrice": 435,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -24715,7 +24715,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 281,
+    "price": 290,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/ed-2025-12-03T101740.338.jpg",
     "gallery": [
@@ -24731,7 +24731,7 @@
       "Dimensiuni": "230 x 150 mm"
     },
     "pdfUrl": "/pdfs/prod-23132.pdf",
-    "regularPrice": 281,
+    "regularPrice": 290,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25225,7 +25225,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 497,
+    "price": 495,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T104043.423.jpg",
     "gallery": [
@@ -25242,7 +25242,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22559.pdf",
-    "regularPrice": 497,
+    "regularPrice": 495,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25290,7 +25290,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie",
     "boxId": "box-baterii",
-    "price": 530,
+    "price": 524,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T104833.336.jpg",
     "gallery": [
@@ -25308,7 +25308,7 @@
       "Volum": "20,5 litri"
     },
     "pdfUrl": "/pdfs/prod-22565.pdf",
-    "regularPrice": 530,
+    "regularPrice": 524,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25323,7 +25323,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 710,
+    "price": 700,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T115618.337.jpg",
     "gallery": [
@@ -25341,7 +25341,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-22571.pdf",
-    "regularPrice": 710,
+    "regularPrice": 700,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25356,7 +25356,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-9",
-    "price": 442,
+    "price": 439,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T132529.742.jpg",
     "gallery": [
@@ -25374,7 +25374,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22574.pdf",
-    "regularPrice": 442,
+    "regularPrice": 439,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25421,7 +25421,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 439,
+    "price": 438,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T133417.925.jpg",
     "gallery": [
@@ -25439,7 +25439,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22582.pdf",
-    "regularPrice": 439,
+    "regularPrice": 438,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25454,7 +25454,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 743,
+    "price": 726,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/11/Untitled-design-2025-11-06T080019.804.jpg",
     "gallery": [
@@ -25473,7 +25473,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-22826.pdf",
-    "regularPrice": 743,
+    "regularPrice": 726,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25488,7 +25488,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 415,
+    "price": 412,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T133712.867.jpg",
     "gallery": [
@@ -25506,7 +25506,7 @@
       "Tip montare": "Monocomanda"
     },
     "pdfUrl": "/pdfs/prod-22586.pdf",
-    "regularPrice": 415,
+    "regularPrice": 412,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25521,7 +25521,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 414,
+    "price": 411,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T143014.002.jpg",
     "gallery": [
@@ -25539,7 +25539,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22589.pdf",
-    "regularPrice": 414,
+    "regularPrice": 411,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25554,7 +25554,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 698,
+    "price": 693,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T144124.697.jpg",
     "gallery": [
@@ -25574,7 +25574,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-22594.pdf",
-    "regularPrice": 698,
+    "regularPrice": 693,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25589,7 +25589,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 756,
+    "price": 754,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-29T144357.085.jpg",
     "gallery": [
@@ -25609,7 +25609,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-22597.pdf",
-    "regularPrice": 756,
+    "regularPrice": 754,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25624,7 +25624,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 408,
+    "price": 399,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T092253.318.jpg",
     "gallery": [
@@ -25641,7 +25641,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22603.pdf",
-    "regularPrice": 408,
+    "regularPrice": 399,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25656,7 +25656,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 386,
+    "price": 383,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T093057.764.jpg",
     "gallery": [
@@ -25674,7 +25674,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-22609.pdf",
-    "regularPrice": 386,
+    "regularPrice": 383,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25689,7 +25689,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 385,
+    "price": 382,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T102150.474.jpg",
     "gallery": [
@@ -25706,7 +25706,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22613.pdf",
-    "regularPrice": 385,
+    "regularPrice": 382,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25721,7 +25721,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 390,
+    "price": 386,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T102505.135.jpg",
     "gallery": [
@@ -25737,7 +25737,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-22616.pdf",
-    "regularPrice": 390,
+    "regularPrice": 386,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25752,7 +25752,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 560,
+    "price": 549,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T102840.851.jpg",
     "gallery": [
@@ -25770,7 +25770,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22619.pdf",
-    "regularPrice": 560,
+    "regularPrice": 549,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25785,7 +25785,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 358,
+    "price": 356,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T103259.418.jpg",
     "gallery": [
@@ -25803,7 +25803,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22622.pdf",
-    "regularPrice": 358,
+    "regularPrice": 356,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25818,7 +25818,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-11",
-    "price": 520,
+    "price": 509,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T110430.578.jpg",
     "gallery": [
@@ -25836,7 +25836,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22625.pdf",
-    "regularPrice": 520,
+    "regularPrice": 509,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25851,7 +25851,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 352,
+    "price": 350,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T111432.179.jpg",
     "gallery": [
@@ -25869,7 +25869,7 @@
       "Tip montare": "Monocomanda"
     },
     "pdfUrl": "/pdfs/prod-22635.pdf",
-    "regularPrice": 352,
+    "regularPrice": 350,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25884,7 +25884,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 317,
+    "price": 316,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T133500.225.jpg",
     "gallery": [
@@ -25901,7 +25901,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22644.pdf",
-    "regularPrice": 317,
+    "regularPrice": 316,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25916,7 +25916,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 310,
+    "price": 296,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T135614.684.jpg",
     "gallery": [
@@ -25932,7 +25932,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-22647.pdf",
-    "regularPrice": 310,
+    "regularPrice": 296,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25947,7 +25947,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 375,
+    "price": 368,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/11/ed-84.jpg",
     "gallery": [
@@ -25965,7 +25965,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22658.pdf",
-    "regularPrice": 375,
+    "regularPrice": 368,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -25980,7 +25980,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 286,
+    "price": 284,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T145328.145.jpg",
     "gallery": [
@@ -25998,7 +25998,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22659.pdf",
-    "regularPrice": 286,
+    "regularPrice": 284,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26013,7 +26013,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-accesorii",
-    "price": 276,
+    "price": 274,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T145525.097.jpg",
     "gallery": [],
@@ -26028,7 +26028,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22662.pdf",
-    "regularPrice": 276,
+    "regularPrice": 274,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26043,7 +26043,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-accesorii",
-    "price": 276,
+    "price": 274,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T145817.059.jpg",
     "gallery": [],
@@ -26060,7 +26060,7 @@
       "Forma": "Patrata"
     },
     "pdfUrl": "/pdfs/prod-22664.pdf",
-    "regularPrice": 276,
+    "regularPrice": 274,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26075,7 +26075,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-accesorii",
-    "price": 286,
+    "price": 284,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T145953.675.jpg",
     "gallery": [
@@ -26093,7 +26093,7 @@
       "Tip montare": "De perete"
     },
     "pdfUrl": "/pdfs/prod-22666.pdf",
-    "regularPrice": 286,
+    "regularPrice": 284,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26108,7 +26108,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 450,
+    "price": 412,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T150208.219.jpg",
     "gallery": [
@@ -26126,7 +26126,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22669.pdf",
-    "regularPrice": 450,
+    "regularPrice": 412,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26141,7 +26141,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 420,
+    "price": 396,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T150846.228.jpg",
     "gallery": [
@@ -26159,7 +26159,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22677.pdf",
-    "regularPrice": 420,
+    "regularPrice": 396,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26174,7 +26174,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 330,
+    "price": 316,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T151116.736.jpg",
     "gallery": [],
@@ -26189,7 +26189,7 @@
       "Forma": "Ovala"
     },
     "pdfUrl": "/pdfs/prod-22680.pdf",
-    "regularPrice": 330,
+    "regularPrice": 316,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26204,7 +26204,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 281,
+    "price": 279,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T151405.021.jpg",
     "gallery": [
@@ -26221,7 +26221,7 @@
       "Material": "Inox"
     },
     "pdfUrl": "/pdfs/prod-22682.pdf",
-    "regularPrice": 281,
+    "regularPrice": 279,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26236,7 +26236,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 295,
+    "price": 290,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T151548.219.jpg",
     "gallery": [
@@ -26254,7 +26254,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22685.pdf",
-    "regularPrice": 295,
+    "regularPrice": 290,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26269,7 +26269,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 320,
+    "price": 313,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T152054.315.jpg",
     "gallery": [
@@ -26287,7 +26287,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-22690.pdf",
-    "regularPrice": 320,
+    "regularPrice": 313,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26302,7 +26302,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 255,
+    "price": 251,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T152302.232.jpg",
     "gallery": [],
@@ -26316,7 +26316,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-22693.pdf",
-    "regularPrice": 255,
+    "regularPrice": 251,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26362,7 +26362,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-accesorii",
-    "price": 238,
+    "price": 237,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T153038.194.jpg",
     "gallery": [
@@ -26380,7 +26380,7 @@
       "Tip montare": "De perete"
     },
     "pdfUrl": "/pdfs/prod-22701.pdf",
-    "regularPrice": 238,
+    "regularPrice": 237,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26395,7 +26395,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 335,
+    "price": 323,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-30T153251.153.jpg",
     "gallery": [
@@ -26415,7 +26415,7 @@
       "Volum": "25 litri"
     },
     "pdfUrl": "/pdfs/prod-22704.pdf",
-    "regularPrice": 335,
+    "regularPrice": 323,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26430,7 +26430,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 305,
+    "price": 295,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T082113.361.jpg",
     "gallery": [
@@ -26449,7 +26449,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-22724.pdf",
-    "regularPrice": 305,
+    "regularPrice": 295,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26464,7 +26464,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 220,
+    "price": 218,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T082456.173.jpg",
     "gallery": [
@@ -26481,7 +26481,7 @@
       "Material": "Inox"
     },
     "pdfUrl": "/pdfs/prod-22727.pdf",
-    "regularPrice": 220,
+    "regularPrice": 218,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26496,7 +26496,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 270,
+    "price": 263,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T082933.742.jpg",
     "gallery": [
@@ -26515,7 +26515,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-22730.pdf",
-    "regularPrice": 270,
+    "regularPrice": 263,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26530,7 +26530,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 290,
+    "price": 235,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T095828.486.jpg",
     "gallery": [
@@ -26549,7 +26549,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-22739.pdf",
-    "regularPrice": 290,
+    "regularPrice": 235,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26564,7 +26564,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 130,
+    "price": 128,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/11/ed-87.jpg",
     "gallery": [
@@ -26581,7 +26581,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22745.pdf",
-    "regularPrice": 130,
+    "regularPrice": 128,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26596,7 +26596,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 135,
+    "price": 132,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T103609.467.jpg",
     "gallery": [
@@ -26613,7 +26613,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22746.pdf",
-    "regularPrice": 135,
+    "regularPrice": 132,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26628,7 +26628,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 90,
+    "price": 89,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-31T114646.743.jpg",
     "gallery": [
@@ -26645,7 +26645,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-22749.pdf",
-    "regularPrice": 90,
+    "regularPrice": 89,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26660,7 +26660,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 779,
+    "price": 773,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/11/Untitled-design-2025-11-05T140201.245.jpg",
     "gallery": [],
@@ -26675,7 +26675,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-22807.pdf",
-    "regularPrice": 779,
+    "regularPrice": 773,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -26690,7 +26690,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 859,
+    "price": 848,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/11/Untitled-design-2025-11-05T141228.874.jpg",
     "gallery": [],
@@ -26705,7 +26705,7 @@
       "Volum": "3 litri"
     },
     "pdfUrl": "/pdfs/prod-22813.pdf",
-    "regularPrice": 859,
+    "regularPrice": 848,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28232,7 +28232,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 635,
+    "price": 636,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-01T160111.886.jpg",
     "gallery": [],
@@ -28246,7 +28246,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-21422.pdf",
-    "regularPrice": 635,
+    "regularPrice": 636,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28261,7 +28261,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 552,
+    "price": 539,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T110426.293.jpg",
     "gallery": [
@@ -28283,7 +28283,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21516.pdf",
-    "regularPrice": 552,
+    "regularPrice": 539,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28298,7 +28298,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 550,
+    "price": 537,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T110949.544.jpg",
     "gallery": [
@@ -28315,7 +28315,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-21522.pdf",
-    "regularPrice": 550,
+    "regularPrice": 537,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28330,7 +28330,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 532,
+    "price": 528,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T111324.465.jpg",
     "gallery": [
@@ -28350,7 +28350,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21525.pdf",
-    "regularPrice": 532,
+    "regularPrice": 528,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28365,7 +28365,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Paravane de cada",
     "boxId": "box-cazi",
-    "price": 559,
+    "price": 556,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T112002.728-1.jpg",
     "gallery": [],
@@ -28380,7 +28380,7 @@
       "Material": "Acril"
     },
     "pdfUrl": "/pdfs/prod-21531.pdf",
-    "regularPrice": 559,
+    "regularPrice": 556,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28395,7 +28395,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 666,
+    "price": 658,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T112501.427.jpg",
     "gallery": [
@@ -28415,7 +28415,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-21557.pdf",
-    "regularPrice": 666,
+    "regularPrice": 658,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28430,7 +28430,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 536,
+    "price": 546,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T113052.742.jpg",
     "gallery": [
@@ -28450,7 +28450,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21563.pdf",
-    "regularPrice": 536,
+    "regularPrice": 546,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28465,7 +28465,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 497,
+    "price": 487,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T113735.206.jpg",
     "gallery": [
@@ -28486,7 +28486,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21569.pdf",
-    "regularPrice": 497,
+    "regularPrice": 487,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28501,7 +28501,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 491,
+    "price": 508,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T162358.733.jpg",
     "gallery": [
@@ -28521,7 +28521,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21575.pdf",
-    "regularPrice": 491,
+    "regularPrice": 508,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28536,7 +28536,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 510,
+    "price": 484,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T162838.895.jpg",
     "gallery": [
@@ -28555,7 +28555,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-21581.pdf",
-    "regularPrice": 510,
+    "regularPrice": 484,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28570,7 +28570,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 490,
+    "price": 471,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-07T163203.859.jpg",
     "gallery": [
@@ -28589,7 +28589,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21586.pdf",
-    "regularPrice": 490,
+    "regularPrice": 471,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28777,7 +28777,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Accesorii baie, Accesorii toaleta, Capace wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 599,
+    "price": 590,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-01T093446.918.jpg",
     "gallery": [
@@ -28797,7 +28797,7 @@
       "Material": "Inox"
     },
     "pdfUrl": "/pdfs/prod-21336.pdf",
-    "regularPrice": 599,
+    "regularPrice": 590,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28948,7 +28948,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1900,
+    "price": 1889,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/10/Untitled-design-2025-10-01T084011.698.jpg",
     "gallery": [
@@ -28969,7 +28969,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21306.pdf",
-    "regularPrice": 1900,
+    "regularPrice": 1889,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -28984,7 +28984,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1079,
+    "price": 1080,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-2025-09-30T162540.562.jpg",
     "gallery": [
@@ -29006,7 +29006,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-21300.pdf",
-    "regularPrice": 1079,
+    "regularPrice": 1080,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29364,7 +29364,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Vase wc",
     "boxId": "box-baterii",
-    "price": 2353,
+    "price": 2397,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-2025-09-30T132257.353.jpg",
     "gallery": [
@@ -29384,7 +29384,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21220.pdf",
-    "regularPrice": 2353,
+    "regularPrice": 2397,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29399,7 +29399,7 @@
     "brand": "Villeroy &amp; Boch",
     "category": "Bideuri",
     "boxId": "box-baterii",
-    "price": 1649,
+    "price": 1644,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-2025-09-30T132257.353.jpg",
     "gallery": [
@@ -29418,7 +29418,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21215.pdf",
-    "regularPrice": 1649,
+    "regularPrice": 1644,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29466,7 +29466,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 594,
+    "price": 591,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-2025-09-26T111805.569.jpg",
     "gallery": [
@@ -29488,7 +29488,7 @@
       "Tip montare": "Stativ"
     },
     "pdfUrl": "/pdfs/prod-21149.pdf",
-    "regularPrice": 594,
+    "regularPrice": 591,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29503,7 +29503,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 576,
+    "price": 562,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-98.jpg",
     "gallery": [
@@ -29524,7 +29524,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21140.pdf",
-    "regularPrice": 576,
+    "regularPrice": 562,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29539,7 +29539,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 575,
+    "price": 571,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-95.jpg",
     "gallery": [
@@ -29559,7 +29559,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21135.pdf",
-    "regularPrice": 575,
+    "regularPrice": 571,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29574,7 +29574,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-8",
-    "price": 603,
+    "price": 589,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-86.jpg",
     "gallery": [
@@ -29593,7 +29593,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21123.pdf",
-    "regularPrice": 603,
+    "regularPrice": 589,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29608,7 +29608,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 610,
+    "price": 605,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-81.jpg",
     "gallery": [
@@ -29630,7 +29630,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21116.pdf",
-    "regularPrice": 610,
+    "regularPrice": 605,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29645,7 +29645,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 680,
+    "price": 669,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-80.jpg",
     "gallery": [
@@ -29664,7 +29664,7 @@
       "Volum": "20,5 litri"
     },
     "pdfUrl": "/pdfs/prod-21111.pdf",
-    "regularPrice": 680,
+    "regularPrice": 669,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29679,7 +29679,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 674,
+    "price": 669,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-72.jpg",
     "gallery": [
@@ -29701,7 +29701,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21104.pdf",
-    "regularPrice": 674,
+    "regularPrice": 669,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29716,7 +29716,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 641,
+    "price": 637,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-66.jpg",
     "gallery": [
@@ -29739,7 +29739,7 @@
       "Volum": "3,8 litri"
     },
     "pdfUrl": "/pdfs/prod-21097.pdf",
-    "regularPrice": 641,
+    "regularPrice": 637,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29754,7 +29754,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 708,
+    "price": 704,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Promotie-Cada-lavoar-2026-04-16T125328.034.jpg",
     "gallery": [
@@ -29775,7 +29775,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21090.pdf",
-    "regularPrice": 708,
+    "regularPrice": 704,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29790,7 +29790,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 811,
+    "price": 799,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/ed-2025-12-17T105926.633.jpg",
     "gallery": [
@@ -29810,7 +29810,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-21081.pdf",
-    "regularPrice": 811,
+    "regularPrice": 799,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29825,7 +29825,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 840,
+    "price": 831,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-48.jpg",
     "gallery": [
@@ -29847,7 +29847,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-21072.pdf",
-    "regularPrice": 840,
+    "regularPrice": 831,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29862,7 +29862,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 842,
+    "price": 834,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-43.jpg",
     "gallery": [
@@ -29883,7 +29883,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-21066.pdf",
-    "regularPrice": 842,
+    "regularPrice": 834,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29898,7 +29898,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada",
     "boxId": "box-baterii",
-    "price": 739,
+    "price": 723,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-38.jpg",
     "gallery": [
@@ -29919,7 +29919,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21060.pdf",
-    "regularPrice": 739,
+    "regularPrice": 723,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29934,7 +29934,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 778,
+    "price": 773,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-33.jpg",
     "gallery": [
@@ -29955,7 +29955,7 @@
       "Tip montare": "Stativ"
     },
     "pdfUrl": "/pdfs/prod-21054.pdf",
-    "regularPrice": 778,
+    "regularPrice": 773,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -29970,7 +29970,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 782,
+    "price": 776,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-27.jpg",
     "gallery": [
@@ -29991,7 +29991,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-21046.pdf",
-    "regularPrice": 782,
+    "regularPrice": 776,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30006,7 +30006,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 835,
+    "price": 819,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-14-2.jpg",
     "gallery": [
@@ -30026,7 +30026,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21039.pdf",
-    "regularPrice": 835,
+    "regularPrice": 819,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30041,7 +30041,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 815,
+    "price": 779,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-17-1.jpg",
     "gallery": [
@@ -30062,7 +30062,7 @@
       "Tip montare": "Stativ"
     },
     "pdfUrl": "/pdfs/prod-21032.pdf",
-    "regularPrice": 815,
+    "regularPrice": 779,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30077,7 +30077,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 808,
+    "price": 802,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-15-1.jpg",
     "gallery": [
@@ -30096,7 +30096,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-21029.pdf",
-    "regularPrice": 808,
+    "regularPrice": 802,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30111,7 +30111,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 850,
+    "price": 849,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-12-1.jpg",
     "gallery": [
@@ -30130,7 +30130,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21023.pdf",
-    "regularPrice": 850,
+    "regularPrice": 849,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30145,7 +30145,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 830,
+    "price": 810,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-9-1.jpg",
     "gallery": [
@@ -30162,7 +30162,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21019.pdf",
-    "regularPrice": 830,
+    "regularPrice": 810,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30177,7 +30177,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 830,
+    "price": 810,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-7-2.jpg",
     "gallery": [
@@ -30195,7 +30195,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-21015.pdf",
-    "regularPrice": 830,
+    "regularPrice": 810,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30210,7 +30210,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie",
     "boxId": "box-accesorii",
-    "price": 830,
+    "price": 810,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-5-5.jpg",
     "gallery": [
@@ -30227,7 +30227,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-21011.pdf",
-    "regularPrice": 830,
+    "regularPrice": 810,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30242,7 +30242,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 901,
+    "price": 904,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-17.jpg",
     "gallery": [
@@ -30263,7 +30263,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-21004.pdf",
-    "regularPrice": 901,
+    "regularPrice": 904,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30313,7 +30313,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1566,
+    "price": 1557,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-15.jpg",
     "gallery": [
@@ -30336,7 +30336,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20988.pdf",
-    "regularPrice": 1566,
+    "regularPrice": 1557,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30351,7 +30351,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 970,
+    "price": 953,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/bideu-pe-pardoseala-ideal-standard-connect-air-383968-2.webp",
     "gallery": [
@@ -30370,7 +30370,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-20982.pdf",
-    "regularPrice": 970,
+    "regularPrice": 953,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30385,7 +30385,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 1051,
+    "price": 1043,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/bideu-suspendat-ideal-standard-tesi-negru-mat-363895-2.webp",
     "gallery": [
@@ -30405,7 +30405,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-20977.pdf",
-    "regularPrice": 1051,
+    "regularPrice": 1043,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30455,7 +30455,7 @@
     "brand": "Ideal Standard",
     "category": "Dulapuri baie, Mobilier baie",
     "boxId": "box-mobilier",
-    "price": 1839,
+    "price": 1826,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-5-3.jpg",
     "gallery": [
@@ -30474,7 +30474,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-20967.pdf",
-    "regularPrice": 1839,
+    "regularPrice": 1826,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30489,7 +30489,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 1399,
+    "price": 1388,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-4-5.jpg",
     "gallery": [
@@ -30508,7 +30508,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-20957.pdf",
-    "regularPrice": 1399,
+    "regularPrice": 1388,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30523,7 +30523,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1550,
+    "price": 1554,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-12.jpg",
     "gallery": [
@@ -30541,7 +30541,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-20950.pdf",
-    "regularPrice": 1550,
+    "regularPrice": 1554,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30591,7 +30591,7 @@
     "brand": "Ideal Standard",
     "category": "Dulapuri baie, Mobilier baie",
     "boxId": "box-mobilier",
-    "price": 2775,
+    "price": 2732,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-11.jpg",
     "gallery": [
@@ -30611,7 +30611,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-20938.pdf",
-    "regularPrice": 2775,
+    "regularPrice": 2732,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30626,7 +30626,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii dus",
     "boxId": "box-accesorii",
-    "price": 1544,
+    "price": 1506,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-10.jpg",
     "gallery": [
@@ -30646,7 +30646,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20932.pdf",
-    "regularPrice": 1544,
+    "regularPrice": 1506,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30661,7 +30661,7 @@
     "brand": "Ideal Standard",
     "category": "Coloane de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1586,
+    "price": 1549,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-4-3.jpg",
     "gallery": [
@@ -30681,7 +30681,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20924.pdf",
-    "regularPrice": 1586,
+    "regularPrice": 1549,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30696,7 +30696,7 @@
     "brand": "Ideal Standard",
     "category": "Coloane de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 1565,
+    "price": 1553,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-8.jpg",
     "gallery": [
@@ -30716,7 +30716,7 @@
       "Tip montare": "Termostatat"
     },
     "pdfUrl": "/pdfs/prod-20917.pdf",
-    "regularPrice": 1565,
+    "regularPrice": 1553,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30768,7 +30768,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 2010,
+    "price": 1994,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/Untitled-design-4-1.jpg",
     "gallery": [
@@ -30790,7 +30790,7 @@
       "Tip montare": "Stativ"
     },
     "pdfUrl": "/pdfs/prod-20828.pdf",
-    "regularPrice": 2010,
+    "regularPrice": 1994,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -30805,7 +30805,7 @@
     "brand": "Ideal Standard",
     "category": "Dulapuri baie, Mobilier baie",
     "boxId": "box-mobilier",
-    "price": 2396,
+    "price": 2379,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/ed-76.jpg",
     "gallery": [
@@ -30824,7 +30824,7 @@
       "Dimensiuni": "80 x 50 mm"
     },
     "pdfUrl": "/pdfs/prod-20822.pdf",
-    "regularPrice": 2396,
+    "regularPrice": 2379,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31074,7 +31074,7 @@
     "brand": "Ideal Standard",
     "category": "Masti, sifoane si suporturi cazi",
     "boxId": "box-cazi",
-    "price": 500,
+    "price": 499,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-6.jpg",
     "gallery": [
@@ -31090,7 +31090,7 @@
       "Material": "Acril"
     },
     "pdfUrl": "/pdfs/prod-19889.pdf",
-    "regularPrice": 500,
+    "regularPrice": 499,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31105,7 +31105,7 @@
     "brand": "Ideal Standard",
     "category": "Masti, sifoane si suporturi cazi",
     "boxId": "box-showroom-demo",
-    "price": 290,
+    "price": 287,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design.jpg",
     "gallery": [],
@@ -31120,7 +31120,7 @@
       "Material": "Acril"
     },
     "pdfUrl": "/pdfs/prod-19871.pdf",
-    "regularPrice": 290,
+    "regularPrice": 287,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31234,7 +31234,7 @@
     "brand": "Ideal Standard",
     "category": "Capace wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 350,
+    "price": 348,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/09/capac-wc-din-duroplast-ideal-standard-tesi-t352701-alb-inchidere-lenta-11-1.jpg",
     "gallery": [
@@ -31251,7 +31251,7 @@
       "Material": "Alama"
     },
     "pdfUrl": "/pdfs/prod-20660.pdf",
-    "regularPrice": 350,
+    "regularPrice": 348,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31403,7 +31403,7 @@
     "brand": "Ideal Standard",
     "category": "Dulapuri baie, Mobilier baie",
     "boxId": "box-showroom-demo",
-    "price": 920,
+    "price": 929,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Dulap-lavoar-600-mm-alb-lucios-cu-2-sertare.jpg",
     "gallery": [
@@ -31423,7 +31423,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20302.pdf",
-    "regularPrice": 920,
+    "regularPrice": 929,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31438,7 +31438,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 676,
+    "price": 672,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Lavoar-STRADA-O-alb-lucios-–-vedere-frontalaa.jpg",
     "gallery": [
@@ -31459,7 +31459,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20299.pdf",
-    "regularPrice": 676,
+    "regularPrice": 672,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31474,7 +31474,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1218,
+    "price": 1206,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Lavoar-STRADA-II-400×400-mm-alb-lucios-–-vedere-frontala.jpg",
     "gallery": [
@@ -31494,7 +31494,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20296.pdf",
-    "regularPrice": 1218,
+    "regularPrice": 1206,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31509,7 +31509,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1408,
+    "price": 1392,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Lavoar-STRADA-II-pe-blat-alb-lucios-–-vedere-frontala.jpg",
     "gallery": [
@@ -31531,7 +31531,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20292.pdf",
-    "regularPrice": 1408,
+    "regularPrice": 1392,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31581,7 +31581,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 1018,
+    "price": 1011,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Lavoar-negru-mat-pe-blat-Strada-O-–-vedere-frontala.jpg",
     "gallery": [
@@ -31602,7 +31602,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20285.pdf",
-    "regularPrice": 1018,
+    "regularPrice": 1011,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31617,7 +31617,7 @@
     "brand": "Ideal Standard",
     "category": "Lavoare",
     "boxId": "box-obiecte-sanitare",
-    "price": 690,
+    "price": 682,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Lavoar-pe-blat-Strada-alb-lucios-–-vedere-frontala.jpg",
     "gallery": [
@@ -31637,7 +31637,7 @@
       "Tip montare": "Pe blat"
     },
     "pdfUrl": "/pdfs/prod-20282.pdf",
-    "regularPrice": 690,
+    "regularPrice": 682,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31652,7 +31652,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 283,
+    "price": 276,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/d69228e6e3a4a6b1ed06bc23.webp",
     "gallery": [
@@ -31673,7 +31673,7 @@
       "Volum": "8 litri"
     },
     "pdfUrl": "/pdfs/prod-20267.pdf",
-    "regularPrice": 283,
+    "regularPrice": 276,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31688,7 +31688,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 420,
+    "price": 417,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-13.jpg",
     "gallery": [
@@ -31707,7 +31707,7 @@
       "Volum": "8 litri"
     },
     "pdfUrl": "/pdfs/prod-20258.pdf",
-    "regularPrice": 420,
+    "regularPrice": 417,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31722,7 +31722,7 @@
     "brand": "Ideal Standard",
     "category": "Seturi de dus, Sisteme de dus",
     "boxId": "box-showroom-demo",
-    "price": 666,
+    "price": 661,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-10-1.jpg",
     "gallery": [
@@ -31741,7 +31741,7 @@
       "Volum": "8 litri"
     },
     "pdfUrl": "/pdfs/prod-20250.pdf",
-    "regularPrice": 666,
+    "regularPrice": 661,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31790,7 +31790,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii dus",
     "boxId": "box-baterii",
-    "price": 517,
+    "price": 513,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/is-ceralifeo-be029xg-dsheet-nn-en-2.jpg",
     "gallery": [
@@ -31809,7 +31809,7 @@
       "Finisaj": "lucios"
     },
     "pdfUrl": "/pdfs/prod-20230.pdf",
-    "regularPrice": 517,
+    "regularPrice": 513,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31824,7 +31824,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii cada, Baterii dus",
     "boxId": "box-baterii",
-    "price": 675,
+    "price": 671,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/is-ceralifeo-be029xg-dsheet-nn-en.jpg",
     "gallery": [
@@ -31843,7 +31843,7 @@
       "Finisaj": "mat"
     },
     "pdfUrl": "/pdfs/prod-20224.pdf",
-    "regularPrice": 675,
+    "regularPrice": 671,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31858,7 +31858,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 528,
+    "price": 524,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-3-4.jpg",
     "gallery": [
@@ -31878,7 +31878,7 @@
       "Volum": "3.8 litri"
     },
     "pdfUrl": "/pdfs/prod-20221.pdf",
-    "regularPrice": 528,
+    "regularPrice": 524,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31893,7 +31893,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 650,
+    "price": 634,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-13-1.jpg",
     "gallery": [
@@ -31913,7 +31913,7 @@
       "Volum": "5 litri"
     },
     "pdfUrl": "/pdfs/prod-20218.pdf",
-    "regularPrice": 650,
+    "regularPrice": 634,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31928,7 +31928,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 603,
+    "price": 589,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-2-13.jpg",
     "gallery": [
@@ -31948,7 +31948,7 @@
       "Volum": "5 litri"
     },
     "pdfUrl": "/pdfs/prod-20211.pdf",
-    "regularPrice": 603,
+    "regularPrice": 589,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31963,7 +31963,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-baterii",
-    "price": 593,
+    "price": 589,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-29.jpg",
     "gallery": [
@@ -31983,7 +31983,7 @@
       "Volum": "5 litri"
     },
     "pdfUrl": "/pdfs/prod-20208.pdf",
-    "regularPrice": 593,
+    "regularPrice": 589,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -31998,7 +31998,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 119,
+    "price": 118,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-1-18.jpg",
     "gallery": [
@@ -32018,7 +32018,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20205.pdf",
-    "regularPrice": 119,
+    "regularPrice": 118,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32033,7 +32033,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 119,
+    "price": 118,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-28.jpg",
     "gallery": [
@@ -32053,7 +32053,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20201.pdf",
-    "regularPrice": 119,
+    "regularPrice": 118,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32068,7 +32068,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 126,
+    "price": 125,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/32.jpg",
     "gallery": [
@@ -32088,7 +32088,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20198.pdf",
-    "regularPrice": 126,
+    "regularPrice": 125,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32103,7 +32103,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 244,
+    "price": 239,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-1-17.jpg",
     "gallery": [
@@ -32123,7 +32123,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20195.pdf",
-    "regularPrice": 244,
+    "regularPrice": 239,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32138,7 +32138,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 244,
+    "price": 239,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-27.jpg",
     "gallery": [
@@ -32156,7 +32156,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20191.pdf",
-    "regularPrice": 244,
+    "regularPrice": 239,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32171,7 +32171,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-accesorii",
-    "price": 244,
+    "price": 239,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/28.jpg",
     "gallery": [
@@ -32189,7 +32189,7 @@
       "Tip montare": "Pe perete"
     },
     "pdfUrl": "/pdfs/prod-20157.pdf",
-    "regularPrice": 244,
+    "regularPrice": 239,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32204,7 +32204,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-baterii",
-    "price": 269,
+    "price": 264,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-25.jpg",
     "gallery": [
@@ -32224,7 +32224,7 @@
       "Volum": "3,8 litri"
     },
     "pdfUrl": "/pdfs/prod-20072.pdf",
-    "regularPrice": 269,
+    "regularPrice": 264,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32239,7 +32239,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-showroom-demo",
-    "price": 593,
+    "price": 589,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-4-2.jpg",
     "gallery": [
@@ -32260,7 +32260,7 @@
       "Volum": "3,8 litri"
     },
     "pdfUrl": "/pdfs/prod-20068.pdf",
-    "regularPrice": 593,
+    "regularPrice": 589,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32275,7 +32275,7 @@
     "brand": "Ideal Standard",
     "category": "Baterii baie, Baterii lavoar",
     "boxId": "box-showroom-demo",
-    "price": 603,
+    "price": 589,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-24.jpg",
     "gallery": [
@@ -32297,7 +32297,7 @@
       "Volum": "5 litri"
     },
     "pdfUrl": "/pdfs/prod-20062.pdf",
-    "regularPrice": 603,
+    "regularPrice": 589,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32347,7 +32347,7 @@
     "brand": "Ideal Standard",
     "category": "Clapete de actionare, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 210,
+    "price": 204,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-22.jpg",
     "gallery": [
@@ -32368,7 +32368,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-20054.pdf",
-    "regularPrice": 210,
+    "regularPrice": 204,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32383,7 +32383,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-showroom-demo",
-    "price": 830,
+    "price": 822,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/16.jpg",
     "gallery": [
@@ -32403,7 +32403,7 @@
       "Volum": "6 litri"
     },
     "pdfUrl": "/pdfs/prod-19910.pdf",
-    "regularPrice": 830,
+    "regularPrice": 822,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32418,7 +32418,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 730,
+    "price": 725,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-4-2.jpg",
     "gallery": [
@@ -32437,7 +32437,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-20004.pdf",
-    "regularPrice": 730,
+    "regularPrice": 725,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32452,7 +32452,7 @@
     "brand": "Ideal Standard",
     "category": "Clapete de actionare, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 220,
+    "price": 218,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-21.jpg",
     "gallery": [
@@ -32473,7 +32473,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-20009.pdf",
-    "regularPrice": 220,
+    "regularPrice": 218,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32488,7 +32488,7 @@
     "brand": "Ideal Standard",
     "category": "Clapete de actionare, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 171,
+    "price": 170,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-1-10.jpg",
     "gallery": [
@@ -32509,7 +32509,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-19996.pdf",
-    "regularPrice": 171,
+    "regularPrice": 170,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32524,7 +32524,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 1100,
+    "price": 1091,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-9.jpg",
     "gallery": [
@@ -32545,7 +32545,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-19971.pdf",
-    "regularPrice": 1100,
+    "regularPrice": 1091,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32560,7 +32560,7 @@
     "brand": "Ideal Standard",
     "category": "Rezervoare incastrate, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 762,
+    "price": 757,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-19.jpg",
     "gallery": [
@@ -32577,7 +32577,7 @@
       "Volum": "3 litri"
     },
     "pdfUrl": "/pdfs/prod-19970.pdf",
-    "regularPrice": 762,
+    "regularPrice": 757,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32626,7 +32626,7 @@
     "brand": "Ideal Standard",
     "category": "Rezervoare incastrate, Rezervoare wc",
     "boxId": "box-accesorii",
-    "price": 688,
+    "price": 683,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-17.jpg",
     "gallery": [
@@ -32645,7 +32645,7 @@
       "Tip montare": "Incastrat"
     },
     "pdfUrl": "/pdfs/prod-19956.pdf",
-    "regularPrice": 688,
+    "regularPrice": 683,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32660,7 +32660,7 @@
     "brand": "Ideal Standard",
     "category": "Rame instalare, Rezervoare wc",
     "boxId": "box-showroom-demo",
-    "price": 590,
+    "price": 588,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-16.jpg",
     "gallery": [
@@ -32678,7 +32678,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-19953.pdf",
-    "regularPrice": 590,
+    "regularPrice": 588,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32693,7 +32693,7 @@
     "brand": "Ideal Standard",
     "category": "Capace wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 534,
+    "price": 530,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-1-5.jpg",
     "gallery": [
@@ -32714,7 +32714,7 @@
       "Material": "Alama"
     },
     "pdfUrl": "/pdfs/prod-19949.pdf",
-    "regularPrice": 534,
+    "regularPrice": 530,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32729,7 +32729,7 @@
     "brand": "Ideal Standard",
     "category": "Bideuri",
     "boxId": "box-obiecte-sanitare",
-    "price": 650,
+    "price": 633,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-8.jpg",
     "gallery": [
@@ -32751,7 +32751,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-19948.pdf",
-    "regularPrice": 650,
+    "regularPrice": 633,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32766,7 +32766,7 @@
     "brand": "Ideal Standard",
     "category": "Capace wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 260,
+    "price": 256,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-9.jpg",
     "gallery": [
@@ -32787,7 +32787,7 @@
       "Material": "Alama"
     },
     "pdfUrl": "/pdfs/prod-19944.pdf",
-    "regularPrice": 260,
+    "regularPrice": 256,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32802,7 +32802,7 @@
     "brand": "Ideal Standard",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "box-showroom-demo",
-    "price": 330,
+    "price": 328,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-9.jpg",
     "gallery": [
@@ -32823,7 +32823,7 @@
       "Material": "Alama"
     },
     "pdfUrl": "/pdfs/prod-19934.pdf",
-    "regularPrice": 330,
+    "regularPrice": 328,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32838,7 +32838,7 @@
     "brand": "Ideal Standard",
     "category": "",
     "boxId": "box-obiecte-sanitare",
-    "price": 470,
+    "price": 460,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-7.jpg",
     "gallery": [
@@ -32857,7 +32857,7 @@
       "Tip montare": "Stativ"
     },
     "pdfUrl": "/pdfs/prod-19933.pdf",
-    "regularPrice": 470,
+    "regularPrice": 460,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32872,7 +32872,7 @@
     "brand": "Ideal Standard",
     "category": "",
     "boxId": "box-obiecte-sanitare",
-    "price": 1610,
+    "price": 1596,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-11.jpg",
     "gallery": [
@@ -32892,7 +32892,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-19928.pdf",
-    "regularPrice": 1610,
+    "regularPrice": 1596,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32907,7 +32907,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 839,
+    "price": 833,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-8.jpg",
     "gallery": [
@@ -32928,7 +32928,7 @@
       "Tip montare": "Suspendat"
     },
     "pdfUrl": "/pdfs/prod-19922.pdf",
-    "regularPrice": 839,
+    "regularPrice": 833,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32943,7 +32943,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 1085,
+    "price": 1043,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-3-1.jpg",
     "gallery": [
@@ -32964,7 +32964,7 @@
       "Volum": "3 litri"
     },
     "pdfUrl": "/pdfs/prod-19917.pdf",
-    "regularPrice": 1085,
+    "regularPrice": 1043,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -32979,7 +32979,7 @@
     "brand": "Ideal Standard",
     "category": "Vase wc",
     "boxId": "box-obiecte-sanitare",
-    "price": 890,
+    "price": 870,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-6.jpg",
     "gallery": [
@@ -33001,7 +33001,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-19913.pdf",
-    "regularPrice": 890,
+    "regularPrice": 870,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33016,7 +33016,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 13100,
+    "price": 12744,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu-1-1.jpg",
     "gallery": [
@@ -33037,7 +33037,7 @@
       "Volum": "230 litri"
     },
     "pdfUrl": "/pdfs/prod-19902.pdf",
-    "regularPrice": 13100,
+    "regularPrice": 12744,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33052,7 +33052,7 @@
     "brand": "Ideal Standard",
     "category": "",
     "boxId": "box-showroom-demo",
-    "price": 985,
+    "price": 981,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu.jpg",
     "gallery": [
@@ -33074,7 +33074,7 @@
       "Volum": "295 litri"
     },
     "pdfUrl": "/pdfs/prod-19879.pdf",
-    "regularPrice": 985,
+    "regularPrice": 981,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33089,7 +33089,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi dreptunghiulare, Cazi pe colt",
     "boxId": "box-cazi",
-    "price": 829,
+    "price": 816,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design-2.jpg",
     "gallery": [
@@ -33111,7 +33111,7 @@
       "Volum": "206 litri"
     },
     "pdfUrl": "/pdfs/prod-19878.pdf",
-    "regularPrice": 829,
+    "regularPrice": 816,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33126,7 +33126,7 @@
     "brand": "Ideal Standard",
     "category": "",
     "boxId": "box-showroom-demo",
-    "price": 7690,
+    "price": 7526,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/1.jpg",
     "gallery": [
@@ -33148,7 +33148,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-19866.pdf",
-    "regularPrice": 7690,
+    "regularPrice": 7526,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33163,7 +33163,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-cazi",
-    "price": 8780,
+    "price": 8604,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/1.jpg",
     "gallery": [
@@ -33185,7 +33185,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-19900.pdf",
-    "regularPrice": 8780,
+    "regularPrice": 8604,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33200,7 +33200,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Masti, sifoane si suporturi cazi, Paravane de cada",
     "boxId": "box-cazi",
-    "price": 554,
+    "price": 550,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/DOARBAI.RO_.jpg",
     "gallery": [
@@ -33217,7 +33217,7 @@
       "Culoare": "Alb"
     },
     "pdfUrl": "/pdfs/prod-19899.pdf",
-    "regularPrice": 554,
+    "regularPrice": 550,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33232,7 +33232,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Masti, sifoane si suporturi cazi, Paravane de cada",
     "boxId": "box-cazi",
-    "price": 282,
+    "price": 280,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Untitled-design.jpg",
     "gallery": [],
@@ -33248,7 +33248,7 @@
       "Material": "Acril"
     },
     "pdfUrl": "/pdfs/prod-19897.pdf",
-    "regularPrice": 282,
+    "regularPrice": 280,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33299,7 +33299,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi dreptunghiulare",
     "boxId": "box-cazi",
-    "price": 817,
+    "price": 818,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu.jpg",
     "gallery": [
@@ -33318,7 +33318,7 @@
       "Volum": "228 litri"
     },
     "pdfUrl": "/pdfs/prod-19891.pdf",
-    "regularPrice": 817,
+    "regularPrice": 818,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33333,7 +33333,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi dreptunghiulare",
     "boxId": "box-cazi",
-    "price": 922,
+    "price": 939,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/Design-fara-titlu.jpg",
     "gallery": [
@@ -33355,7 +33355,7 @@
       "Volum": "285 litri"
     },
     "pdfUrl": "/pdfs/prod-19888.pdf",
-    "regularPrice": 922,
+    "regularPrice": 939,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -33370,7 +33370,7 @@
     "brand": "Ideal Standard",
     "category": "Cazi baie, Cazi freestanding",
     "boxId": "box-showroom-demo",
-    "price": 6989,
+    "price": 6876,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/08/1.jpg",
     "gallery": [
@@ -33394,7 +33394,7 @@
       "Forma": "Oval"
     },
     "pdfUrl": "/pdfs/prod-19873.pdf",
-    "regularPrice": 6989,
+    "regularPrice": 6876,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43364,8 +43364,8 @@
     "brand": "Cadite pentru dus",
     "category": "Cadite pentru dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 1057,
-    "regularPrice": 1057,
+    "price": 1004,
+    "regularPrice": 1004,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43396,8 +43396,8 @@
     "brand": "Cadite pentru dus",
     "category": "Cadite pentru dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 1037,
-    "regularPrice": 1037,
+    "price": 985,
+    "regularPrice": 985,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43426,8 +43426,8 @@
     "brand": "Cadite pentru dus",
     "category": "Cadite pentru dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 829,
-    "regularPrice": 829,
+    "price": 788,
+    "regularPrice": 788,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43458,8 +43458,8 @@
     "brand": "Cadite pentru dus",
     "category": "Cadite pentru dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 829,
-    "regularPrice": 829,
+    "price": 788,
+    "regularPrice": 788,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43490,8 +43490,8 @@
     "brand": "Cabine de dus",
     "category": "Cabine de dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 3304,
-    "regularPrice": 3304,
+    "price": 3140,
+    "regularPrice": 3140,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -43520,8 +43520,8 @@
     "brand": "Cabine de dus",
     "category": "Cabine de dus, Dusuri",
     "boxId": "box-showroom-demo",
-    "price": 3471,
-    "regularPrice": 3471,
+    "price": 3299,
+    "regularPrice": 3299,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
