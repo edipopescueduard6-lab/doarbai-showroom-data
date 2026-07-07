@@ -58381,5 +58381,31 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-32860",
+    "name": "Lavoar tip vas riflat din piatră sintetică, verde, 600 × 350 × 160 mm",
+    "brand": "Lavoare",
+    "category": "Lavoare, Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 1361,
+    "regularPrice": 1361,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/MR-A8871-003.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/MR-A8871-002.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/07/MR-A8871-001.jpg"
+    ],
+    "description": "Lavoar tip vas riflat MonBlari MR-A8872 din piatră sintetică. Dimensiuni 600 × 350 × 160 mm. Design contemporan, montaj pe blat.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoare/lavoar-tip-vas-riflat-din-piatra-sintetica-verde-600-x-350-x-160-mm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
