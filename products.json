@@ -58407,5 +58407,31 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-32884",
+    "name": "Cadă de baie freestanding din piatră sintetică, verde, 1700 × 800 × 580 mm",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi freestanding",
+    "boxId": "box-showroom-demo",
+    "price": 8864,
+    "regularPrice": 8864,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-11_10_49-AM.png",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-11_10_55-AM.png",
+      "https://doarbai.ro/wp-content/uploads/2026/07/MR-88873R-schita-2.png"
+    ],
+    "description": "Cadă de baie freestanding MonBlari MR-88873R-V din piatră sintetică. Dimensiuni 1700 × 800 × 580 mm. Design contemporan, montaj freestanding.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cada-de-baie-freestanding-din-piatra-sintetica-verde-1700-x-800-x-580-mm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
