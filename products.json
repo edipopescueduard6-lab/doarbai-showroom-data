@@ -32407,7 +32407,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -58026,7 +58026,8 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoar-tip-vas-din-piatra-sintetica-verde-salvie-600-x-350-x-160-mm/",
     "pdfUrl": "",
     "pdfPngs": [],
-    "pdfPages": 0
+    "pdfPages": 0,
+    "archived": true
   },
   {
     "id": "prod-32055",
@@ -58146,7 +58147,8 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/cada-de-baie-freestanding-din-piatra-sintetica-verde-salvie-1700-x-800-x-580-mm/",
     "pdfUrl": "",
     "pdfPngs": [],
-    "pdfPages": 0
+    "pdfPages": 0,
+    "archived": true
   },
   {
     "id": "prod-32023",
@@ -58176,7 +58178,8 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/cada-de-baie-freestanding-din-piatra-sintetica-alb-mat-1700-x-800-x-550-mm/",
     "pdfUrl": "",
     "pdfPngs": [],
-    "pdfPages": 0
+    "pdfPages": 0,
+    "archived": true
   },
   {
     "id": "prod-32015",
