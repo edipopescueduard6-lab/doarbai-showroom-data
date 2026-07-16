@@ -61388,5 +61388,30 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-34553",
+    "name": "Lavoar freestanding pe picior riflat din compozit,peach,900 × 400 × 200 mm",
+    "brand": "Lavoar freestanding",
+    "category": "Lavoar freestanding, Lavoare, Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 3490,
+    "regularPrice": 3490,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/ChatGPT-Image-16-iul.-2026-08_42_54.png",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/ChatGPT-Image-16-iul.-2026-08_44_24.png"
+    ],
+    "description": "Lavoar freestanding pe picior riflat MonBlari MR-Z1503 din compozit,peach.Dimensiuni 900 × 400 × 200 mm. Design contemporan, montaj freestanding pe picior.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/lavoar-freestanding-pe-picior-din-piatra-sintetica-peach-900-x-400-x-200-mm/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
