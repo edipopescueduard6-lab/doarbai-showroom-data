@@ -27396,7 +27396,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27431,7 +27431,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27465,7 +27465,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27499,7 +27499,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27535,7 +27535,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27569,7 +27569,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27602,7 +27602,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27636,7 +27636,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27670,7 +27670,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27704,7 +27704,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27738,7 +27738,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27774,7 +27774,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27808,7 +27808,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27843,7 +27843,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27877,7 +27877,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27910,7 +27910,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27944,7 +27944,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -27976,7 +27976,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28011,7 +28011,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28043,7 +28043,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28075,7 +28075,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28111,7 +28111,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28146,7 +28146,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28182,7 +28182,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28221,7 +28221,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28250,7 +28250,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28287,7 +28287,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28319,7 +28319,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 7,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28354,7 +28354,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28384,7 +28384,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28419,7 +28419,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28454,7 +28454,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 7,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28490,7 +28490,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28525,7 +28525,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28559,7 +28559,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28593,7 +28593,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 9,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28629,7 +28629,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28663,7 +28663,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28695,7 +28695,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28730,7 +28730,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28766,7 +28766,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28801,7 +28801,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28835,7 +28835,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28870,7 +28870,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28902,7 +28902,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28937,7 +28937,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -28973,7 +28973,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29010,7 +29010,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29046,7 +29046,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29079,7 +29079,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29114,7 +29114,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29145,7 +29145,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29182,7 +29182,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29211,7 +29211,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29246,7 +29246,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29282,7 +29282,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29316,7 +29316,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29353,7 +29353,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29388,7 +29388,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29422,7 +29422,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29455,7 +29455,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29492,7 +29492,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29528,7 +29528,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29563,7 +29563,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 9,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29597,7 +29597,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29634,7 +29634,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 13,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29668,7 +29668,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29705,7 +29705,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 10,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29743,7 +29743,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29779,7 +29779,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29814,7 +29814,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29851,7 +29851,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 23,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29887,7 +29887,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29923,7 +29923,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29959,7 +29959,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -29995,7 +29995,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30030,7 +30030,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 36,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30066,7 +30066,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30100,7 +30100,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 7,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30134,7 +30134,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 13,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30166,7 +30166,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30199,7 +30199,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30231,7 +30231,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30267,7 +30267,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 36,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30302,7 +30302,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30340,7 +30340,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30374,7 +30374,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30409,7 +30409,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30444,7 +30444,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30478,7 +30478,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30512,7 +30512,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30545,7 +30545,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 5,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30580,7 +30580,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30615,7 +30615,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30650,7 +30650,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30685,7 +30685,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30720,7 +30720,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30757,7 +30757,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30794,7 +30794,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 6,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -30828,7 +30828,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": true,
+    "archived": false,
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -65923,6 +65923,206 @@
     "inStock": true,
     "badge": null,
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/bideu-suspendat-simas-juniper-mirto-mat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35169",
+    "name": "Cada rectangulara Villeroy & Boch Oberon 180x80 cm, Quaryl, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 4575,
+    "regularPrice": 4575,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-180x80-cm-quaryl-alba-ubq180obe2v-01.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-180x80-cm-quaryl-alba-ubq180obe2v-01-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Villeroy & Boch Oberon, cu interior oval elegant, fabricata din Quaryl alb premium. Dimensiuni 1800 x 800 x 470 mm, capacitate 245 litri, cu picioare de sustinere reglabile incluse.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cada-rectangulara-villeroy-boch-oberon-180x80-cm-quaryl-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35166",
+    "name": "Cada rectangulara Villeroy & Boch Oberon 170x70 cm, Quaryl, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 3497,
+    "regularPrice": 3497,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-170x70-cm-quaryl-alba-ubq177obe2v-01.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-170x70-cm-quaryl-alba-ubq177obe2v-01-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Villeroy & Boch Oberon, cu interior oval elegant, fabricata din Quaryl alb premium. Dimensiuni 1700 x 700 x 475 mm, capacitate 135 litri, cu picioare de sustinere reglabile incluse si suprafata antiderapanta.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cazi-dreptunghiulare/cada-rectangulara-villeroy-boch-oberon-170x70-cm-quaryl-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35163",
+    "name": "Panou frontal (masca) cada Ideal Standard Simplicity 180 cm, acril, alb",
+    "brand": "Obiecte sanitare",
+    "category": "Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 567,
+    "regularPrice": 567,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/panou-frontal-cada-ideal-standard-simplicity-180-cm-alb-w005001.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/panou-frontal-cada-ideal-standard-simplicity-180-cm-alb-w005001-desen-tehnic.jpg"
+    ],
+    "description": "Panou frontal (masca) de acoperire pentru cada Ideal Standard Simplicity, compatibil cu cazile de 1800 mm. Fabricat din acril sanitar alb, cu set de montaj inclus, ofera un finisaj curat si acces usor la instalatie.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/panou-frontal-masca-cada-ideal-standard-simplicity-180-cm-acril-alb/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35160",
+    "name": "Cada rectangulara Ideal Standard Simplicity DUO 180x80 cm, acril, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 952,
+    "regularPrice": 952,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-ideal-standard-simplicity-duo-180x80-cm-acril-alba-w004601.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-ideal-standard-simplicity-duo-180x80-cm-acril-alba-w004601-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Ideal Standard Simplicity DUO, cu doua spatare inclinate pentru o baie relaxanta in doi. Fabricata din acril sanitar alb, cald la atingere si usor de intretinut, cu dimensiuni de 1800 x 800 x 435 mm si un volum generos de 247 litri.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cazi-dreptunghiulare/cada-rectangulara-ideal-standard-simplicity-duo-180x80-cm-acril-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35169",
+    "name": "Cada rectangulara Villeroy & Boch Oberon 180x80 cm, Quaryl, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 4575,
+    "regularPrice": 4575,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-180x80-cm-quaryl-alba-ubq180obe2v-01.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-180x80-cm-quaryl-alba-ubq180obe2v-01-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Villeroy & Boch Oberon, cu interior oval elegant, fabricata din Quaryl alb premium. Dimensiuni 1800 x 800 x 470 mm, capacitate 245 litri, cu picioare de sustinere reglabile incluse.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cada-rectangulara-villeroy-boch-oberon-180x80-cm-quaryl-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35166",
+    "name": "Cada rectangulara Villeroy & Boch Oberon 170x70 cm, Quaryl, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 3497,
+    "regularPrice": 3497,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-170x70-cm-quaryl-alba-ubq177obe2v-01.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-villeroy-boch-oberon-170x70-cm-quaryl-alba-ubq177obe2v-01-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Villeroy & Boch Oberon, cu interior oval elegant, fabricata din Quaryl alb premium. Dimensiuni 1700 x 700 x 475 mm, capacitate 135 litri, cu picioare de sustinere reglabile incluse si suprafata antiderapanta.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cazi-dreptunghiulare/cada-rectangulara-villeroy-boch-oberon-170x70-cm-quaryl-alba/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35163",
+    "name": "Panou frontal (masca) cada Ideal Standard Simplicity 180 cm, acril, alb",
+    "brand": "Obiecte sanitare",
+    "category": "Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 567,
+    "regularPrice": 567,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/panou-frontal-cada-ideal-standard-simplicity-180-cm-alb-w005001.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/panou-frontal-cada-ideal-standard-simplicity-180-cm-alb-w005001-desen-tehnic.jpg"
+    ],
+    "description": "Panou frontal (masca) de acoperire pentru cada Ideal Standard Simplicity, compatibil cu cazile de 1800 mm. Fabricat din acril sanitar alb, cu set de montaj inclus, ofera un finisaj curat si acces usor la instalatie.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/panou-frontal-masca-cada-ideal-standard-simplicity-180-cm-acril-alb/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-35160",
+    "name": "Cada rectangulara Ideal Standard Simplicity DUO 180x80 cm, acril, alba",
+    "brand": "Cazi baie",
+    "category": "Cazi baie, Cazi dreptunghiulare",
+    "boxId": "box-showroom-demo",
+    "price": 952,
+    "regularPrice": 952,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/cada-ideal-standard-simplicity-duo-180x80-cm-acril-alba-w004601.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/cada-ideal-standard-simplicity-duo-180x80-cm-acril-alba-w004601-desen-tehnic.jpg"
+    ],
+    "description": "Cada de baie dreptunghiulara incastrabila Ideal Standard Simplicity DUO, cu doua spatare inclinate pentru o baie relaxanta in doi. Fabricata din acril sanitar alb, cald la atingere si usor de intretinut, cu dimensiuni de 1800 x 800 x 435 mm si un volum generos de 247 litri.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/cazi-baie/cazi-dreptunghiulare/cada-rectangulara-ideal-standard-simplicity-duo-180x80-cm-acril-alba/",
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
