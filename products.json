@@ -20572,7 +20572,7 @@
     "salePrice": 3246,
     "onSale": true,
     "discountPct": 15,
-    "archived": false,
+    "archived": true,
     "stock": 4,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
