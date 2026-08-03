@@ -72443,5 +72443,33 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-35656",
+    "name": "Baterie lavoar inalta Hansgrohe Metropol 260 32512670, proiectie 204 mm, ventil Push-Open, negru mat",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii lavoar",
+    "boxId": "box-showroom-demo",
+    "price": 3281,
+    "regularPrice": 3281,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/32512670-1-produs.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/07/32512670-2-produs.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/07/32512670-3-ambient.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/07/32512670-4-desen-cotat.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/07/32512670-5-desen-cotat.jpg"
+    ],
+    "description": "Baterie de lavoar monocomanda inalta Hansgrohe Metropol 260, finisaj negru mat, cu maner tip parghie si ventil Push-Open G 1 1/4 inclus. Proiectie pipa 204 mm, evacuare la 259 mm, debit 5 l/min la 3 bar, pentru lavoare tip bol.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-lavoar-inalta-hansgrohe-metropol-260-32512670-proiectie-204-mm-ventil-push-open-negru-mat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
