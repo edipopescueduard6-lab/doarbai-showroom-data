@@ -29211,7 +29211,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 0,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
