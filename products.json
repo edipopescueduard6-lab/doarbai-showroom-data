@@ -72985,7 +72985,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36064",
@@ -73009,7 +73009,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36062",
@@ -73470,7 +73470,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36017",
@@ -73762,7 +73762,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35987",
@@ -74257,7 +74257,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35940",
@@ -74283,7 +74283,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35936",
@@ -74809,7 +74809,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35876",
@@ -75070,7 +75070,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35848",
@@ -75253,7 +75253,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-35829",
@@ -75384,5 +75384,80 @@
     "pdfPngs": [],
     "pdfPages": 0,
     "archived": true
+  },
+  {
+    "id": "prod-36205",
+    "name": "Baterie de bideu cu dus igienic patrat BOET crom",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii bideu si dus igienic, Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 325,
+    "regularPrice": 325,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-patrat-boet-crom-1.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-patrat-boet-crom-2.jpg"
+    ],
+    "description": "Baterie de bideu cu dus igienic lateral cu para patrata, finisaj crom. Setul cuprinde bateria de amestec, para de dus patrata, furtunul si suportul de perete. Se monteaza pe bideu sau in apropierea vasului de WC.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-bideu-dus-igienic/baterie-de-bideu-cu-dus-igienic-patrat-boet-crom/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-36203",
+    "name": "Baterie de bideu cu dus igienic BOET negru mat",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii bideu si dus igienic, Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 309,
+    "regularPrice": 309,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-boet-negru-mat-1.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-boet-crom-2.jpg"
+    ],
+    "description": "Baterie de bideu cu dus igienic lateral tubular, finisaj negru mat. Mecanism ceramic de 25 mm cu iesire dirijata si para de dus din alama cu buton de actionare. Debit de 10,5 l/min la presiunea de 3 bar.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-bideu-dus-igienic/baterie-de-bideu-cu-dus-igienic-boet-negru-mat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-36200",
+    "name": "Baterie de bideu cu dus igienic BOET crom",
+    "brand": "Baterii baie",
+    "category": "Baterii baie, Baterii bideu si dus igienic, Obiecte sanitare",
+    "boxId": "box-showroom-demo",
+    "price": 297,
+    "regularPrice": 297,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-boet-crom-1.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/baterie-de-bideu-cu-dus-igienic-boet-crom-2.jpg"
+    ],
+    "description": "Baterie de bideu cu dus igienic lateral tubular, finisaj crom. Mecanism ceramic de 25 mm cu iesire dirijata, para din alama cu buton si furtun din otel inoxidabil 304. Debit de 10,5 l/min la presiunea de 3 bar.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-bideu-dus-igienic/baterie-de-bideu-cu-dus-igienic-boet-crom/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
