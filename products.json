@@ -75510,5 +75510,28 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-33072",
+    "name": "Portprosop de perete din otel inoxidabil, negru mat",
+    "brand": "Accesorii baie",
+    "category": "Accesorii baie, Cuiere si suporturi prosoape",
+    "boxId": "box-showroom-demo",
+    "price": 992,
+    "regularPrice": 992,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/07/HBA1211-MB-unghi-stanga.jpg",
+    "gallery": [],
+    "description": "Portprosop de perete tip raft din otel inoxidabil, seria Havona BA12, finisaj negru mat, cu raft din bare paralele si bara inferioara pentru prosoape. Montaj pe perete, greutate 1,5 kg.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/accesorii-baie/portprosop-de-perete-din-otel-inoxidabil-negru-mat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
