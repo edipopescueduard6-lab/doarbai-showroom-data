@@ -40356,8 +40356,8 @@
     "brand": "Dusuri",
     "category": "Dusuri, Paravane de dus Walk-In",
     "boxId": "box-accesorii",
-    "price": 5605,
-    "regularPrice": 5605,
+    "price": 1505,
+    "regularPrice": 1505,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -65495,7 +65495,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-31941",
