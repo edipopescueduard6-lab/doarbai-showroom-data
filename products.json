@@ -42981,7 +42981,7 @@
       "/pdfs-png/prod-25248_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -43011,7 +43011,7 @@
       "/pdfs-png/prod-25240_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "sku": "BOET",
     "stock": null,
     "stockExact": false,
@@ -43044,7 +43044,7 @@
       "/pdfs-png/prod-25227_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "sku": "4083GBAC",
     "stock": null,
     "stockExact": false,
@@ -43075,7 +43075,7 @@
       "/pdfs-png/prod-25211_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "stock": 5,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -43105,7 +43105,7 @@
       "/pdfs-png/prod-25182_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "sku": "4089C",
     "stock": 5,
     "stockExact": false,
@@ -43136,7 +43136,7 @@
       "/pdfs-png/prod-25091_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "sku": "82430",
     "stock": 1,
     "stockExact": false,
@@ -43167,7 +43167,7 @@
       "/pdfs-png/prod-25080_p2.png"
     ],
     "pdfPages": 2,
-    "archived": false,
+    "archived": true,
     "stock": 1,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -55879,7 +55879,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z",
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-30768",
@@ -72907,7 +72907,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36070",
@@ -72934,7 +72934,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36068",
@@ -72961,7 +72961,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36066",
@@ -72985,7 +72985,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36064",
@@ -73009,7 +73009,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36062",
@@ -73033,7 +73033,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36060",
@@ -73057,7 +73057,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36058",
@@ -73081,7 +73081,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36055",
@@ -73108,7 +73108,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36053",
@@ -73135,7 +73135,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36051",
@@ -73187,7 +73187,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36047",
@@ -73213,7 +73213,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36045",
@@ -73237,7 +73237,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-36042",
@@ -75459,7 +75459,8 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-bideu-dus-igienic/baterie-de-bideu-cu-dus-igienic-boet-crom/",
     "pdfUrl": "",
     "pdfPngs": [],
-    "pdfPages": 0
+    "pdfPages": 0,
+    "archived": true
   },
   {
     "id": "prod-36208",
