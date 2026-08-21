@@ -22735,7 +22735,7 @@
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
-    "archived": false,
+    "archived": true,
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-06-03T08:40:35.474Z"
@@ -65537,7 +65537,7 @@
     "gallery": [],
     "description": "Paravanul de dus walk-in SanSwiss Easy STR4P are o latime nominala de 800 mm si inaltime de 2000 mm, cu sticla securizata ESG de 8 mm si profil din aluminiu cu finisaj aur periat.",
     "specs": {},
-    "inStock": false,
+    "inStock": true,
     "badge": null,
     "buyUrl": "https://doarbai.ro/produs/dusuri/paravane-de-dus-walk-in/paravan-dus-walk-in-ronal-sanswiss-easy-str4p-800x2000-mm-aur-periat-sticla-securizata-8mm-anticalcar/",
     "pdfUrl": "",
@@ -65715,7 +65715,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34799",
@@ -65741,7 +65741,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34805",
@@ -65767,7 +65767,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34811",
@@ -65793,7 +65793,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34777",
@@ -66013,7 +66013,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34830",
@@ -66037,7 +66037,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34828",
@@ -66085,7 +66085,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34820",
@@ -66109,7 +66109,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34817",
@@ -66135,7 +66135,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34826",
@@ -66159,7 +66159,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34814",
@@ -66185,7 +66185,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34808",
@@ -66211,7 +66211,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": false
+    "archived": true
   },
   {
     "id": "prod-34879",
@@ -66699,7 +66699,7 @@
     ],
     "description": "Dulap baza pentru lavoar Ideal Standard Eurovit+, cod R0259TI, 600x440x550 mm, finisaj gri mediu lucios. Montaj suspendat pe perete, 2 sertare exterioare cu inchidere amortizata, corp din MFC. Lavoarul nu este inclus si se comanda separat.",
     "specs": {},
-    "inStock": false,
+    "inStock": true,
     "badge": null,
     "buyUrl": "https://doarbai.ro/produs/mobilier-baie/dulap-baza-lavoar-ideal-standard-eurovit-r0259ti-600x440x550-mm-gri-mediu-2-sertare/",
     "pdfUrl": "",
@@ -73108,7 +73108,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36053",
@@ -73213,7 +73213,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36045",
@@ -75460,7 +75460,7 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0,
-    "archived": true
+    "archived": false
   },
   {
     "id": "prod-36208",
