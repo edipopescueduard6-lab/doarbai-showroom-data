@@ -78547,5 +78547,62 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-37376",
+    "name": "Coloana de dus Hansgrohe Croma Select S Showerpipe 280 EcoSmart cu termostat, bronz periat",
+    "brand": "Coloane de dus",
+    "category": "Coloane de dus, Sisteme de dus",
+    "boxId": "box-showroom-demo",
+    "price": 7438,
+    "regularPrice": 7438,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/26891140-1.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/26891140-2.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/26891140-3.jpg"
+    ],
+    "description": "Sistem de dus tip showerpipe Hansgrohe Croma Select S 280, articol 26891140, cu termostat Ecostat Comfort si para de mana Raindance Select S 120 3jet, finisaj bronz periat. Montaj aparent pe perete, racord DN 15 / G 1/2, debit 9 l/min la 3 bar (EcoSmart).",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/coloana-de-dus-hansgrohe-croma-select-s-showerpipe-280-ecosmart-cu-termostat-bronz-periat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
+  },
+  {
+    "id": "prod-37289",
+    "name": "Sistem de dus incastrat Hansgrohe Croma 280 cu termostat Ecostat S, negru mat",
+    "brand": "Sisteme de dus",
+    "category": "Sisteme de dus",
+    "boxId": "box-showroom-demo",
+    "price": 9186,
+    "regularPrice": 9186,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/27961670-1.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-2.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-3.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-4.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-5.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-6.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-7.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/27961670-8.jpg"
+    ],
+    "description": "Sistem de dus incastrat Hansgrohe Croma 280 cu baterie termostatata Ecostat S, palarie de dus de 280 mm cu 1 jet RainAir, brat de dus de 390 mm si para de dus cu 3 jeturi pe furtun Isiflex de 1250 mm. Racord G 1/2, presiune de functionare 1,5-6 bar, blocaj de siguranta la 40 grade C, finisaj negru mat.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/sisteme-de-dus/sistem-de-dus-incastrat-hansgrohe-croma-280-cu-termostat-ecostat-s-negru-mat/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
