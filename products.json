@@ -78519,5 +78519,33 @@
     "pdfUrl": "",
     "pdfPngs": [],
     "pdfPages": 0
+  },
+  {
+    "id": "prod-37240",
+    "name": "Vas WC pe pardoseala Ideal Standard i.Life S T459401, 355x480x400 mm, back-to-wall, RimLS+, alb lucios",
+    "brand": "Vase wc",
+    "category": "Vase wc",
+    "boxId": "box-showroom-demo",
+    "price": 909,
+    "regularPrice": 909,
+    "salePrice": null,
+    "onSale": false,
+    "discountPct": 0,
+    "currency": "RON",
+    "image": "https://doarbai.ro/wp-content/uploads/2026/08/t459401-1-produs.jpg",
+    "gallery": [
+      "https://doarbai.ro/wp-content/uploads/2026/08/t459401-2-produs.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/t459401-3-produs.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/t459401-4-ambient.jpg",
+      "https://doarbai.ro/wp-content/uploads/2026/08/t459401-5-desen-cotat.jpg"
+    ],
+    "description": "Vas WC pe pardoseala din portelan vitros, colectia Ideal Standard i.Life S, finisaj alb lucios. Dimensiuni 355 x 480 x 400 mm, montaj lipit de perete (back-to-wall), tehnologie RimLS+ fara rama, spalare washdown 6 / 4,5 l si evacuare orizontala de 102 mm. Capacul WC si rezervorul nu sunt incluse.",
+    "specs": {},
+    "inStock": true,
+    "badge": null,
+    "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/vase-wc/vas-wc-pe-pardoseala-ideal-standard-i-life-s-t459401-355x480x400-mm-back-to-wall-rimls-alb-lucios/",
+    "pdfUrl": "",
+    "pdfPngs": [],
+    "pdfPages": 0
   }
 ]
