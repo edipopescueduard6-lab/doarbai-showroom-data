@@ -76082,8 +76082,8 @@
     "brand": "Obiecte sanitare",
     "category": "Obiecte sanitare",
     "boxId": "box-showroom-demo",
-    "price": 0,
-    "regularPrice": 0,
+    "price": 47,
+    "regularPrice": 47,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -79337,7 +79337,8 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-bideu-dus-igienic/baterie-bideu-hansgrohe-logis-71201617-monocomanda-ecosmart-ventil-pop-up-negru-mat/",
     "pdfUrl": "",
     "pdfPngs": [],
-    "pdfPages": 0
+    "pdfPages": 0,
+    "archived": true
   },
   {
     "id": "prod-35650",
