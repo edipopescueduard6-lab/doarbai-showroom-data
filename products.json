@@ -21499,7 +21499,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-24T04:00:34.709Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "dedfdf3840e2183a",
     "stockUnit": "buc"
