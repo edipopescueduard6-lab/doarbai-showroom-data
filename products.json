@@ -2341,7 +2341,7 @@
     "stock": 1.62,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-24T04:00:34.709Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "1ca081bdf5cfeb71",
     "stockUnit": "m²"
@@ -48631,7 +48631,7 @@
     "stockExact": true,
     "stockUpdatedAt": "2026-09-24T04:00:34.709Z",
     "archived": false,
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "56c6631db82ed971",
     "stockUnit": "buc"
@@ -49658,7 +49658,7 @@
     "id": "prod-31101",
     "name": "Baterie lavoar incastrata TUBE Negru Cromat Boet",
     "brand": "Boet",
-    "category": "Baterii Baie, Baterii baie, Baterii lavoar",
+    "category": "Baterii baie, Baterii Baie, Baterii lavoar",
     "boxId": "box-showroom-demo",
     "price": 1125,
     "regularPrice": 1125,
