@@ -41285,7 +41285,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": null,
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "dc8cd1260eba6618"
   },
