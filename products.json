@@ -881,7 +881,7 @@
     "stock": 1.59,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-30T04:01:00.557Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "06f2701f2dd563e3",
     "stockUnit": "m²"
@@ -6461,7 +6461,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-30T04:01:00.557Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "dfe7707fa3c15ec0",
     "stockUnit": "buc",
@@ -20357,7 +20357,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-30T04:01:00.557Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "7418735986cc89b8",
     "stockUnit": "buc"
@@ -32644,7 +32644,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-09-30T04:01:00.557Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "8ea611c8595d56c7",
     "stockUnit": "buc"
