@@ -48611,7 +48611,7 @@
     "stockExact": true,
     "stockUpdatedAt": "2026-10-05T04:01:08.090Z",
     "archived": false,
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "72aa2b73c660aac6",
     "stockUnit": "buc"
@@ -49564,7 +49564,7 @@
     "stockExact": true,
     "stockUpdatedAt": "2026-10-05T04:01:08.090Z",
     "archived": false,
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "f45041989c9f4b8d",
     "stockUnit": "buc"
