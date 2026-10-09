@@ -72809,7 +72809,7 @@
     "buyUrl": "https://doarbai.ro/produs/implicit/produs-test-plata-aplicatie-nu-livra/",
     "sku": "TEST-PLATA-APP",
     "badge": null,
-    "archived": true,
+    "archived": false,
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": null,
