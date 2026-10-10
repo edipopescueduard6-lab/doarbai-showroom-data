@@ -2307,7 +2307,7 @@
     "stock": 2.14,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-10T04:00:55.490Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "0e88212d9c0e5f53",
     "stockUnit": "m²"
@@ -2338,7 +2338,7 @@
     "stock": 1.5,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-10T04:00:55.490Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "1ca081bdf5cfeb71",
     "stockUnit": "m²"
