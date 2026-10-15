@@ -23112,7 +23112,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-15T04:01:08.668Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "4db6d7ca9ef8613d",
     "stockUnit": "buc"
@@ -70151,7 +70151,7 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterie-de-cada-freestanding-tube-boet-cupru-periat/",
     "archived": false,
     "sku": "1000000014518",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "6f2f859f801f9fa0",
     "stock": 1,
