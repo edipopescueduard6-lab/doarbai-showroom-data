@@ -74063,7 +74063,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "78160684c1c840ce",
     "stockUnit": "buc"
