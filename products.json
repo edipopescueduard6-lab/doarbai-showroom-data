@@ -2028,7 +2028,7 @@
     "stock": 0.81,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "fce84b7201abc8d5",
     "stockUnit": "m²"
@@ -2307,7 +2307,7 @@
     "stock": 2.14,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "0e88212d9c0e5f53",
     "stockUnit": "m²"
@@ -2338,7 +2338,7 @@
     "stock": 1.5,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "1ca081bdf5cfeb71",
     "stockUnit": "m²"
@@ -2431,7 +2431,7 @@
     "stock": 0.28,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "d04600c79b8bf3fa",
     "stockUnit": "m²"
@@ -2462,7 +2462,7 @@
     "stock": 0.72,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "b326ce23539608a7",
     "stockUnit": "m²"
@@ -74063,7 +74063,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-19T04:00:58.177Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "78160684c1c840ce",
     "stockUnit": "buc"
