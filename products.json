@@ -4487,7 +4487,7 @@
       "https://doarbai.ro/wp-content/uploads/2026/03/js-2026-03-13T224415.403.jpg"
     ],
     "description": "Capac WC TECE Slim, design subțire și elegant, compatibil cu vasele WC TECE (inclusiv cu bideu). Prevăzut cu tehnologie pre-fix pentru montaj rapid și stabil.\n\nCapacul WC TECE Slim este conceput pentru a completa perfect vasele WC TECE, oferind un design modern și minimalist. Forma sa slim, subțire și elegantă, se integrează armonios în băile contemporane, contribuind la un aspect curat și rafinat.\n\nCapacul este realizat din materiale rezistente și durabile, concepute pentru utilizare zilnică îndelungată. Sistemul pre-fix permite o instalare rapidă și stabilă pe vasul WC, facilitând atât montajul, cât și demontarea pentru curățare sau întreținere.\n\nDatorită designului ergonomic și suprafeței netede, capacul este ușor de întreținut și oferă un nivel ridicat de confort în utilizare. Este compatibil cu vasele WC TECE, inclusiv modelele cu funcție de bideu, fiind o alegere ideală pentru sistemele moderne de baie.\n\n## Caracteristici principale ##\n\n• design slim, modern și elegant\n• compatibil cu vasele WC TECE (inclusiv cele cu bideu)\n• tehnologie pre-fix pentru montaj rapid\n• construcție durabilă pentru utilizare îndelungată\n• suprafață ușor de curățat\n• ideal pentru băi moderne și minimaliste",
-    "inStock": true,
+    "inStock": false,
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/capace-wc/capac-de-wc-tece-slim/",
     "sku": "4027255097315",
     "badge": "NOU",
@@ -4499,7 +4499,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": null,
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "ec3529a152886ba5"
   },
@@ -12300,7 +12300,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-27T04:00:46.056Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "3f715382259e350c",
     "stockUnit": "buc"
@@ -41912,7 +41912,7 @@
   },
   {
     "id": "prod-26537",
-    "name": "Baterie bideu, fara ventil, Graff Immersion",
+    "name": "Baterie bideu, fara ventil, Graff Immersion,",
     "brand": "Graff",
     "category": "Baterii baie, Baterii bideu si dus igienic",
     "boxId": "box-showroom-demo",
