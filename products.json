@@ -7202,7 +7202,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-28T04:00:46.692Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "5dba42322d888a78",
     "stockUnit": "buc",
