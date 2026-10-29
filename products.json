@@ -20500,7 +20500,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-29T04:00:45.354Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "7418735986cc89b8",
     "stockUnit": "buc"
@@ -21137,7 +21137,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-29T04:00:45.354Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "e3bac6447ac025e2",
     "stockUnit": "buc"
@@ -30335,7 +30335,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-29T04:00:45.354Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "c175b79058abb5a5",
     "stockUnit": "buc"
@@ -40891,7 +40891,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-29T04:00:45.354Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "bc7f82beda0a9d1a",
     "stockUnit": "buc"
@@ -44501,7 +44501,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": null,
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "1eb8217f621ce1e5"
   },
@@ -64553,7 +64553,7 @@
     "buyUrl": "https://doarbai.ro/produs/baterii-baie/baterii-lavoar/baterie-de-lavoar-inalta-kali-boet-crom/",
     "archived": false,
     "sku": "1000000010428",
-    "stockStatus": "onbackorder",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "ab0c025bd03a3b99",
     "stock": 0,
@@ -68191,7 +68191,7 @@
     "buyUrl": "https://doarbai.ro/produs/obiecte-sanitare/bideuri/bideu-stativ-simas-juniper-rubino/",
     "archived": false,
     "sku": "1000000007954",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "9f072f0860eded99",
     "stock": 1,
@@ -73935,7 +73935,7 @@
       "Inaltime": "140 mm",
       "Diametru orificiu": "90 mm"
     },
-    "inStock": false,
+    "inStock": true,
     "buyUrl": "https://doarbai.ro/produs/dusuri/cadite-pentru-dus/cadita-de-dus-new-trendy-columbus-b-0240-100x80x14-cm-acril-alb/",
     "sku": "5902012182123",
     "badge": null,
@@ -73943,7 +73943,7 @@
     "stock": null,
     "stockExact": false,
     "stockUpdatedAt": null,
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "a3564304eea37b69"
   },
