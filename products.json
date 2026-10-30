@@ -2245,7 +2245,7 @@
     "stock": 52.87,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-30T04:00:53.135Z",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "0fcdbac62f43dec0",
     "stockUnit": "m²"
@@ -15664,7 +15664,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-10-30T04:00:53.135Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "b451e2c54d4a5480",
     "stockUnit": "buc"
