@@ -2245,7 +2245,7 @@
     "stock": 16.87,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-03T04:00:51.597Z",
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "0fcdbac62f43dec0",
     "stockUnit": "m²"
