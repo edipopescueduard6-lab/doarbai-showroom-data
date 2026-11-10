@@ -24237,7 +24237,7 @@
     "brand": "Boet",
     "category": "Coloane de dus, Sisteme de dus",
     "boxId": "box-zona-dus",
-    "price": 953,
+    "price": 1294,
     "currency": "RON",
     "image": "https://doarbai.ro/wp-content/uploads/2025/12/82430-3.webp",
     "gallery": [
@@ -24253,7 +24253,7 @@
       "Culoare": "Gri",
       "Finisaj": "Cromat"
     },
-    "regularPrice": 953,
+    "regularPrice": 1294,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
@@ -44692,7 +44692,7 @@
     "gallery": [
       "https://doarbai.ro/wp-content/uploads/2026/04/Promotie-Cada-lavoar-2026-04-20T122723.489-1.jpg"
     ],
-    "description": "Oglinda rectangulara cu iluminare LED integrata si control touch, prevazuta cu polita practica pentru depozitare rapida. Ofera lumina uniforma si organizare eficienta langa lavoar.\n\nPrezența este discretă și bine controlată, potrivită pentru băi unde detaliile sunt alese atent. Rama subțire conturează suprafața oglinzii fără a domina compoziția, iar polița integrată aduce un loc util pentru obiecte uzuale. Iluminarea LED din spate oferă o lumină uniformă, potrivită pentru activități zilnice. Sistemul touch permite control rapid, fără elemente vizibile suplimentare.\n\nFormă: rectangulară\nIluminare: LED retroiluminare\nControl: touch\nRama: inclusă\nPoliță: integrată\nMontaj: pe perete\nColecție: Brunelleschi",
+    "description": "Oglinda rectangulara 50*90 cu iluminare LED integrata si control touch, prevazuta cu polita practica pentru depozitare rapida. Ofera lumina uniforma si organizare eficienta langa lavoar.\n\nPrezența este discretă și bine controlată, potrivită pentru băi unde detaliile sunt alese atent. Rama subțire conturează suprafața oglinzii fără a domina compoziția, iar polița integrată aduce un loc util pentru obiecte uzuale. Iluminarea LED din spate oferă o lumină uniformă, potrivită pentru activități zilnice. Sistemul touch permite control rapid, fără elemente vizibile suplimentare.\n\nFormă: rectangulară 50*90\nIluminare: LED retroiluminare\nControl: touch\nRama: inclusă\nPoliță: integrată\nMontaj: pe perete\nColecție: Brunelleschi",
     "specs": {},
     "inStock": true,
     "badge": null,
@@ -44704,7 +44704,7 @@
     "stockUpdatedAt": "2026-11-10T04:01:11.845Z",
     "stockStatus": "instock",
     "isVariation": false,
-    "wcDescHash": "2f54783e0d590b19",
+    "wcDescHash": "4f6220f81481e704",
     "stockUnit": "buc"
   },
   {
