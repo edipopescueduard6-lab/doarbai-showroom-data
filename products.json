@@ -18462,7 +18462,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-11T04:00:57.003Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "30e111def653770b",
     "stockUnit": "buc"
@@ -20501,7 +20501,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-11T04:00:57.003Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "7418735986cc89b8",
     "stockUnit": "buc"
@@ -61361,8 +61361,8 @@
     "brand": "Ronal Group",
     "category": "Dusuri, Paravane de dus Walk-In",
     "boxId": "box-showroom-demo",
-    "price": 0,
-    "regularPrice": 0,
+    "price": 1734,
+    "regularPrice": 1734,
     "salePrice": null,
     "onSale": false,
     "discountPct": 0,
