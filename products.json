@@ -5755,7 +5755,7 @@
   },
   {
     "id": "prod-26684",
-    "name": "Suport prosop cu raft negru, Havona",
+    "name": "Suport prosop cu raft negru, Havona, BA-R15",
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
@@ -5811,7 +5811,7 @@
   },
   {
     "id": "prod-26672",
-    "name": "Suport prosop cu raft negru Havona",
+    "name": "Suport prosop cu raft negru, Havona, BA-R13",
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
@@ -6002,7 +6002,7 @@
   },
   {
     "id": "prod-26615",
-    "name": "Raft baie din tavan, negru, Havona",
+    "name": "Raft baie din tavan, negru, Havona, 2203H",
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
@@ -6130,7 +6130,7 @@
   },
   {
     "id": "prod-26608",
-    "name": "Raft baie din tavan, negru, Havona",
+    "name": "Raft baie din tavan, negru, Havona, 2201H",
     "brand": "Havona",
     "category": "Accesorii baie",
     "boxId": "",
@@ -7411,7 +7411,7 @@
   },
   {
     "id": "prod-26363",
-    "name": "Suport prosop baie negru auriu Havona",
+    "name": "Suport prosop baie, negru-auriu, Havona, SD-1705",
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "",
@@ -7508,7 +7508,7 @@
   },
   {
     "id": "prod-26357",
-    "name": "Perie WC perete Havona",
+    "name": "Perie WC perete, Havona, SD-1707",
     "brand": "Havona",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "",
@@ -8623,7 +8623,7 @@
   },
   {
     "id": "prod-26175",
-    "name": "Perie WC aurie Havona",
+    "name": "Perie WC aurie, Havona, VSP-11",
     "brand": "Havona",
     "category": "Accesorii baie, Accesorii toaleta",
     "boxId": "",
@@ -8689,7 +8689,7 @@
   },
   {
     "id": "prod-26146",
-    "name": "Suport prosop raft baie auriu Havona",
+    "name": "Suport prosop raft baie auriu, Havona, VSP-09",
     "brand": "Havona",
     "category": "Accesorii baie, Cuiere si suporturi prosoape",
     "boxId": "box-showroom-demo",
@@ -15457,7 +15457,7 @@
   },
   {
     "id": "prod-24761",
-    "name": "Raft încastrat Havona, negru antracit, finisaj periat, pentru baie 300 × 900 × 100 mm",
+    "name": "Raft încastrat Havona, negru antracit, finisaj periat, 300×900×100 mm, YX-SSN3090-G",
     "brand": "Havona",
     "category": "Mobilier baie, Rafturi incastrate",
     "boxId": "box-mobilier",
@@ -20541,7 +20541,7 @@
   },
   {
     "id": "prod-24027",
-    "name": "Raft incastrat HAVONA 900 x 300 x 100",
+    "name": "Raft incastrat HAVONA 900x300x100, YX-SSN9030-B",
     "brand": "Havona",
     "category": "Mobilier baie, Rafturi incastrate",
     "boxId": "box-mobilier",
@@ -23111,7 +23111,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-12T04:00:51.605Z",
-    "stockStatus": "onbackorder",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "4db6d7ca9ef8613d",
     "stockUnit": "buc"
