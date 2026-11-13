@@ -3186,7 +3186,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-13T04:00:48.172Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "952c9c591ebb73ca",
     "stockUnit": "buc",
@@ -29804,7 +29804,7 @@
     "stock": 3,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-13T04:00:48.172Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "70ec759d884b81b3",
     "stockUnit": "buc"
@@ -29878,7 +29878,7 @@
     "stock": 2,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-13T04:00:48.172Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "1e5c498ec4c239c8",
     "stockUnit": "buc"
@@ -32863,7 +32863,7 @@
     "stock": 0,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-13T04:00:48.172Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "73780afaaa8403bc",
     "stockUnit": "buc"
