@@ -48416,7 +48416,7 @@
     "specs": {
       "Forta de operare": "< 20 N"
     },
-    "inStock": false,
+    "inStock": true,
     "badge": null,
     "buyUrl": "https://doarbai.ro/produs/accesorii/alca/clapeta-comanda-pentru-rezervor-alb-alca/",
     "sku": "M70",
@@ -48424,7 +48424,7 @@
     "stockExact": false,
     "stockUpdatedAt": null,
     "archived": false,
-    "stockStatus": "outofstock",
+    "stockStatus": "instock",
     "isVariation": false,
     "wcDescHash": "201b3bb915e34882"
   },
