@@ -15306,7 +15306,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-23T04:00:53.976Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "0481445b3d405cfa",
     "stockUnit": "buc"
@@ -21753,7 +21753,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-23T04:00:53.976Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "f40ff2ff20e71064",
     "stockUnit": "buc"
@@ -64725,7 +64725,7 @@
     "buyUrl": "https://doarbai.ro/produs/accesorii-baie/sifoane-ventile-si-racorduri/ventil-click-clack-boet-cupru-periat/",
     "archived": false,
     "sku": "1000000010404",
-    "stockStatus": "instock",
+    "stockStatus": "outofstock",
     "isVariation": false,
     "wcDescHash": "9bbbe47cd34e2245",
     "stock": 3,
