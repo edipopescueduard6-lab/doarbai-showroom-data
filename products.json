@@ -148,7 +148,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "ff47f07838cc04be",
     "stockUnit": "buc"
@@ -16284,7 +16284,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "096f0df8cf99e767",
     "stockUnit": "buc"
@@ -16318,7 +16318,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "ae0e1b6754c4017d",
     "stockUnit": "buc"
@@ -16350,7 +16350,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "71db3866a246f7de",
     "stockUnit": "buc"
@@ -16384,7 +16384,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "a42eed563cd33052",
     "stockUnit": "buc"
@@ -16416,7 +16416,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "be7ab8a1215bc9bf",
     "stockUnit": "buc"
@@ -16517,7 +16517,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "e51c9d96ed6441c9",
     "stockUnit": "buc"
@@ -16616,7 +16616,7 @@
     "stock": 1,
     "stockExact": true,
     "stockUpdatedAt": "2026-11-25T04:00:55.411Z",
-    "stockStatus": "instock",
+    "stockStatus": "onbackorder",
     "isVariation": false,
     "wcDescHash": "4f937770c19cc8eb",
     "stockUnit": "buc"
